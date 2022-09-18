@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://fantasy.nrl.com/data/nrl/players.json | jq . > players.json
+        curl -compressed https://fantasy.nrl.com/data/nrl/players.json | jq . > players.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
