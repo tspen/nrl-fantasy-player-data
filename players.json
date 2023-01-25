@@ -27417,7 +27417,7 @@
     "last_name": "Otukolo",
     "squad_id": 500032,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000
@@ -29496,7 +29496,7 @@
     "last_name": "Kepu",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 230000
@@ -29983,6 +29983,70 @@
     "locked": 0
   },
   {
+    "id": 500960,
+    "first_name": "Martin",
+    "last_name": "Taupau",
+    "squad_id": 500011,
+    "cost": 536000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 536000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 21,
+      "total_points": 788,
+      "avg_points": 37.5,
+      "high_score": 62,
+      "low_score": 16,
+      "last_3_avg": 48.7,
+      "last_5_avg": 45.8,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 36.9884,
+      "round_wpr": {
+        "1": 36.9884
+      },
+      "rd_tog": "",
+      "tog": 38,
+      "career_avg": 45.9663,
+      "career_avg_vs": {
+        "500001": 42.2857,
+        "500002": 38.75,
+        "500003": 49.0714,
+        "500004": 44.1429,
+        "500005": 43.6667,
+        "500010": 50,
+        "500011": 47.9,
+        "500012": 47.75,
+        "500013": 46.7333,
+        "500014": 48.9231,
+        "500021": 44.5385,
+        "500022": 40.7143,
+        "500023": 50.8333,
+        "500028": 42.0909,
+        "500031": 44.1765,
+        "500032": 49.4286
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 502214,
     "first_name": "John",
     "last_name": "Bateman",
@@ -30043,6 +30107,61 @@
     ],
     "original_positions": [
       3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 506081,
+    "first_name": "Treymain",
+    "last_name": "Spry",
+    "squad_id": 500004,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.252,
+      "round_wpr": {
+        "1": 17.252
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 25.6,
+      "career_avg_vs": {
+        "500002": 29,
+        "500003": 58,
+        "500011": 15,
+        "500021": 8,
+        "500032": 18
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      6
+    ],
+    "original_positions": [
+      5,
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
