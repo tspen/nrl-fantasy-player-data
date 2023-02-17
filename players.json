@@ -30465,6 +30465,55 @@
     "locked": 0
   },
   {
+    "id": 100003896,
+    "first_name": "Jack",
+    "last_name": "Cole",
+    "squad_id": 500014,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 1,
+      "total_points": 3,
+      "avg_points": 3,
+      "high_score": 3,
+      "low_score": 3,
+      "last_3_avg": 3,
+      "last_5_avg": 3,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 15.8719,
+      "round_wpr": {
+        "1": 15.8719
+      },
+      "rd_tog": "",
+      "tog": 19,
+      "career_avg": 3,
+      "career_avg_vs": {
+        "500012": 3
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100004700,
     "first_name": "Daniel",
     "last_name": "Atkinson",
