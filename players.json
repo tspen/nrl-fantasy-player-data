@@ -29857,6 +29857,53 @@
     "locked": 0
   },
   {
+    "id": 500168,
+    "first_name": "Bronson",
+    "last_name": "Garlick",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 15.8719,
+      "round_wpr": {
+        "1": 15.8719
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500237,
     "first_name": "Josh",
     "last_name": "Reynolds",
@@ -30533,6 +30580,59 @@
     ],
     "original_positions": [
       4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 505402,
+    "first_name": "Isaac",
+    "last_name": "Lumelume",
+    "squad_id": 500031,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.252,
+      "round_wpr": {
+        "1": 17.252
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 31.6,
+      "career_avg_vs": {
+        "500002": 33,
+        "500005": 19,
+        "500022": 29,
+        "500028": 32,
+        "500031": 45
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
