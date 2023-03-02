@@ -1428,7 +1428,7 @@
         "res": 0.19
       },
       "owned_by": 5.58,
-      "adp": 18,
+      "adp": 17,
       "proj_avg": 54.11,
       "wpr": 53.2053,
       "round_wpr": {
@@ -2025,7 +2025,7 @@
         "res": 0.33
       },
       "owned_by": 9.14,
-      "adp": 17,
+      "adp": 18,
       "proj_avg": 51.23,
       "wpr": 50.376,
       "round_wpr": {
@@ -2757,7 +2757,7 @@
         "res": 0.25
       },
       "owned_by": 5.02,
-      "adp": 46,
+      "adp": 45,
       "proj_avg": 48.49,
       "wpr": 47.6846,
       "round_wpr": {
@@ -4350,7 +4350,7 @@
         "res": 0.05
       },
       "owned_by": 0.6,
-      "adp": 83,
+      "adp": 82,
       "proj_avg": 44.84,
       "wpr": 44.0962,
       "round_wpr": {
@@ -4615,7 +4615,7 @@
         "res": 0.29
       },
       "owned_by": 12.49,
-      "adp": 45,
+      "adp": 46,
       "proj_avg": 44.77,
       "wpr": 44.0272,
       "round_wpr": {
@@ -6002,7 +6002,7 @@
         "res": 0.07
       },
       "owned_by": 0.63,
-      "adp": 82,
+      "adp": 83,
       "proj_avg": 42.6,
       "wpr": 41.888,
       "round_wpr": {
@@ -6590,7 +6590,7 @@
         "res": 0.22
       },
       "owned_by": 0.67,
-      "adp": 116,
+      "adp": 115,
       "proj_avg": 41.68,
       "wpr": 40.9909,
       "round_wpr": {
@@ -7521,7 +7521,7 @@
         "res": 0.03
       },
       "owned_by": 0.16,
-      "adp": 143,
+      "adp": 142,
       "proj_avg": 40.07,
       "wpr": 39.4037,
       "round_wpr": {
@@ -7787,7 +7787,7 @@
         "res": 0.23
       },
       "owned_by": 5.3,
-      "adp": 123,
+      "adp": 122,
       "proj_avg": 40,
       "wpr": 39.3347,
       "round_wpr": {
@@ -8253,7 +8253,7 @@
         "res": 0.06
       },
       "owned_by": 0.8,
-      "adp": 122,
+      "adp": 123,
       "proj_avg": 39.51,
       "wpr": 38.8516,
       "round_wpr": {
@@ -10691,7 +10691,7 @@
         "res": 0.05
       },
       "owned_by": 1.16,
-      "adp": 166,
+      "adp": 165,
       "proj_avg": 36.7,
       "wpr": 36.0913,
       "round_wpr": {
@@ -11423,7 +11423,7 @@
         "res": 0.09
       },
       "owned_by": 0.31,
-      "adp": 208,
+      "adp": 207,
       "proj_avg": 35.37,
       "wpr": 34.7801,
       "round_wpr": {
@@ -11677,7 +11677,7 @@
         "res": 0.1
       },
       "owned_by": 1.99,
-      "adp": 165,
+      "adp": 166,
       "proj_avg": 35.09,
       "wpr": 34.5041,
       "round_wpr": {
@@ -13113,7 +13113,7 @@
         "res": 11.89
       },
       "owned_by": 22.7,
-      "adp": 142,
+      "adp": 143,
       "proj_avg": 33.61,
       "wpr": 33.0549,
       "round_wpr": {
@@ -13884,7 +13884,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 457000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 457000
@@ -13973,7 +13973,7 @@
         "res": 0.42
       },
       "owned_by": 1.33,
-      "adp": 235,
+      "adp": 234,
       "proj_avg": 32,
       "wpr": 31.4677,
       "round_wpr": {
@@ -14174,7 +14174,7 @@
         "res": 7.39
       },
       "owned_by": 37.84,
-      "adp": 115,
+      "adp": 116,
       "proj_avg": 31.79,
       "wpr": 31.2607,
       "round_wpr": {
@@ -15483,7 +15483,7 @@
         "res": 4.41
       },
       "owned_by": 8.18,
-      "adp": 207,
+      "adp": 209,
       "proj_avg": 29.89,
       "wpr": 29.3975,
       "round_wpr": {
@@ -16734,7 +16734,7 @@
         "res": 0.47
       },
       "owned_by": 3.29,
-      "adp": 251,
+      "adp": 250,
       "proj_avg": 28.21,
       "wpr": 27.7413,
       "round_wpr": {
@@ -17313,7 +17313,7 @@
     "last_name": "Watene-Zelezniak",
     "squad_id": 500032,
     "cost": 394000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 394000
@@ -17643,7 +17643,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 389000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 389000
@@ -17666,7 +17666,7 @@
         "res": 0.08
       },
       "owned_by": 0.22,
-      "adp": 285,
+      "adp": 286,
       "proj_avg": 27.3,
       "wpr": 26.8442,
       "round_wpr": {
@@ -18367,7 +18367,7 @@
         "res": 0.08
       },
       "owned_by": 0.23,
-      "adp": 286,
+      "adp": 285,
       "proj_avg": 26.11,
       "wpr": 25.671,
       "round_wpr": {
@@ -18700,7 +18700,7 @@
         "res": 0.32
       },
       "owned_by": 1.57,
-      "adp": 250,
+      "adp": 251,
       "proj_avg": 26.11,
       "wpr": 25.671,
       "round_wpr": {
@@ -19020,7 +19020,7 @@
         "res": 1.12
       },
       "owned_by": 3.14,
-      "adp": 234,
+      "adp": 235,
       "proj_avg": 26.11,
       "wpr": 25.671,
       "round_wpr": {
@@ -19609,7 +19609,7 @@
         "res": 1.76
       },
       "owned_by": 8.4,
-      "adp": 209,
+      "adp": 208,
       "proj_avg": 25.96,
       "wpr": 25.533,
       "round_wpr": {
@@ -22528,7 +22528,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000
@@ -27852,7 +27852,7 @@
     "last_name": "Lucas",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
@@ -29257,7 +29257,7 @@
     "last_name": "Hodgson",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
@@ -30757,7 +30757,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
