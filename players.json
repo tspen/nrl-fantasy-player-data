@@ -6407,7 +6407,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 600000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000
@@ -13817,7 +13817,7 @@
     "last_name": "Davey",
     "squad_id": 500010,
     "cost": 463000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 463000
@@ -20595,7 +20595,7 @@
     "last_name": "Host",
     "squad_id": 500005,
     "cost": 348000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 348000
@@ -30048,7 +30048,7 @@
     "last_name": "Reynolds",
     "squad_id": 500010,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
