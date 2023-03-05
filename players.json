@@ -18158,7 +18158,7 @@
     "last_name": "Turpin",
     "squad_id": 500001,
     "cost": 391000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 391000
@@ -20488,7 +20488,7 @@
     "last_name": "Baker",
     "squad_id": 500001,
     "cost": 365000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 365000
@@ -23579,7 +23579,7 @@
     "last_name": "Jennings",
     "squad_id": 500723,
     "cost": 309000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 309000
@@ -31364,7 +31364,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000
