@@ -2916,7 +2916,7 @@
         "res": 0.16
       },
       "owned_by": 1.17,
-      "adp": 41,
+      "adp": 42,
       "proj_avg": 48.77,
       "wpr": 48.214,
       "round_wpr": {
@@ -4004,7 +4004,7 @@
         "res": 1.1
       },
       "owned_by": 10.62,
-      "adp": 42,
+      "adp": 41,
       "proj_avg": 46.25,
       "wpr": 47.6034,
       "round_wpr": {
@@ -7691,7 +7691,7 @@
     "last_name": "Radley",
     "squad_id": 500001,
     "cost": 550000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 576000,
@@ -10581,7 +10581,7 @@
         "res": 0.24
       },
       "owned_by": 1.17,
-      "adp": 166,
+      "adp": 165,
       "proj_avg": 37.4,
       "wpr": 36.2163,
       "round_wpr": {
@@ -11647,7 +11647,7 @@
         "res": 0.36
       },
       "owned_by": 5.65,
-      "adp": 165,
+      "adp": 166,
       "proj_avg": 36.28,
       "wpr": 35.3708,
       "round_wpr": {
@@ -22737,7 +22737,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 337000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 337000,
@@ -24207,7 +24207,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -33021,7 +33021,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
