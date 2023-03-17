@@ -8375,7 +8375,7 @@
     "last_name": "Sexton",
     "squad_id": 500004,
     "cost": 573000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 573000,
@@ -10300,7 +10300,7 @@
         "res": 0.23
       },
       "owned_by": 3.02,
-      "adp": 143,
+      "adp": 144,
       "proj_avg": 38.6,
       "wpr": 38.5937,
       "round_wpr": {
@@ -15515,7 +15515,7 @@
         "res": 0.03
       },
       "owned_by": 0.14,
-      "adp": 237,
+      "adp": 238,
       "proj_avg": 33.12,
       "wpr": 32.9342,
       "round_wpr": {
@@ -17427,7 +17427,7 @@
         "res": 1.09
       },
       "owned_by": 5.69,
-      "adp": 238,
+      "adp": 237,
       "proj_avg": 29.89,
       "wpr": 37.218,
       "round_wpr": {
@@ -21767,7 +21767,7 @@
         "res": 2.24
       },
       "owned_by": 38.79,
-      "adp": 144,
+      "adp": 143,
       "proj_avg": 26.11,
       "wpr": 31.5687,
       "round_wpr": {
@@ -24503,7 +24503,7 @@
     "last_name": "Pene",
     "squad_id": 500021,
     "cost": 320000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 320000,
@@ -27758,7 +27758,7 @@
     "last_name": "Grant",
     "squad_id": 500021,
     "cost": 266000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -33572,7 +33572,7 @@
     "last_name": "Garlick",
     "squad_id": 500021,
     "cost": 273000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -33868,7 +33868,7 @@
     "last_name": "Tonumaipea",
     "squad_id": 500021,
     "cost": 348000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -34649,7 +34649,7 @@
     "last_name": "Spry",
     "squad_id": 500004,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -34713,7 +34713,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 238000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 250000,
@@ -35550,7 +35550,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
