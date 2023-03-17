@@ -6387,7 +6387,7 @@
         "res": 0.07
       },
       "owned_by": 0.49,
-      "adp": 103,
+      "adp": 104,
       "proj_avg": 43.09,
       "wpr": 42.2557,
       "round_wpr": {
@@ -8549,7 +8549,7 @@
         "res": 0.16
       },
       "owned_by": 0.91,
-      "adp": 142,
+      "adp": 141,
       "proj_avg": 40.07,
       "wpr": 41.739,
       "round_wpr": {
@@ -9697,7 +9697,7 @@
         "res": 1.76
       },
       "owned_by": 6.22,
-      "adp": 141,
+      "adp": 142,
       "proj_avg": 39.37,
       "wpr": 38.0935,
       "round_wpr": {
@@ -10821,7 +10821,7 @@
         "res": 0.08
       },
       "owned_by": 0.58,
-      "adp": 173,
+      "adp": 172,
       "proj_avg": 37.68,
       "wpr": 39.4978,
       "round_wpr": {
@@ -11613,7 +11613,7 @@
     "id": 500647,
     "first_name": "Nathan",
     "last_name": "Brown",
-    "squad_id": 500031,
+    "squad_id": 500001,
     "cost": 529000,
     "status": "not-playing",
     "stats": {
@@ -11675,8 +11675,8 @@
       2
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500031,
+    "transfer_round": 3,
     "is_bye": 0,
     "locked": 1
   },
@@ -12477,7 +12477,7 @@
         "res": 0.14
       },
       "owned_by": 0.93,
-      "adp": 172,
+      "adp": 173,
       "proj_avg": 35.79,
       "wpr": 32.5596,
       "round_wpr": {
@@ -15663,7 +15663,7 @@
         "res": 0.02
       },
       "owned_by": 0.07,
-      "adp": 244,
+      "adp": 245,
       "proj_avg": 32.49,
       "wpr": 32.3061,
       "round_wpr": {
@@ -16113,7 +16113,7 @@
         "res": 1.77
       },
       "owned_by": 50.11,
-      "adp": 104,
+      "adp": 103,
       "proj_avg": 31.79,
       "wpr": 42.7156,
       "round_wpr": {
@@ -17273,7 +17273,7 @@
         "res": 0.01
       },
       "owned_by": 0.04,
-      "adp": 245,
+      "adp": 244,
       "proj_avg": 29.89,
       "wpr": 29.7244,
       "round_wpr": {
@@ -18611,7 +18611,7 @@
         "res": 0.16
       },
       "owned_by": 0.88,
-      "adp": 265,
+      "adp": 264,
       "proj_avg": 28.98,
       "wpr": 31.1281,
       "round_wpr": {
@@ -19586,7 +19586,7 @@
         "res": 0.32
       },
       "owned_by": 1.97,
-      "adp": 264,
+      "adp": 265,
       "proj_avg": 27.72,
       "wpr": 28.2637,
       "round_wpr": {
@@ -34882,6 +34882,53 @@
     "locked": 1
   },
   {
+    "id": 509527,
+    "first_name": "Thomas",
+    "last_name": "Cant",
+    "squad_id": 500003,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "3": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.0491,
+      "round_wpr": {
+        "3": 16.0491
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 509528,
     "first_name": "Max",
     "last_name": "Bradbury",
@@ -34985,6 +35032,55 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 510366,
+    "first_name": "Oryn",
+    "last_name": "Keeley",
+    "squad_id": 500003,
+    "cost": 250000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "3": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 118,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.4446,
+      "round_wpr": {
+        "3": 17.4446
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 6,
+      "career_avg_vs": {
+        "500013": 6
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
