@@ -3790,7 +3790,7 @@
     "last_name": "Curran",
     "squad_id": 500032,
     "cost": 569000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 673000,
@@ -5542,7 +5542,7 @@
     "last_name": "Tevaga",
     "squad_id": 500032,
     "cost": 628000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 628000,
@@ -21228,7 +21228,7 @@
     "last_name": "Dunn",
     "squad_id": 500012,
     "cost": 372000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 372000,
@@ -21959,7 +21959,7 @@
     "last_name": "Berry",
     "squad_id": 500032,
     "cost": 371000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 371000,
@@ -25413,7 +25413,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -33409,7 +33409,7 @@
     "last_name": "Sadrugu",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -35093,7 +35093,7 @@
     "last_name": "Price",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
