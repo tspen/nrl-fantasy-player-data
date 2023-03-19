@@ -7343,7 +7343,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 600000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -8209,7 +8209,7 @@
         "res": 0.66
       },
       "owned_by": 5.44,
-      "adp": 102,
+      "adp": 103,
       "proj_avg": 40.42,
       "wpr": 38.4003,
       "round_wpr": {
@@ -16319,7 +16319,7 @@
         "res": 1.76
       },
       "owned_by": 49.68,
-      "adp": 103,
+      "adp": 102,
       "proj_avg": 31.79,
       "wpr": 42.7156,
       "round_wpr": {
@@ -18589,7 +18589,7 @@
     "last_name": "Cotric",
     "squad_id": 500013,
     "cost": 391000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 413000,
@@ -31658,7 +31658,7 @@
     "last_name": "Ngatikaura",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
