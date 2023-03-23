@@ -1342,7 +1342,7 @@
     "last_name": "Ofahengaue",
     "squad_id": 500023,
     "cost": 672000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 771000,
@@ -3513,7 +3513,7 @@
         "res": 0.29
       },
       "owned_by": 4.99,
-      "adp": 47,
+      "adp": 48,
       "proj_avg": 48.07,
       "wpr": 48.5778,
       "round_wpr": {
@@ -3713,7 +3713,7 @@
     "last_name": "Hughes",
     "squad_id": 500021,
     "cost": 717000,
-    "status": "playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 678000,
@@ -5489,7 +5489,7 @@
         "res": 0.51
       },
       "owned_by": 18.73,
-      "adp": 48,
+      "adp": 47,
       "proj_avg": 44.77,
       "wpr": 45.9276,
       "round_wpr": {
@@ -9773,7 +9773,7 @@
     "last_name": "Nofoaluma",
     "squad_id": 500023,
     "cost": 515000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 563000,
@@ -15049,7 +15049,7 @@
         "res": 0.11
       },
       "owned_by": 0.41,
-      "adp": 216,
+      "adp": 215,
       "proj_avg": 34.04,
       "wpr": 34.2766,
       "round_wpr": {
@@ -18355,7 +18355,7 @@
         "res": 3.23
       },
       "owned_by": 7.67,
-      "adp": 215,
+      "adp": 216,
       "proj_avg": 29.89,
       "wpr": 33.2065,
       "round_wpr": {
@@ -19007,7 +19007,7 @@
     "last_name": "Simpkin",
     "squad_id": 500023,
     "cost": 388000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 416000,
@@ -22382,7 +22382,7 @@
     "last_name": "Herbert",
     "squad_id": 500004,
     "cost": 372000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 372000,
@@ -25580,7 +25580,7 @@
     "last_name": "Pene",
     "squad_id": 500021,
     "cost": 320000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 320000,
@@ -33344,7 +33344,7 @@
     "last_name": "Pezet",
     "squad_id": 500021,
     "cost": 248000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
