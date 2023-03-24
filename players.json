@@ -3996,7 +3996,7 @@
         "res": 0.1
       },
       "owned_by": 0.74,
-      "adp": 64,
+      "adp": 63,
       "proj_avg": 47.23,
       "wpr": 40.1928,
       "round_wpr": {
@@ -5983,7 +5983,7 @@
         "res": 0.11
       },
       "owned_by": 4.17,
-      "adp": 63,
+      "adp": 64,
       "proj_avg": 43.72,
       "wpr": 45.5251,
       "round_wpr": {
@@ -16177,7 +16177,7 @@
         "res": 0.06
       },
       "owned_by": 0.35,
-      "adp": 219,
+      "adp": 220,
       "proj_avg": 33.19,
       "wpr": 33.4285,
       "round_wpr": {
@@ -17172,7 +17172,7 @@
         "res": 0.61
       },
       "owned_by": 2.26,
-      "adp": 220,
+      "adp": 219,
       "proj_avg": 31.44,
       "wpr": 31.4968,
       "round_wpr": {
@@ -23673,7 +23673,7 @@
     "id": 500928,
     "first_name": "Ken",
     "last_name": "Maumalo",
-    "squad_id": 500023,
+    "squad_id": 500004,
     "cost": 363000,
     "status": "not-playing",
     "stats": {
@@ -23737,8 +23737,8 @@
       6
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500023,
+    "transfer_round": 4,
     "is_bye": 0,
     "locked": 0
   },
