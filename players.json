@@ -9006,7 +9006,7 @@
         "res": 0.16
       },
       "owned_by": 2.54,
-      "adp": 99,
+      "adp": 100,
       "proj_avg": 40.42,
       "wpr": 41.4914,
       "round_wpr": {
@@ -17586,7 +17586,7 @@
         "res": 2.13
       },
       "owned_by": 50.1,
-      "adp": 100,
+      "adp": 99,
       "proj_avg": 31.79,
       "wpr": 51.0728,
       "round_wpr": {
@@ -30469,7 +30469,7 @@
     "last_name": "Ogden",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -32502,7 +32502,7 @@
     "last_name": "Momoisea",
     "squad_id": 500031,
     "cost": 227000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -35318,7 +35318,7 @@
     "last_name": "Wong",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
