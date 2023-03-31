@@ -3740,7 +3740,7 @@
     "last_name": "De Belin",
     "squad_id": 500022,
     "cost": 681000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 681000,
@@ -18144,7 +18144,7 @@
     "last_name": "Amone",
     "squad_id": 500022,
     "cost": 447000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 447000,
@@ -19429,7 +19429,7 @@
     "last_name": "Musgrove",
     "squad_id": 500022,
     "cost": 406000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 420000,
@@ -25823,7 +25823,7 @@
     "last_name": "Sullivan",
     "squad_id": 500022,
     "cost": 342000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 340000,
@@ -29831,7 +29831,7 @@
     "last_name": "Nikorima",
     "squad_id": 500723,
     "cost": 254000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -30911,7 +30911,7 @@
     "last_name": "Collins",
     "squad_id": 500723,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -31879,7 +31879,7 @@
     "last_name": "Hunt",
     "squad_id": 500022,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38688,7 +38688,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
