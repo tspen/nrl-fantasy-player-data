@@ -10499,7 +10499,7 @@
         "res": 0.17
       },
       "owned_by": 1.52,
-      "adp": 124,
+      "adp": 125,
       "proj_avg": 39.79,
       "wpr": 39.1273,
       "round_wpr": {
@@ -10935,7 +10935,7 @@
         "res": 0.44
       },
       "owned_by": 13.25,
-      "adp": 125,
+      "adp": 124,
       "proj_avg": 39.44,
       "wpr": 55.7994,
       "round_wpr": {
@@ -12225,7 +12225,7 @@
         "res": 0.01
       },
       "owned_by": 0.04,
-      "adp": 171,
+      "adp": 170,
       "proj_avg": 37.89,
       "wpr": 39.3159,
       "round_wpr": {
@@ -17061,7 +17061,7 @@
         "res": 0.26
       },
       "owned_by": 2.66,
-      "adp": 170,
+      "adp": 171,
       "proj_avg": 33.61,
       "wpr": 33.4908,
       "round_wpr": {
@@ -22180,7 +22180,7 @@
         "res": 3.3
       },
       "owned_by": 11.41,
-      "adp": 211,
+      "adp": 210,
       "proj_avg": 27.79,
       "wpr": 38.6731,
       "round_wpr": {
@@ -25244,7 +25244,7 @@
         "res": 1.71
       },
       "owned_by": 7.85,
-      "adp": 210,
+      "adp": 211,
       "proj_avg": 25.96,
       "wpr": 29.7667,
       "round_wpr": {
@@ -40255,6 +40255,57 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100001572,
+    "first_name": "Reece",
+    "last_name": "Hoffman",
+    "squad_id": 500010,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "6": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 210,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2026,
+      "round_wpr": {
+        "6": 18.2026
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 37,
+      "career_avg_vs": {
+        "500005": 37
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      3
+    ],
+    "original_positions": [
+      5,
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
