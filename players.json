@@ -11651,7 +11651,7 @@
         "res": 0.17
       },
       "owned_by": 1.22,
-      "adp": 155,
+      "adp": 156,
       "proj_avg": 38.88,
       "wpr": 37.7325,
       "round_wpr": {
@@ -13018,7 +13018,7 @@
         "res": 0.24
       },
       "owned_by": 1.56,
-      "adp": 156,
+      "adp": 155,
       "proj_avg": 37.33,
       "wpr": 45.7702,
       "round_wpr": {
@@ -29483,7 +29483,7 @@
     "last_name": "Taaffe",
     "squad_id": 500005,
     "cost": 248000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 305000,
@@ -36082,7 +36082,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39466,7 +39466,7 @@
     "last_name": "Tanner",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
