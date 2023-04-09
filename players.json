@@ -7697,7 +7697,7 @@
         "res": 0.1
       },
       "owned_by": 1.08,
-      "adp": 88,
+      "adp": 89,
       "proj_avg": 42.95,
       "wpr": 46.549,
       "round_wpr": {
@@ -11496,7 +11496,7 @@
         "res": 0.47
       },
       "owned_by": 8.36,
-      "adp": 89,
+      "adp": 88,
       "proj_avg": 39.09,
       "wpr": 40.3601,
       "round_wpr": {
@@ -12964,7 +12964,7 @@
         "res": 0.05
       },
       "owned_by": 0.37,
-      "adp": 159,
+      "adp": 160,
       "proj_avg": 37.4,
       "wpr": 35.4051,
       "round_wpr": {
@@ -13909,7 +13909,7 @@
         "res": 0.26
       },
       "owned_by": 2.92,
-      "adp": 182,
+      "adp": 183,
       "proj_avg": 36.91,
       "wpr": 39.7677,
       "round_wpr": {
@@ -15050,7 +15050,7 @@
         "res": 0.73
       },
       "owned_by": 9.44,
-      "adp": 160,
+      "adp": 159,
       "proj_avg": 35.23,
       "wpr": 50.8299,
       "round_wpr": {
@@ -18944,7 +18944,7 @@
         "res": 3.99
       },
       "owned_by": 25.59,
-      "adp": 183,
+      "adp": 182,
       "proj_avg": 31.44,
       "wpr": 44.7028,
       "round_wpr": {
@@ -26593,7 +26593,7 @@
     "last_name": "McIntyre",
     "squad_id": 500004,
     "cost": 340000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 353000,
@@ -26759,7 +26759,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 330000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 345000,
@@ -38129,7 +38129,7 @@
     "last_name": "Haas",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39375,7 +39375,7 @@
     "last_name": "Leeming",
     "squad_id": 500004,
     "cost": 500000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "6": 500000
