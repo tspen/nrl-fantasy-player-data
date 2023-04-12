@@ -18340,7 +18340,7 @@
     "last_name": "Lee",
     "squad_id": 500723,
     "cost": 445000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 472000,
@@ -26687,7 +26687,7 @@
     "last_name": "Milne",
     "squad_id": 500005,
     "cost": 349000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 363000,
@@ -29244,7 +29244,7 @@
     "last_name": "Thompson",
     "squad_id": 500005,
     "cost": 363000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -32561,7 +32561,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500005,
     "cost": 461000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38049,7 +38049,7 @@
     "last_name": "Teague",
     "squad_id": 500723,
     "cost": 282000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39389,7 +39389,7 @@
     "last_name": "Te Whare",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -41575,7 +41575,7 @@
     "last_name": "Duncan",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
