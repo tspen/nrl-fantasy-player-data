@@ -24910,7 +24910,7 @@
     "last_name": "Simonsson",
     "squad_id": 500031,
     "cost": 354000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 387000,
@@ -27413,7 +27413,7 @@
     "last_name": "Palasia",
     "squad_id": 500011,
     "cost": 260000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 368000,
@@ -34996,7 +34996,7 @@
     "last_name": "Dunster",
     "squad_id": 500031,
     "cost": 220000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
