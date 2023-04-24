@@ -6739,7 +6739,7 @@
     "last_name": "Walker",
     "squad_id": 500001,
     "cost": 657000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 638000,
@@ -24799,7 +24799,7 @@
     "last_name": "Turpin",
     "squad_id": 500001,
     "cost": 349000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -29420,7 +29420,7 @@
     "last_name": "Sullivan",
     "squad_id": 500022,
     "cost": 342000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 340000,
@@ -30244,7 +30244,7 @@
     "last_name": "Burns",
     "squad_id": 500022,
     "cost": 326000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 326000,
@@ -33231,7 +33231,7 @@
     "last_name": "May",
     "squad_id": 500001,
     "cost": 376000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 271000,
@@ -38342,7 +38342,7 @@
     "last_name": "Whyte",
     "squad_id": 500001,
     "cost": 296000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -39149,7 +39149,7 @@
     "last_name": "Fifita",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
