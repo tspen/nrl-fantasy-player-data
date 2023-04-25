@@ -14487,7 +14487,7 @@
     "last_name": "Brown",
     "squad_id": 500001,
     "cost": 529000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 529000,
@@ -22143,7 +22143,7 @@
     "last_name": "Musgrove",
     "squad_id": 500022,
     "cost": 394000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 420000,
@@ -31321,7 +31321,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -36237,7 +36237,7 @@
     "last_name": "Hunt",
     "squad_id": 500022,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
