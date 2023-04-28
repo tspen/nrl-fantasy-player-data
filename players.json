@@ -1766,7 +1766,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 787000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 771000,
@@ -32888,7 +32888,7 @@
     "last_name": "Johns",
     "squad_id": 500003,
     "cost": 379000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 310000,
@@ -35680,7 +35680,7 @@
     "last_name": "Ogden",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
