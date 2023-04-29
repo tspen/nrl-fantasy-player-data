@@ -7868,7 +7868,7 @@
         "res": 0.05
       },
       "owned_by": 0.34,
-      "adp": 99,
+      "adp": 98,
       "proj_avg": 43.51,
       "wpr": 42.8127,
       "round_wpr": {
@@ -10626,7 +10626,7 @@
         "res": 0.18
       },
       "owned_by": 1.79,
-      "adp": 101,
+      "adp": 100,
       "proj_avg": 40.42,
       "wpr": 47.1974,
       "round_wpr": {
@@ -11496,7 +11496,7 @@
         "res": 0.18
       },
       "owned_by": 6.04,
-      "adp": 98,
+      "adp": 99,
       "proj_avg": 40,
       "wpr": 41.6312,
       "round_wpr": {
@@ -14950,7 +14950,7 @@
     "last_name": "Brown",
     "squad_id": 500001,
     "cost": 529000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 529000,
@@ -18501,7 +18501,7 @@
     "last_name": "Milford",
     "squad_id": 500723,
     "cost": 439000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 485000,
@@ -18770,7 +18770,7 @@
     "last_name": "Waerea-Hargreaves",
     "squad_id": 500001,
     "cost": 508000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 479000,
@@ -20719,7 +20719,7 @@
         "res": 1.28
       },
       "owned_by": 21.96,
-      "adp": 100,
+      "adp": 101,
       "proj_avg": 31.79,
       "wpr": 49.9191,
       "round_wpr": {
@@ -25579,7 +25579,7 @@
     "last_name": "Turpin",
     "squad_id": 500001,
     "cost": 349000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -28858,7 +28858,7 @@
     "last_name": "Baker",
     "squad_id": 500001,
     "cost": 348000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 365000,
@@ -32601,7 +32601,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -38076,7 +38076,7 @@
     "last_name": "Mooney",
     "squad_id": 500013,
     "cost": 233000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -44757,7 +44757,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 269000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
