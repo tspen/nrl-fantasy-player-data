@@ -10345,7 +10345,7 @@
         "res": 0.04
       },
       "owned_by": 0.25,
-      "adp": 131,
+      "adp": 130,
       "proj_avg": 40.63,
       "wpr": 39.2323,
       "round_wpr": {
@@ -13459,7 +13459,7 @@
         "res": 0.12
       },
       "owned_by": 3.86,
-      "adp": 130,
+      "adp": 131,
       "proj_avg": 38.46,
       "wpr": 47.4436,
       "round_wpr": {
@@ -13809,7 +13809,7 @@
     "last_name": "Schneider",
     "squad_id": 500013,
     "cost": 529000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 540000,
@@ -38076,7 +38076,7 @@
     "last_name": "Mooney",
     "squad_id": 500013,
     "cost": 233000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
