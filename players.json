@@ -39740,7 +39740,7 @@
     "last_name": "Whyte",
     "squad_id": 500001,
     "cost": 303000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -44272,7 +44272,7 @@
     "last_name": "Going",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "9": 230000
@@ -46064,7 +46064,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "9": 230000
@@ -46677,7 +46677,7 @@
     "last_name": "Sifakula",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
