@@ -9969,7 +9969,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 521000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -30687,7 +30687,7 @@
     "last_name": "Sironen",
     "squad_id": 500032,
     "cost": 243000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -49821,7 +49821,7 @@
     "last_name": "Sifakula",
     "squad_id": 500032,
     "cost": 224000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
