@@ -18951,7 +18951,7 @@
     "last_name": "Laurie",
     "squad_id": 500023,
     "cost": 507000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 495000,
@@ -34296,7 +34296,7 @@
     "last_name": "Hawkins",
     "squad_id": 500005,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -40354,7 +40354,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43451,7 +43451,7 @@
     "last_name": "Matamua",
     "squad_id": 500023,
     "cost": 224000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -44793,7 +44793,7 @@
     "last_name": "Lovett",
     "squad_id": 500005,
     "cost": 225000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -45620,7 +45620,7 @@
     "last_name": "Reilly",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -46054,6 +46054,69 @@
     ],
     "original_positions": [
       1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 500599,
+    "first_name": "Richard",
+    "last_name": "Kennar",
+    "squad_id": 500005,
+    "cost": 319000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "11": 319000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 271,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 23.4309,
+      "round_wpr": {
+        "11": 23.4309
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 24.9688,
+      "career_avg_vs": {
+        "500001": 10.6667,
+        "500002": 39,
+        "500003": 32.3333,
+        "500004": 24.5,
+        "500005": 26.5,
+        "500010": 20,
+        "500011": 20,
+        "500012": 13,
+        "500013": 20.5,
+        "500014": 30.6,
+        "500022": 26,
+        "500023": 25,
+        "500028": 41,
+        "500031": 18.5,
+        "500032": 29.3333
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
