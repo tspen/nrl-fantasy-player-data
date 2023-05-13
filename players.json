@@ -10131,7 +10131,7 @@
         "res": 0.07
       },
       "owned_by": 0.64,
-      "adp": 117,
+      "adp": 116,
       "proj_avg": 41.89,
       "wpr": 46.6438,
       "round_wpr": {
@@ -11287,7 +11287,7 @@
         "res": 0.13
       },
       "owned_by": 0.58,
-      "adp": 132,
+      "adp": 131,
       "proj_avg": 40.42,
       "wpr": 35.2377,
       "round_wpr": {
@@ -12626,7 +12626,7 @@
         "res": 0.19
       },
       "owned_by": 2.48,
-      "adp": 116,
+      "adp": 117,
       "proj_avg": 39.86,
       "wpr": 43.8026,
       "round_wpr": {
@@ -18567,7 +18567,7 @@
         "res": 1.07
       },
       "owned_by": 10.98,
-      "adp": 131,
+      "adp": 132,
       "proj_avg": 34.95,
       "wpr": 29.365,
       "round_wpr": {
@@ -22576,7 +22576,7 @@
         "res": 0.53
       },
       "owned_by": 2.56,
-      "adp": 225,
+      "adp": 226,
       "proj_avg": 31.44,
       "wpr": 34.9581,
       "round_wpr": {
@@ -23616,7 +23616,7 @@
         "res": 1.59
       },
       "owned_by": 6.95,
-      "adp": 226,
+      "adp": 225,
       "proj_avg": 30.11,
       "wpr": 37.4177,
       "round_wpr": {
@@ -48058,6 +48058,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 507815,
+    "first_name": "Hohepa",
+    "last_name": "Puru",
+    "squad_id": 500013,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "11": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.8938,
+      "round_wpr": {
+        "11": 16.8938
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 508067,
