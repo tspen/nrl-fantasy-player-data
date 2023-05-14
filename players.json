@@ -10353,7 +10353,7 @@
     "last_name": "Clark",
     "squad_id": 500004,
     "cost": 397000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 594000,
@@ -35510,7 +35510,7 @@
     "last_name": "Johns",
     "squad_id": 500003,
     "cost": 379000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 310000,
@@ -49835,7 +49835,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 270000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 230000,
