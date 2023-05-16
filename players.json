@@ -9798,7 +9798,7 @@
         "res": 0.08
       },
       "owned_by": 0.67,
-      "adp": 92,
+      "adp": 93,
       "proj_avg": 42.53,
       "wpr": 42.0088,
       "round_wpr": {
@@ -12774,7 +12774,7 @@
         "res": 0.2
       },
       "owned_by": 3.58,
-      "adp": 110,
+      "adp": 111,
       "proj_avg": 39.93,
       "wpr": 45.5591,
       "round_wpr": {
@@ -13636,7 +13636,7 @@
         "res": 2.44
       },
       "owned_by": 13.8,
-      "adp": 111,
+      "adp": 110,
       "proj_avg": 39.44,
       "wpr": 59.5359,
       "round_wpr": {
@@ -20828,7 +20828,7 @@
         "res": 0.52
       },
       "owned_by": 3.4,
-      "adp": 220,
+      "adp": 221,
       "proj_avg": 33.61,
       "wpr": 36.3427,
       "round_wpr": {
@@ -22076,7 +22076,7 @@
         "res": 0.15
       },
       "owned_by": 2.13,
-      "adp": 221,
+      "adp": 220,
       "proj_avg": 32.56,
       "wpr": 47.9592,
       "round_wpr": {
@@ -32658,9 +32658,9 @@
     "id": 504065,
     "first_name": "Sam",
     "last_name": "McIntyre",
-    "squad_id": 500004,
+    "squad_id": 500012,
     "cost": 340000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 353000,
@@ -32742,8 +32742,8 @@
       3
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500004,
+    "transfer_round": 12,
     "is_bye": 0,
     "locked": 0
   },
@@ -48138,7 +48138,7 @@
         "res": 0.08
       },
       "owned_by": 0.58,
-      "adp": 93,
+      "adp": 92,
       "proj_avg": 0,
       "wpr": 49.5086,
       "round_wpr": {
