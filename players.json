@@ -9661,7 +9661,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 708000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 607000,
@@ -31814,7 +31814,7 @@
     "last_name": "Baker",
     "squad_id": 500001,
     "cost": 323000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 365000,
@@ -41171,7 +41171,7 @@
     "last_name": "Hunt",
     "squad_id": 500022,
     "cost": 249000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
