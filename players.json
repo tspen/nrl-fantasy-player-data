@@ -24389,7 +24389,7 @@
     "last_name": "Clune",
     "squad_id": 500003,
     "cost": 428000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 428000,
@@ -27373,7 +27373,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 459000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 396000,
@@ -39019,7 +39019,7 @@
     "last_name": "Hunt",
     "squad_id": 500003,
     "cost": 280000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -40035,7 +40035,7 @@
     "last_name": "Trindall",
     "squad_id": 500028,
     "cost": 380000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -40321,7 +40321,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43154,7 +43154,7 @@
     "last_name": "Sasagi",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43874,7 +43874,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
