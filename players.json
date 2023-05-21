@@ -10393,7 +10393,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 521000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -47696,7 +47696,7 @@
     "last_name": "Reynolds",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -49902,7 +49902,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 258000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "10": 230000,
@@ -51793,7 +51793,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 223000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
