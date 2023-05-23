@@ -50187,6 +50187,58 @@
     "locked": 0
   },
   {
+    "id": 504151,
+    "first_name": "Tristan",
+    "last_name": "Sailor",
+    "squad_id": 500011,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "13": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 268,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.4359,
+      "round_wpr": {
+        "13": 18.4359
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 26.4,
+      "career_avg_vs": {
+        "500001": 36.5,
+        "500004": 21,
+        "500005": 14,
+        "500023": 24
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 504307,
     "first_name": "Brandon",
     "last_name": "Wakeham",
@@ -52650,6 +52702,53 @@
         "500022": 15
       },
       "last_3_proj_avg": 21
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100007686,
+    "first_name": "Robert",
+    "last_name": "Derby",
+    "squad_id": 500012,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "13": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.961,
+      "round_wpr": {
+        "13": 16.961
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
     },
     "positions": [
       6
