@@ -3581,7 +3581,7 @@
     "last_name": "Koloamatangi",
     "squad_id": 500005,
     "cost": 734000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 722000,
@@ -8366,7 +8366,7 @@
     "last_name": "Graham",
     "squad_id": 500005,
     "cost": 610000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 623000,
@@ -30211,7 +30211,7 @@
     "last_name": "Frawley",
     "squad_id": 500013,
     "cost": 372000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 373000,
@@ -36555,7 +36555,7 @@
     "last_name": "Hawkins",
     "squad_id": 500005,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -41967,7 +41967,7 @@
     "last_name": "Smith-Shields",
     "squad_id": 500013,
     "cost": 273000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -49028,7 +49028,7 @@
     "last_name": "Levi",
     "squad_id": 500013,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
