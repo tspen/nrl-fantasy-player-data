@@ -50428,6 +50428,58 @@
     "locked": 0
   },
   {
+    "id": 504316,
+    "first_name": "Tyson",
+    "last_name": "Smoothy",
+    "squad_id": 500011,
+    "cost": 250000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "13": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 266,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.4359,
+      "round_wpr": {
+        "13": 18.4359
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 20.25,
+      "career_avg_vs": {
+        "500005": 9,
+        "500014": 14,
+        "500022": 48,
+        "500031": 10
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 504377,
     "first_name": "Thomas",
     "last_name": "Mikaele",
