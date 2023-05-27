@@ -23113,7 +23113,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 372000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 457000,
@@ -25199,7 +25199,7 @@
     "last_name": "Clune",
     "squad_id": 500003,
     "cost": 428000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 428000,
@@ -25610,7 +25610,7 @@
     "last_name": "Tuala",
     "squad_id": 500003,
     "cost": 407000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -28830,7 +28830,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500002,
     "cost": 334000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 394000,
@@ -44083,7 +44083,7 @@
     "last_name": "Arthur",
     "squad_id": 500002,
     "cost": 269000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -51585,7 +51585,7 @@
     "last_name": "Chan Kum Tong",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
