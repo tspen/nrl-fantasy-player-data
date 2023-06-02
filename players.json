@@ -24198,7 +24198,7 @@
     "last_name": "Savage",
     "squad_id": 500013,
     "cost": 434000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -53651,6 +53651,53 @@
     "locked": 0
   },
   {
+    "id": 100002172,
+    "first_name": "Max",
+    "last_name": "Plath",
+    "squad_id": 500723,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "14": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1832,
+      "round_wpr": {
+        "14": 17.1832
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100003896,
     "first_name": "Jack",
     "last_name": "Cole",
@@ -54138,7 +54185,7 @@
     "last_name": "Da Silva",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "14": 230000
