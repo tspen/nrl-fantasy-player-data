@@ -10947,7 +10947,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 521000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -40387,7 +40387,7 @@
     "last_name": "Hutchison",
     "squad_id": 500001,
     "cost": 227000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 267000,
@@ -46334,7 +46334,7 @@
     "last_name": "Whyte",
     "squad_id": 500001,
     "cost": 303000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -50365,7 +50365,7 @@
     "last_name": "Reynolds",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53513,7 +53513,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "12": 230000,
@@ -53569,7 +53569,7 @@
     "last_name": "Rajab",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000
