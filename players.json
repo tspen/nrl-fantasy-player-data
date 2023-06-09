@@ -10513,7 +10513,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 688000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 607000,
@@ -10973,7 +10973,7 @@
     "last_name": "Walker",
     "squad_id": 500005,
     "cost": 692000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 601000,
@@ -26632,7 +26632,7 @@
     "last_name": "Moga",
     "squad_id": 500022,
     "cost": 515000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -34052,7 +34052,7 @@
     "last_name": "Knight",
     "squad_id": 500005,
     "cost": 346000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 370000,
@@ -38579,7 +38579,7 @@
     "last_name": "Hawkins",
     "squad_id": 500005,
     "cost": 319000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -50356,7 +50356,7 @@
     "last_name": "Lovett",
     "squad_id": 500005,
     "cost": 225000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56528,7 +56528,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 361000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
