@@ -11416,7 +11416,7 @@
     "last_name": "Fitzgibbon",
     "squad_id": 500003,
     "cost": 580000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 596000,
@@ -24349,7 +24349,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 372000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 457000,
@@ -25483,7 +25483,7 @@
     "last_name": "Jensen",
     "squad_id": 500011,
     "cost": 385000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 447000,
@@ -27189,7 +27189,7 @@
     "last_name": "Miller",
     "squad_id": 500003,
     "cost": 553000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -34279,7 +34279,7 @@
     "last_name": "Palasia",
     "squad_id": 500011,
     "cost": 285000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 368000,
@@ -40404,7 +40404,7 @@
     "last_name": "Paix",
     "squad_id": 500011,
     "cost": 304000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 299000,
@@ -41058,7 +41058,7 @@
     "last_name": "Mariner",
     "squad_id": 500011,
     "cost": 297000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 277000,
@@ -48007,7 +48007,7 @@
     "last_name": "Lucas",
     "squad_id": 500003,
     "cost": 233000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -53264,7 +53264,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "13": 250000,
