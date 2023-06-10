@@ -16710,7 +16710,7 @@
     "last_name": "Lawrie",
     "squad_id": 500022,
     "cost": 609000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 537000,
@@ -25682,7 +25682,7 @@
     "last_name": "Amone",
     "squad_id": 500022,
     "cost": 360000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 447000,
@@ -37552,7 +37552,7 @@
     "last_name": "Burns",
     "squad_id": 500022,
     "cost": 354000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 326000,
@@ -40410,7 +40410,7 @@
     "last_name": "Mbye",
     "squad_id": 500022,
     "cost": 306000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 300000,
@@ -54878,7 +54878,7 @@
     "last_name": "Duncan",
     "squad_id": 500005,
     "cost": 222000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
