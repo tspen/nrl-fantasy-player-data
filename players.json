@@ -17642,7 +17642,7 @@
     "last_name": "Hodgson",
     "squad_id": 500031,
     "cost": 292000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 532000,
@@ -24695,7 +24695,7 @@
     "last_name": "Flanagan",
     "squad_id": 500010,
     "cost": 419000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 456000,
@@ -54468,7 +54468,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 223000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "12": 230000,
