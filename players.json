@@ -21704,7 +21704,7 @@
     "last_name": "Olam",
     "squad_id": 500021,
     "cost": 388000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 497000,
@@ -36378,7 +36378,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 380000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -50202,7 +50202,7 @@
     "last_name": "Matamua",
     "squad_id": 500023,
     "cost": 224000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55866,7 +55866,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 238000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
