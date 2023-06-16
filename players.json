@@ -16795,7 +16795,7 @@
     "last_name": "Saifiti",
     "squad_id": 500003,
     "cost": 528000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 545000,
@@ -25032,7 +25032,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 372000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 457000,
@@ -27944,7 +27944,7 @@
     "last_name": "Miller",
     "squad_id": 500003,
     "cost": 553000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -30967,7 +30967,7 @@
     "last_name": "Paulo",
     "squad_id": 500001,
     "cost": 335000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -40724,7 +40724,7 @@
     "last_name": "Johns",
     "squad_id": 500003,
     "cost": 371000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 310000,
@@ -54958,7 +54958,7 @@
     "last_name": "Katoa",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 250000,
@@ -55757,7 +55757,7 @@
     "last_name": "Geyer",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "16": 230000
