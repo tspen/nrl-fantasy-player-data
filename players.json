@@ -4073,7 +4073,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 665000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 719000,
@@ -5937,7 +5937,7 @@
     "last_name": "Marshall-King",
     "squad_id": 500723,
     "cost": 669000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 677000,
@@ -15232,7 +15232,7 @@
         "res": 0.09
       },
       "owned_by": 0.61,
-      "adp": 130,
+      "adp": 129,
       "proj_avg": 39.51,
       "wpr": 41.0432,
       "round_wpr": {
@@ -16992,7 +16992,7 @@
         "res": 0.2
       },
       "owned_by": 5.35,
-      "adp": 129,
+      "adp": 130,
       "proj_avg": 38.46,
       "wpr": 44.8427,
       "round_wpr": {
@@ -41781,7 +41781,7 @@
     "last_name": "Jennings",
     "squad_id": 500723,
     "cost": 310000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 309000,
@@ -45971,7 +45971,7 @@
     "last_name": "Dunster",
     "squad_id": 500031,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -46807,7 +46807,7 @@
     "last_name": "Doorey",
     "squad_id": 500031,
     "cost": 272000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -56907,7 +56907,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 226000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 230000,
@@ -58451,7 +58451,7 @@
     "last_name": "Plath",
     "squad_id": 500723,
     "cost": 248000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "14": 230000,
@@ -58780,7 +58780,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
