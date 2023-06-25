@@ -2756,7 +2756,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 812000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 771000,
@@ -7826,7 +7826,7 @@
     "last_name": "Randall",
     "squad_id": 500004,
     "cost": 559000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 644000,
@@ -56217,7 +56217,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 272000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 250000,
