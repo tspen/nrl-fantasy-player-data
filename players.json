@@ -9513,7 +9513,7 @@
     "last_name": "Graham",
     "squad_id": 500005,
     "cost": 571000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 623000,
@@ -57391,7 +57391,7 @@
     "last_name": "Going",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "9": 230000,
@@ -61233,7 +61233,7 @@
     "last_name": "Munro",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "18": 230000
