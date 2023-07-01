@@ -22500,7 +22500,7 @@
     "last_name": "Suaali'i",
     "squad_id": 500001,
     "cost": 378000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 498000,
@@ -32650,7 +32650,7 @@
     "last_name": "Paulo",
     "squad_id": 500001,
     "cost": 335000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 395000,
@@ -38146,7 +38146,7 @@
     "last_name": "Allan",
     "squad_id": 500001,
     "cost": 332000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 362000,
@@ -42152,7 +42152,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 432000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -57336,7 +57336,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 357000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 319000,
