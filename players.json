@@ -16487,7 +16487,7 @@
     "last_name": "Faitala-Mariner",
     "squad_id": 500010,
     "cost": 452000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 560000,
@@ -28884,7 +28884,7 @@
     "last_name": "Clune",
     "squad_id": 500003,
     "cost": 428000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 428000,
@@ -47665,7 +47665,7 @@
     "last_name": "Pele",
     "squad_id": 500010,
     "cost": 223000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
