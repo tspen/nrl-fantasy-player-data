@@ -23641,7 +23641,7 @@
     "last_name": "Laurie",
     "squad_id": 500023,
     "cost": 486000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 495000,
@@ -32266,7 +32266,7 @@
     "last_name": "Smith",
     "squad_id": 500023,
     "cost": 403000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 403000,
@@ -48664,7 +48664,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
