@@ -31391,7 +31391,7 @@
     "last_name": "Cotric",
     "squad_id": 500013,
     "cost": 220000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 413000,
@@ -35381,7 +35381,7 @@
     "last_name": "Frawley",
     "squad_id": 500013,
     "cost": 341000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 373000,
@@ -57462,7 +57462,7 @@
     "last_name": "Levi",
     "squad_id": 500013,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -61952,7 +61952,7 @@
     "last_name": "Finau",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000
