@@ -1904,7 +1904,7 @@
     "last_name": "Tedesco",
     "squad_id": 500001,
     "cost": 650000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 777000,
@@ -17677,7 +17677,7 @@
     "last_name": "Seve",
     "squad_id": 500021,
     "cost": 537000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 556000,
@@ -39859,7 +39859,7 @@
     "last_name": "Allan",
     "squad_id": 500001,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 362000,
@@ -40084,7 +40084,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 367000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -47911,7 +47911,7 @@
     "last_name": "Jennings",
     "squad_id": 500021,
     "cost": 259000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -48584,7 +48584,7 @@
     "last_name": "Nikorima",
     "squad_id": 500021,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -58333,7 +58333,7 @@
     "last_name": "Garlick",
     "squad_id": 500021,
     "cost": 228000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -60020,7 +60020,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 368000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 319000,
