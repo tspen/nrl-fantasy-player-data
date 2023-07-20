@@ -6808,7 +6808,7 @@
     "last_name": "Curran",
     "squad_id": 500032,
     "cost": 422000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 673000,
@@ -40072,7 +40072,7 @@
     "last_name": "Sironen",
     "squad_id": 500032,
     "cost": 242000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -41716,7 +41716,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 271000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 343000,
@@ -42409,7 +42409,7 @@
     "last_name": "Vailea",
     "squad_id": 500032,
     "cost": 352000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 340000,
@@ -42768,7 +42768,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 331000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 337000,
@@ -45481,7 +45481,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 313000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -53000,7 +53000,7 @@
     "last_name": "Mooney",
     "squad_id": 500013,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -63390,7 +63390,7 @@
     "last_name": "Puru",
     "squad_id": 500013,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "11": 230000,
