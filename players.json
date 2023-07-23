@@ -12523,7 +12523,7 @@
     "last_name": "Tago",
     "squad_id": 500014,
     "cost": 698000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 605000,
@@ -13084,7 +13084,7 @@
     "last_name": "Topine",
     "squad_id": 500010,
     "cost": 458000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 600000,
@@ -36875,7 +36875,7 @@
     "last_name": "Peachey",
     "squad_id": 500014,
     "cost": 484000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 380000,
@@ -47418,7 +47418,7 @@
     "last_name": "Perham",
     "squad_id": 500010,
     "cost": 450000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 298000,
@@ -56680,7 +56680,7 @@
     "last_name": "Preston",
     "squad_id": 500010,
     "cost": 692000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56823,7 +56823,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
