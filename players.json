@@ -62500,6 +62500,62 @@
     "locked": 0
   },
   {
+    "id": 500904,
+    "first_name": "Joey",
+    "last_name": "Lussick",
+    "squad_id": 500031,
+    "cost": 372000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "22": 372000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 284,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 28.5244,
+      "round_wpr": {
+        "22": 28.5244
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 39.1,
+      "career_avg_vs": {
+        "500002": 22,
+        "500005": 4,
+        "500010": 41,
+        "500012": 52,
+        "500014": 51.5,
+        "500021": 52,
+        "500022": 34,
+        "500023": 61
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500960,
     "first_name": "Martin",
     "last_name": "Taupau",
