@@ -25607,7 +25607,7 @@
     "last_name": "Sutton",
     "squad_id": 500010,
     "cost": 322000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 491000,
@@ -32219,7 +32219,7 @@
     "last_name": "Tuala",
     "squad_id": 500003,
     "cost": 365000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -33782,7 +33782,7 @@
     "last_name": "Cotric",
     "squad_id": 500013,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -47838,7 +47838,7 @@
     "last_name": "Okunbor",
     "squad_id": 500010,
     "cost": 398000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 302000,
@@ -51558,7 +51558,7 @@
     "last_name": "Faamausili",
     "squad_id": 500723,
     "cost": 261000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -58005,7 +58005,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -64539,7 +64539,7 @@
     "last_name": "Edwards",
     "squad_id": 500010,
     "cost": 452000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "6": 264000,
@@ -64754,7 +64754,7 @@
     "last_name": "Morrin",
     "squad_id": 500010,
     "cost": 286000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 250000,
@@ -65122,7 +65122,7 @@
     "last_name": "Graham",
     "squad_id": 500723,
     "cost": 323000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "17": 230000,
@@ -67640,7 +67640,7 @@
     "last_name": "Bostock",
     "squad_id": 500723,
     "cost": 225000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
