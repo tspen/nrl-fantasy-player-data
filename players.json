@@ -6468,7 +6468,7 @@
     "last_name": "De Belin",
     "squad_id": 500022,
     "cost": 788000,
-    "status": "playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 681000,
@@ -12844,7 +12844,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 594000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 607000,
@@ -17806,7 +17806,7 @@
     "last_name": "Suli",
     "squad_id": 500022,
     "cost": 376000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 563000,
@@ -43605,7 +43605,7 @@
     "last_name": "McIntyre",
     "squad_id": 500012,
     "cost": 323000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 353000,
@@ -47492,7 +47492,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 335000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -50238,7 +50238,7 @@
     "last_name": "Mariner",
     "squad_id": 500011,
     "cost": 339000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 277000,
@@ -68639,7 +68639,7 @@
     "last_name": "Finau",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000,
@@ -69932,7 +69932,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "18": 230000,
@@ -70222,7 +70222,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 389000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "2": 230000,
