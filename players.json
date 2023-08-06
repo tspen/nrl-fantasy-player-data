@@ -47675,7 +47675,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 335000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 319000,
@@ -64082,7 +64082,7 @@
     "last_name": "Murdoch-Masila",
     "squad_id": 500022,
     "cost": 376000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -66212,7 +66212,7 @@
     "last_name": "Lumelume",
     "squad_id": 500031,
     "cost": 244000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -70446,7 +70446,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 389000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
