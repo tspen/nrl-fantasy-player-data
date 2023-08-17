@@ -10991,7 +10991,7 @@
     "last_name": "Tevaga",
     "squad_id": 500032,
     "cost": 536000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 628000,
@@ -39388,7 +39388,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 335000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 389000,
@@ -45944,7 +45944,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 271000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 343000,
@@ -50067,7 +50067,7 @@
     "last_name": "Volkman",
     "squad_id": 500032,
     "cost": 313000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -71196,7 +71196,7 @@
     "last_name": "Fainu",
     "squad_id": 500002,
     "cost": 301000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
