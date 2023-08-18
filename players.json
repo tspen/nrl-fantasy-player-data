@@ -22967,7 +22967,7 @@
     "last_name": "Brown",
     "squad_id": 500001,
     "cost": 393000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 529000,
@@ -28883,7 +28883,7 @@
     "last_name": "Waerea-Hargreaves",
     "squad_id": 500001,
     "cost": 527000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 479000,
@@ -65732,7 +65732,7 @@
     "last_name": "Napa",
     "squad_id": 500001,
     "cost": 239000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "21": 250000,
@@ -70339,6 +70339,53 @@
     "locked": 0
   },
   {
+    "id": 508480,
+    "first_name": "Trai",
+    "last_name": "Fuller",
+    "squad_id": 500723,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "25": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3931,
+      "round_wpr": {
+        "25": 17.3931
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 508502,
     "first_name": "Gordon",
     "last_name": "Chan Kum Tong",
@@ -72621,6 +72668,53 @@
     "original_positions": [
       5,
       6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006630,
+    "first_name": "Josh",
+    "last_name": "Feledy",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "25": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3931,
+      "round_wpr": {
+        "25": 17.3931
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
