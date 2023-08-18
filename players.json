@@ -46003,7 +46003,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 271000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 343000,
@@ -47140,7 +47140,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 331000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 337000,
@@ -57565,7 +57565,7 @@
     "last_name": "Condon",
     "squad_id": 500002,
     "cost": 238000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
