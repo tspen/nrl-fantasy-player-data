@@ -12883,7 +12883,7 @@
     "last_name": "Brooks",
     "squad_id": 500023,
     "cost": 580000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 613000,
@@ -28489,7 +28489,7 @@
     "last_name": "Milford",
     "squad_id": 500723,
     "cost": 321000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 485000,
@@ -36819,7 +36819,7 @@
     "last_name": "To'a",
     "squad_id": 500023,
     "cost": 410000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 412000,
@@ -55190,7 +55190,7 @@
     "last_name": "Faamausili",
     "squad_id": 500723,
     "cost": 261000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -62379,7 +62379,7 @@
     "last_name": "Matamua",
     "squad_id": 500023,
     "cost": 236000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -63057,7 +63057,7 @@
     "last_name": "Teague",
     "squad_id": 500723,
     "cost": 295000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -65524,7 +65524,7 @@
     "last_name": "Reilly",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -72722,7 +72722,7 @@
     "last_name": "Laulilii",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "23": 230000,
