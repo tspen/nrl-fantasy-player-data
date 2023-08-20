@@ -11215,7 +11215,7 @@
     "last_name": "Tatola",
     "squad_id": 500005,
     "cost": 522000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 628000,
@@ -34750,7 +34750,7 @@
     "last_name": "Tuala",
     "squad_id": 500003,
     "cost": 387000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -47646,7 +47646,7 @@
     "last_name": "Sele",
     "squad_id": 500005,
     "cost": 457000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 336000,
@@ -54483,7 +54483,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500005,
     "cost": 426000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -59089,7 +59089,7 @@
     "last_name": "Moale",
     "squad_id": 500005,
     "cost": 266000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
