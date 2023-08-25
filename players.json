@@ -4062,7 +4062,7 @@
     "last_name": "Papenhuyzen",
     "squad_id": 500021,
     "cost": 745000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 745000,
@@ -24260,7 +24260,7 @@
     "last_name": "Sims",
     "squad_id": 500021,
     "cost": 329000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 527000,
@@ -42963,7 +42963,7 @@
     "last_name": "Smith",
     "squad_id": 500021,
     "cost": 372000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 372000,
@@ -46321,7 +46321,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 346000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -75055,7 +75055,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 272000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 230000,
