@@ -37967,7 +37967,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 300000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 406000,
@@ -47042,7 +47042,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 271000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 343000,
@@ -58517,7 +58517,7 @@
     "last_name": "Hunt",
     "squad_id": 500022,
     "cost": 260000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -73640,7 +73640,7 @@
     "last_name": "Finau",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "19": 230000,
