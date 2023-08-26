@@ -9279,7 +9279,7 @@
     "last_name": "Garrick",
     "squad_id": 500002,
     "cost": 645000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 646000,
@@ -12891,7 +12891,7 @@
     "last_name": "Fotuaika",
     "squad_id": 500004,
     "cost": 600000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 614000,
@@ -19261,7 +19261,7 @@
     "last_name": "Kiraz",
     "squad_id": 500010,
     "cost": 555000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 563000,
@@ -23617,7 +23617,7 @@
         "res": 0.05
       },
       "owned_by": 0.21,
-      "adp": 183,
+      "adp": 182,
       "proj_avg": 37.12,
       "wpr": 29.6953,
       "round_wpr": {
@@ -27180,7 +27180,7 @@
         "res": 0.27
       },
       "owned_by": 0.85,
-      "adp": 182,
+      "adp": 183,
       "proj_avg": 34.95,
       "wpr": 33.5015,
       "round_wpr": {
@@ -38261,7 +38261,7 @@
         "res": 0.02
       },
       "owned_by": 0.06,
-      "adp": 277,
+      "adp": 278,
       "proj_avg": 28.28,
       "wpr": 23.4196,
       "round_wpr": {
@@ -41606,7 +41606,7 @@
         "res": 0.73
       },
       "owned_by": 3.46,
-      "adp": 278,
+      "adp": 277,
       "proj_avg": 26.67,
       "wpr": 29.3201,
       "round_wpr": {
@@ -53117,7 +53117,7 @@
     "last_name": "Perham",
     "squad_id": 500010,
     "cost": 410000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 298000,
@@ -58975,7 +58975,7 @@
     "last_name": "Condon",
     "squad_id": 500002,
     "cost": 238000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -59200,7 +59200,7 @@
     "last_name": "Wishart",
     "squad_id": 500021,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -63576,7 +63576,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -73108,7 +73108,7 @@
     "last_name": "Fainu",
     "squad_id": 500002,
     "cost": 301000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -75628,7 +75628,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 220000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
