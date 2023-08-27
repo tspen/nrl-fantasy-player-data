@@ -30024,7 +30024,7 @@
     "last_name": "Schuster",
     "squad_id": 500002,
     "cost": 416000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 479000,
@@ -52674,7 +52674,7 @@
     "last_name": "Okunbor",
     "squad_id": 500010,
     "cost": 386000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 302000,
@@ -71294,7 +71294,7 @@
     "last_name": "Morrin",
     "squad_id": 500010,
     "cost": 286000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 250000,
