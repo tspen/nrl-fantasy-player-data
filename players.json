@@ -973,7 +973,7 @@
     "last_name": "Grant",
     "squad_id": 500021,
     "cost": 709000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 857000,
@@ -6771,7 +6771,7 @@
     "last_name": "Harris",
     "squad_id": 500032,
     "cost": 716000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 687000,
@@ -9457,7 +9457,7 @@
     "last_name": "Garrick",
     "squad_id": 500002,
     "cost": 645000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 646000,
@@ -11507,7 +11507,7 @@
     "last_name": "Tevaga",
     "squad_id": 500032,
     "cost": 536000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 628000,
@@ -24120,7 +24120,7 @@
     "last_name": "Staggs",
     "squad_id": 500011,
     "cost": 636000,
-    "status": "not-playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 529000,
@@ -44014,7 +44014,7 @@
     "last_name": "Johns",
     "squad_id": 500002,
     "cost": 247000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 372000,
@@ -55631,7 +55631,7 @@
     "last_name": "Stone",
     "squad_id": 500723,
     "cost": 496000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 257000,
@@ -71995,6 +71995,53 @@
     "original_positions": [
       6,
       5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 505142,
+    "first_name": "Josh",
+    "last_name": "Rogers",
+    "squad_id": 500011,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "27": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3648,
+      "round_wpr": {
+        "27": 17.3648
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
