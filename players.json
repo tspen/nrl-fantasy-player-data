@@ -14332,7 +14332,7 @@
     "last_name": "Tago",
     "squad_id": 500014,
     "cost": 698000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 605000,
@@ -26306,7 +26306,7 @@
     "last_name": "Sorensen",
     "squad_id": 500014,
     "cost": 690000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 509000,
@@ -31122,7 +31122,7 @@
     "last_name": "Garner",
     "squad_id": 500014,
     "cost": 387000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 478000,
@@ -55095,7 +55095,7 @@
     "last_name": "Elliot",
     "squad_id": 500012,
     "cost": 261000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 267000,
@@ -55378,7 +55378,7 @@
     "last_name": "Gosiewski",
     "squad_id": 500012,
     "cost": 403000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 264000,
@@ -57773,7 +57773,7 @@
     "last_name": "Luke",
     "squad_id": 500014,
     "cost": 220000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -63480,7 +63480,7 @@
     "last_name": "Jenkins",
     "squad_id": 500014,
     "cost": 408000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
