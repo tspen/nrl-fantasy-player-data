@@ -19304,7 +19304,7 @@
     "last_name": "Nofoaluma",
     "squad_id": 500023,
     "cost": 383000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 563000,
@@ -30490,7 +30490,7 @@
     "last_name": "Schuster",
     "squad_id": 500002,
     "cost": 416000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 479000,
@@ -76321,7 +76321,7 @@
     "last_name": "Da Silva",
     "squad_id": 500023,
     "cost": 220000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000,
