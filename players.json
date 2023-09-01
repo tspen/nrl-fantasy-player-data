@@ -7245,7 +7245,7 @@
     "last_name": "Aitken",
     "squad_id": 500723,
     "cost": 571000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 679000,
@@ -48372,7 +48372,7 @@
     "last_name": "Ford",
     "squad_id": 500032,
     "cost": 640000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 340000,
@@ -50776,7 +50776,7 @@
     "last_name": "Wiliame",
     "squad_id": 500032,
     "cost": 318000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 319000,
@@ -68221,7 +68221,7 @@
     "last_name": "Te Whare",
     "squad_id": 500723,
     "cost": 433000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -71111,7 +71111,7 @@
     "last_name": "Going",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "9": 230000,
@@ -72019,7 +72019,7 @@
     "last_name": "McGrady",
     "squad_id": 500723,
     "cost": 246000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "17": 230000,
@@ -75810,7 +75810,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
