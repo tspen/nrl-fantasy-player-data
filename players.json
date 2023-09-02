@@ -70906,6 +70906,53 @@
     "locked": 0
   },
   {
+    "id": 503926,
+    "first_name": "Dane",
+    "last_name": "Aukafolau",
+    "squad_id": 500003,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "27": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3648,
+      "round_wpr": {
+        "27": 17.3648
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 503927,
     "first_name": "Dean",
     "last_name": "Matterson",
@@ -73367,7 +73414,7 @@
     "last_name": "Roache",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "27": 230000
@@ -75779,6 +75826,53 @@
     "locked": 0
   },
   {
+    "id": 100004606,
+    "first_name": "David",
+    "last_name": "Armstrong",
+    "squad_id": 500003,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "27": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3648,
+      "round_wpr": {
+        "27": 17.3648
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100004672,
     "first_name": "Ryan",
     "last_name": "Rivett",
@@ -76682,7 +76776,7 @@
     "last_name": "Lobb",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "27": 230000
@@ -78085,7 +78179,7 @@
     "last_name": "Laban",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "27": 230000
