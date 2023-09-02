@@ -9959,7 +9959,7 @@
     "last_name": "Randall",
     "squad_id": 500004,
     "cost": 666000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 644000,
@@ -20316,7 +20316,7 @@
     "last_name": "Faitala-Mariner",
     "squad_id": 500010,
     "cost": 402000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 560000,
@@ -27986,7 +27986,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 355000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 498000,
@@ -46703,7 +46703,7 @@
     "last_name": "Maumalo",
     "squad_id": 500004,
     "cost": 363000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 363000,
@@ -50864,7 +50864,7 @@
     "last_name": "Wiliame",
     "squad_id": 500032,
     "cost": 318000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -59749,7 +59749,7 @@
     "last_name": "Vuna",
     "squad_id": 500004,
     "cost": 220000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -60113,7 +60113,7 @@
     "last_name": "Biondi-Odo",
     "squad_id": 500010,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -72654,7 +72654,7 @@
     "last_name": "Tanner",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -73853,7 +73853,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 269000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "25": 230000,
@@ -77320,7 +77320,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 272000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 230000,
