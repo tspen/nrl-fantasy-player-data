@@ -28805,7 +28805,7 @@
     "last_name": "Sutton",
     "squad_id": 500010,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 491000,
@@ -65117,7 +65117,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 220000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -75078,7 +75078,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "27": 230000
