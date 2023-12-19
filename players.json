@@ -29806,5 +29806,54 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 0
+  },
+  {
+    "id": 100002172,
+    "first_name": "Max",
+    "last_name": "Plath",
+    "squad_id": 500723,
+    "cost": 500000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 500000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 2,
+      "total_points": 85,
+      "avg_points": 42.5,
+      "high_score": 51,
+      "low_score": 34,
+      "last_3_avg": 42.5,
+      "last_5_avg": 42.5,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 36.1633,
+      "round_wpr": {
+        "1": 36.1633
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 42.5,
+      "career_avg_vs": {
+        "500032": 42.5
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   }
 ]
