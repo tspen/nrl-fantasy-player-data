@@ -29747,6 +29747,70 @@
     "locked": 0
   },
   {
+    "id": 500647,
+    "first_name": "Nathan",
+    "last_name": "Brown",
+    "squad_id": 500002,
+    "cost": 384000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 384000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 10,
+      "total_points": 279,
+      "avg_points": 27.9,
+      "high_score": 41,
+      "low_score": -12,
+      "last_3_avg": 16,
+      "last_5_avg": 25.4,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 27.7734,
+      "round_wpr": {
+        "1": 27.7734
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 44.2302,
+      "career_avg_vs": {
+        "500001": 39.8,
+        "500002": 35,
+        "500003": 47.5,
+        "500004": 44.1,
+        "500005": 48.8333,
+        "500010": 46.1667,
+        "500011": 44,
+        "500012": 41.375,
+        "500013": 35.25,
+        "500014": 48.9,
+        "500021": 47.75,
+        "500022": 45.6667,
+        "500023": 44.6923,
+        "500028": 44,
+        "500031": 41.3333,
+        "500032": 52.6667
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 503919,
     "first_name": "Jesse",
     "last_name": "Marschke",
