@@ -7177,7 +7177,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 580000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 580000
@@ -9249,7 +9249,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000
@@ -9896,7 +9896,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 543000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 543000
@@ -10602,7 +10602,7 @@
     "last_name": "Madden",
     "squad_id": 500011,
     "cost": 525000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000
@@ -14494,7 +14494,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 469000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 469000
@@ -27891,7 +27891,7 @@
     "last_name": "Dockar-Clay",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
@@ -30409,7 +30409,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
