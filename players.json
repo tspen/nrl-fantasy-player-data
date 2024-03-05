@@ -3448,7 +3448,7 @@
         "res": 0.04
       },
       "owned_by": 0.66,
-      "adp": 62,
+      "adp": 61,
       "proj_avg": 47.93,
       "wpr": 47.6633,
       "round_wpr": {
@@ -4592,7 +4592,7 @@
         "res": 0.37
       },
       "owned_by": 2.87,
-      "adp": 61,
+      "adp": 62,
       "proj_avg": 46.18,
       "wpr": 45.9274,
       "round_wpr": {
@@ -7690,7 +7690,7 @@
         "res": 0.11
       },
       "owned_by": 0.5,
-      "adp": 130,
+      "adp": 131,
       "proj_avg": 41.82,
       "wpr": 41.5878,
       "round_wpr": {
@@ -8219,7 +8219,7 @@
         "res": 0.31
       },
       "owned_by": 4.1,
-      "adp": 131,
+      "adp": 130,
       "proj_avg": 41.09,
       "wpr": 40.8645,
       "round_wpr": {
@@ -30017,6 +30017,70 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 500387,
+    "first_name": "Zane",
+    "last_name": "Tetevano",
+    "squad_id": 500010,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 45,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0817,
+      "round_wpr": {
+        "1": 18.0817
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 26.7766,
+      "career_avg_vs": {
+        "500004": 26.4,
+        "500010": 26,
+        "500001": 15.5,
+        "500011": 28.3,
+        "500028": 22.1667,
+        "500021": 28.1429,
+        "500012": 25.6667,
+        "500013": 33,
+        "500014": 30.75,
+        "500005": 24.8571,
+        "500002": 27.3333,
+        "500003": 27.4,
+        "500022": 24.3333,
+        "500032": 26.6667,
+        "500031": 24.6,
+        "500023": 28.875
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
