@@ -9613,7 +9613,7 @@
     "last_name": "Valemei",
     "squad_id": 500012,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000
@@ -9673,7 +9673,7 @@
     "last_name": "Aitken",
     "squad_id": 500723,
     "cost": 549000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 549000
@@ -10893,7 +10893,7 @@
         "res": 0.09
       },
       "owned_by": 0.7,
-      "adp": 188,
+      "adp": 187,
       "proj_avg": 38.18,
       "wpr": 37.9715,
       "round_wpr": {
@@ -12873,7 +12873,7 @@
         "res": 0.09
       },
       "owned_by": 0.91,
-      "adp": 187,
+      "adp": 188,
       "proj_avg": 36.4,
       "wpr": 36.2356,
       "round_wpr": {
@@ -14560,7 +14560,7 @@
         "res": 0.67
       },
       "owned_by": 4.48,
-      "adp": 222,
+      "adp": 221,
       "proj_avg": 34.33,
       "wpr": 34.1382,
       "round_wpr": {
@@ -16401,7 +16401,7 @@
         "res": 0.04
       },
       "owned_by": 0.24,
-      "adp": 221,
+      "adp": 222,
       "proj_avg": 32.7,
       "wpr": 32.547,
       "round_wpr": {
@@ -16752,7 +16752,7 @@
     "last_name": "Averillo",
     "squad_id": 500723,
     "cost": 447000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 447000
@@ -17086,7 +17086,7 @@
     "last_name": "Gosiewski",
     "squad_id": 500012,
     "cost": 441000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 441000
@@ -27864,7 +27864,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -31090,7 +31090,7 @@
     "last_name": "Clifford",
     "squad_id": 500012,
     "cost": 480000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 480000
