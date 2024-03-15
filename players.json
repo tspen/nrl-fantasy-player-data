@@ -2793,7 +2793,7 @@
         "res": 0.13
       },
       "owned_by": 4.77,
-      "adp": 37,
+      "adp": 38,
       "proj_avg": 50.04,
       "wpr": 48.1973,
       "round_wpr": {
@@ -3198,7 +3198,7 @@
         "res": 0.24
       },
       "owned_by": 5.59,
-      "adp": 38,
+      "adp": 37,
       "proj_avg": 48.73,
       "wpr": 48.8372,
       "round_wpr": {
@@ -9859,7 +9859,7 @@
         "res": 0.06
       },
       "owned_by": 0.27,
-      "adp": 154,
+      "adp": 155,
       "proj_avg": 40.1,
       "wpr": 39.7728,
       "round_wpr": {
@@ -28717,7 +28717,7 @@
         "res": 15.29
       },
       "owned_by": 64.71,
-      "adp": 155,
+      "adp": 154,
       "proj_avg": 18.18,
       "wpr": 20.9916,
       "round_wpr": {
@@ -32558,6 +32558,63 @@
     "locked": 0
   },
   {
+    "id": 505676,
+    "first_name": "Luca",
+    "last_name": "Moretti",
+    "squad_id": 500031,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 73,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0462,
+      "round_wpr": {
+        "2": 18.0462
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 17.2,
+      "career_avg_vs": {
+        "500012": 16,
+        "500010": 19,
+        "500002": 22,
+        "500032": 17,
+        "500021": 28,
+        "500022": 17,
+        "500011": 23,
+        "500001": 6,
+        "500014": 8
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 505894,
     "first_name": "Jake",
     "last_name": "Clifford",
@@ -32946,6 +33003,53 @@
       "round_wpr": {
         "1": 16.6351,
         "2": 16.602
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 509864,
+    "first_name": "Tuku",
+    "last_name": "Hau Tapuha",
+    "squad_id": 500028,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0462,
+      "round_wpr": {
+        "2": 18.0462
       },
       "rd_tog": "",
       "tog": 0,
