@@ -2843,7 +2843,7 @@
         "res": 0.13
       },
       "owned_by": 4.75,
-      "adp": 38,
+      "adp": 37,
       "proj_avg": 50.04,
       "wpr": 48.1973,
       "round_wpr": {
@@ -3256,7 +3256,7 @@
         "res": 0.24
       },
       "owned_by": 5.61,
-      "adp": 37,
+      "adp": 38,
       "proj_avg": 48.73,
       "wpr": 48.8372,
       "round_wpr": {
@@ -11047,7 +11047,7 @@
         "res": 0.06
       },
       "owned_by": 0.32,
-      "adp": 179,
+      "adp": 178,
       "proj_avg": 38.98,
       "wpr": 38.5365,
       "round_wpr": {
@@ -12871,7 +12871,7 @@
         "res": 0.05
       },
       "owned_by": 0.47,
-      "adp": 178,
+      "adp": 179,
       "proj_avg": 37.31,
       "wpr": 37.6783,
       "round_wpr": {
@@ -13014,7 +13014,7 @@
         "res": 0.07
       },
       "owned_by": 0.5,
-      "adp": 214,
+      "adp": 213,
       "proj_avg": 37.09,
       "wpr": 36.8127,
       "round_wpr": {
@@ -14804,7 +14804,7 @@
         "res": 0.08
       },
       "owned_by": 0.35,
-      "adp": 213,
+      "adp": 214,
       "proj_avg": 35.13,
       "wpr": 34.8644,
       "round_wpr": {
@@ -15026,7 +15026,7 @@
         "res": 0.05
       },
       "owned_by": 0.17,
-      "adp": 243,
+      "adp": 242,
       "proj_avg": 34.91,
       "wpr": 33.6571,
       "round_wpr": {
@@ -15453,7 +15453,7 @@
         "res": 0.09
       },
       "owned_by": 1,
-      "adp": 225,
+      "adp": 224,
       "proj_avg": 34.4,
       "wpr": 33.8596,
       "round_wpr": {
@@ -15527,7 +15527,7 @@
         "res": 0.63
       },
       "owned_by": 4.28,
-      "adp": 224,
+      "adp": 225,
       "proj_avg": 34.33,
       "wpr": 32.5433,
       "round_wpr": {
@@ -17428,7 +17428,7 @@
         "res": 0.03
       },
       "owned_by": 0.09,
-      "adp": 242,
+      "adp": 243,
       "proj_avg": 32.8,
       "wpr": 31.651,
       "round_wpr": {
@@ -33651,6 +33651,60 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100005899,
+    "first_name": "Kurt",
+    "last_name": "Donoghoe",
+    "squad_id": 500723,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 110,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0462,
+      "round_wpr": {
+        "2": 18.0462
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 9.1429,
+      "career_avg_vs": {
+        "500001": 2,
+        "500013": 2.5,
+        "500003": 25,
+        "500012": 9,
+        "500005": 5,
+        "500002": 18
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100006243,
