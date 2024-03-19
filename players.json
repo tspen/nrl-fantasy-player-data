@@ -21993,7 +21993,7 @@
         "res": 11.58
       },
       "owned_by": 44.54,
-      "adp": 153,
+      "adp": 152,
       "proj_avg": 29.02,
       "wpr": 25.8187,
       "round_wpr": {
@@ -30102,7 +30102,7 @@
         "res": 14.09
       },
       "owned_by": 64.81,
-      "adp": 152,
+      "adp": 153,
       "proj_avg": 18.18,
       "wpr": 23.8762,
       "round_wpr": {
@@ -34949,6 +34949,53 @@
     ],
     "original_positions": [
       6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006848,
+    "first_name": "Blaize",
+    "last_name": "Talagi",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "3": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.5387,
+      "round_wpr": {
+        "3": 16.5387
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
