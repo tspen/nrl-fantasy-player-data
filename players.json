@@ -12114,7 +12114,7 @@
         "res": 0.03
       },
       "owned_by": 0.13,
-      "adp": 194,
+      "adp": 193,
       "proj_avg": 38.18,
       "wpr": 37.7501,
       "round_wpr": {
@@ -31109,7 +31109,7 @@
         "res": 13.93
       },
       "owned_by": 52.79,
-      "adp": 193,
+      "adp": 194,
       "proj_avg": 18.18,
       "wpr": 20.6428,
       "round_wpr": {
@@ -33497,6 +33497,70 @@
       6
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 500003,
+    "first_name": "Michael",
+    "last_name": "Jennings",
+    "squad_id": 500001,
+    "cost": 407000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "3": 407000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 126,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 29.2663,
+      "round_wpr": {
+        "3": 29.2663
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 33.2531,
+      "career_avg_vs": {
+        "500005": 35.5833,
+        "500032": 33,
+        "500011": 33.6154,
+        "500031": 30.2,
+        "500013": 35.8182,
+        "500010": 33.1538,
+        "500022": 33.0769,
+        "500014": 33,
+        "500002": 38.0909,
+        "500012": 27.6667,
+        "500021": 28.3,
+        "500028": 32.6667,
+        "500003": 29.875,
+        "500023": 41.4167,
+        "500004": 28.4444,
+        "500001": 30.5
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
