@@ -18311,7 +18311,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 467000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 458000,
@@ -19588,7 +19588,7 @@
     "last_name": "Addo-Carr",
     "squad_id": 500010,
     "cost": 409000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -24149,7 +24149,7 @@
     "last_name": "Havili",
     "squad_id": 500005,
     "cost": 420000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 392000,
@@ -31662,7 +31662,7 @@
     "last_name": "Kautoga",
     "squad_id": 500010,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
