@@ -487,7 +487,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 843000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 843000,
@@ -20096,7 +20096,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 449000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 440000,
@@ -21214,7 +21214,7 @@
     "last_name": "Niu",
     "squad_id": 500723,
     "cost": 429000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 424000,
@@ -22038,7 +22038,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 413000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -24134,7 +24134,7 @@
     "last_name": "Palasia",
     "squad_id": 500004,
     "cost": 370000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 393000,
@@ -28067,7 +28067,7 @@
     "last_name": "Teague",
     "squad_id": 500723,
     "cost": 329000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 329000,
@@ -32215,7 +32215,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
