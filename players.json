@@ -11133,7 +11133,7 @@
     "last_name": "Valemei",
     "squad_id": 500012,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -17897,7 +17897,7 @@
         "res": 0.21
       },
       "owned_by": 0.6,
-      "adp": 257,
+      "adp": 256,
       "proj_avg": 33.8,
       "wpr": 28.3372,
       "round_wpr": {
@@ -21566,7 +21566,7 @@
         "res": 0.55
       },
       "owned_by": 4.07,
-      "adp": 256,
+      "adp": 257,
       "proj_avg": 30.33,
       "wpr": 26.7298,
       "round_wpr": {
@@ -35934,7 +35934,7 @@
     "last_name": "Clifford",
     "squad_id": 500012,
     "cost": 480000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 480000,
