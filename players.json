@@ -1597,7 +1597,7 @@
     "last_name": "Gagai",
     "squad_id": 500003,
     "cost": 754000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 749000,
@@ -10148,7 +10148,7 @@
     "last_name": "Lucas",
     "squad_id": 500003,
     "cost": 533000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 558000,
@@ -10298,7 +10298,7 @@
     "last_name": "Hastings",
     "squad_id": 500003,
     "cost": 592000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -10378,7 +10378,7 @@
     "last_name": "Tevaga",
     "squad_id": 500032,
     "cost": 561000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -16630,7 +16630,7 @@
     "last_name": "Walker",
     "squad_id": 500032,
     "cost": 509000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 477000,
@@ -25171,7 +25171,7 @@
     "last_name": "Martin",
     "squad_id": 500032,
     "cost": 378000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 378000,
@@ -28264,7 +28264,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 310000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 326000,
