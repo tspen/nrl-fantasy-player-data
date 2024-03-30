@@ -26274,7 +26274,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 355000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 355000,
@@ -27265,7 +27265,7 @@
     "last_name": "Tuaimalo Vaega",
     "squad_id": 500002,
     "cost": 344000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 342000,
@@ -30876,7 +30876,7 @@
     "last_name": "Talau",
     "squad_id": 500002,
     "cost": 284000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 265000,
