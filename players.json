@@ -10496,7 +10496,7 @@
         "res": 0.03
       },
       "owned_by": 0.18,
-      "adp": 141,
+      "adp": 140,
       "proj_avg": 40.6,
       "wpr": 40.5067,
       "round_wpr": {
@@ -13096,7 +13096,7 @@
         "res": 0.18
       },
       "owned_by": 2.83,
-      "adp": 140,
+      "adp": 141,
       "proj_avg": 38.4,
       "wpr": 39.6302,
       "round_wpr": {
@@ -37195,6 +37195,65 @@
         "500723": 19
       },
       "last_3_proj_avg": 23.33
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 505612,
+    "first_name": "Harrison",
+    "last_name": "Edwards",
+    "squad_id": 500010,
+    "cost": 510000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "5": 510000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 177,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 36.4089,
+      "round_wpr": {
+        "5": 36.4089
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 37.5,
+      "career_avg_vs": {
+        "500005": 36,
+        "500022": 32,
+        "500032": 70,
+        "500004": 37,
+        "500001": 33,
+        "500031": 33,
+        "500003": 32,
+        "500014": 26,
+        "500723": 33,
+        "500013": 58,
+        "500002": 28
+      },
+      "last_3_proj_avg": 0
     },
     "positions": [
       2
