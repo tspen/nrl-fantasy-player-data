@@ -6814,7 +6814,7 @@
         "res": 0.06
       },
       "owned_by": 0.38,
-      "adp": 101,
+      "adp": 100,
       "proj_avg": 44.73,
       "wpr": 42.8352,
       "round_wpr": {
@@ -12457,7 +12457,7 @@
         "res": 4.93
       },
       "owned_by": 25.22,
-      "adp": 100,
+      "adp": 101,
       "proj_avg": 39.27,
       "wpr": 41.7611,
       "round_wpr": {
@@ -13226,7 +13226,7 @@
     "last_name": "Madden",
     "squad_id": 500011,
     "cost": 530000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -15032,7 +15032,7 @@
         "res": 0.17
       },
       "owned_by": 1.48,
-      "adp": 182,
+      "adp": 181,
       "proj_avg": 37.02,
       "wpr": 37.5164,
       "round_wpr": {
@@ -17697,7 +17697,7 @@
         "res": 0.09
       },
       "owned_by": 0.42,
-      "adp": 246,
+      "adp": 245,
       "proj_avg": 34.33,
       "wpr": 33.8629,
       "round_wpr": {
@@ -18973,7 +18973,7 @@
         "res": 1.13
       },
       "owned_by": 5.92,
-      "adp": 181,
+      "adp": 182,
       "proj_avg": 33.4,
       "wpr": 32.3437,
       "round_wpr": {
@@ -19668,7 +19668,7 @@
     "last_name": "Pezet",
     "squad_id": 500021,
     "cost": 443000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -20300,7 +20300,7 @@
         "res": 0.43
       },
       "owned_by": 2.25,
-      "adp": 245,
+      "adp": 246,
       "proj_avg": 32.51,
       "wpr": 30.6317,
       "round_wpr": {
@@ -22188,7 +22188,7 @@
         "res": 0.16
       },
       "owned_by": 0.4,
-      "adp": 278,
+      "adp": 279,
       "proj_avg": 30.84,
       "wpr": 27.5401,
       "round_wpr": {
@@ -22960,7 +22960,7 @@
         "res": 0.11
       },
       "owned_by": 0.51,
-      "adp": 279,
+      "adp": 278,
       "proj_avg": 30.04,
       "wpr": 29.4832,
       "round_wpr": {
@@ -28722,7 +28722,7 @@
     "last_name": "Moeroa",
     "squad_id": 500021,
     "cost": 343000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 334000,
@@ -30321,7 +30321,7 @@
     "last_name": "Howarth",
     "squad_id": 500021,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
