@@ -1834,7 +1834,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 682000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 741000,
@@ -5856,7 +5856,7 @@
         "res": 0.07
       },
       "owned_by": 0.78,
-      "adp": 84,
+      "adp": 83,
       "proj_avg": 46.04,
       "wpr": 46.1009,
       "round_wpr": {
@@ -6750,7 +6750,7 @@
         "res": 0.09
       },
       "owned_by": 0.91,
-      "adp": 83,
+      "adp": 84,
       "proj_avg": 45.02,
       "wpr": 42.9613,
       "round_wpr": {
@@ -9012,7 +9012,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 556000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 580000,
@@ -16608,7 +16608,7 @@
         "res": 0.29
       },
       "owned_by": 1.97,
-      "adp": 186,
+      "adp": 185,
       "proj_avg": 35.2,
       "wpr": 32.8206,
       "round_wpr": {
@@ -19139,7 +19139,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 467000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -20014,7 +20014,7 @@
     "last_name": "Xerri",
     "squad_id": 500010,
     "cost": 450000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -20271,7 +20271,7 @@
         "res": 1.96
       },
       "owned_by": 16.6,
-      "adp": 185,
+      "adp": 186,
       "proj_avg": 32.7,
       "wpr": 33.4688,
       "round_wpr": {
@@ -38053,6 +38053,55 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 509527,
+    "first_name": "Thomas",
+    "last_name": "Cant",
+    "squad_id": 500003,
+    "cost": 400000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "5": 400000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 181,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 28.556,
+      "round_wpr": {
+        "5": 28.556
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 34,
+      "career_avg_vs": {
+        "500723": 34
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 509565,
