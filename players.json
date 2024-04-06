@@ -14136,7 +14136,7 @@
     "last_name": "Ilias",
     "squad_id": 500005,
     "cost": 481000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 517000,
@@ -28186,7 +28186,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 370000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 348000,
@@ -28870,7 +28870,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 335000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 335000,
@@ -31204,7 +31204,7 @@
     "last_name": "Moale",
     "squad_id": 500005,
     "cost": 306000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 290000,
@@ -36621,7 +36621,7 @@
     "last_name": "Laban",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
