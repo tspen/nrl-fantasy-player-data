@@ -6229,7 +6229,7 @@
     "last_name": "King",
     "squad_id": 500010,
     "cost": 680000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 630000,
@@ -10665,7 +10665,7 @@
     "last_name": "Asofa-Solomona",
     "squad_id": 500021,
     "cost": 564000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 564000,
@@ -11912,7 +11912,7 @@
     "last_name": "Seve",
     "squad_id": 500021,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -20535,7 +20535,7 @@
     "last_name": "Pezet",
     "squad_id": 500021,
     "cost": 443000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -26692,7 +26692,7 @@
     "last_name": "Knight",
     "squad_id": 500010,
     "cost": 377000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 385000,
@@ -28969,7 +28969,7 @@
     "last_name": "Skelton",
     "squad_id": 500010,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -40213,7 +40213,7 @@
     "last_name": "Murphy",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "6": 230000
