@@ -24093,7 +24093,7 @@
     "last_name": "Turpin",
     "squad_id": 500010,
     "cost": 411000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 411000,
@@ -26764,7 +26764,7 @@
     "last_name": "Knight",
     "squad_id": 500010,
     "cost": 377000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 385000,
@@ -33721,7 +33721,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 295000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 261000,
