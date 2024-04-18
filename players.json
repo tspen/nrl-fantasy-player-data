@@ -39756,6 +39756,71 @@
     "locked": 0
   },
   {
+    "id": 500039,
+    "first_name": "Dylan",
+    "last_name": "Napa",
+    "squad_id": 500001,
+    "cost": 384000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "7": 384000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 211,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 27.6211,
+      "round_wpr": {
+        "7": 27.6211
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 32.9172,
+      "career_avg_vs": {
+        "500010": 38.1818,
+        "500013": 29.5,
+        "500028": 33.9286,
+        "500004": 32.7,
+        "500005": 37.9286,
+        "500031": 32.9091,
+        "500011": 31.75,
+        "500002": 33.8889,
+        "500022": 34.25,
+        "500023": 34.9286,
+        "500012": 32.4444,
+        "500021": 30.9167,
+        "500003": 27.7273,
+        "500014": 33.2,
+        "500032": 28.1111,
+        "500001": 31,
+        "500723": 8
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500387,
     "first_name": "Zane",
     "last_name": "Tetevano",
