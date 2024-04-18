@@ -22540,7 +22540,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -27108,7 +27108,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 395000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -27521,7 +27521,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 457000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 388000,
@@ -29843,7 +29843,7 @@
     "last_name": "Harris-Tavita",
     "squad_id": 500032,
     "cost": 243000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -32130,7 +32130,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 323000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -32980,7 +32980,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -37560,7 +37560,7 @@
     "last_name": "Fifita",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39761,7 +39761,7 @@
     "last_name": "Napa",
     "squad_id": 500001,
     "cost": 384000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "7": 384000
@@ -40320,7 +40320,7 @@
     "last_name": "Marschke",
     "squad_id": 500022,
     "cost": 259000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
