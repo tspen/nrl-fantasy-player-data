@@ -6130,7 +6130,7 @@
     "last_name": "Boyd",
     "squad_id": 500004,
     "cost": 581000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 635000,
@@ -15906,7 +15906,7 @@
     "last_name": "Sami",
     "squad_id": 500004,
     "cost": 510000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 513000,
@@ -25803,7 +25803,7 @@
     "last_name": "Paulo",
     "squad_id": 500002,
     "cost": 333000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -32049,7 +32049,7 @@
     "last_name": "Chan Kum Tong",
     "squad_id": 500002,
     "cost": 325000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -34324,7 +34324,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 274000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 279000,
@@ -40078,7 +40078,7 @@
     "last_name": "Brown",
     "squad_id": 500002,
     "cost": 384000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 384000,
