@@ -11779,7 +11779,7 @@
         "res": 0.06
       },
       "owned_by": 0.19,
-      "adp": 153,
+      "adp": 152,
       "proj_avg": 40.51,
       "wpr": 32.7926,
       "round_wpr": {
@@ -12204,7 +12204,7 @@
         "res": 0.76
       },
       "owned_by": 11.51,
-      "adp": 129,
+      "adp": 128,
       "proj_avg": 40.1,
       "wpr": 45.3357,
       "round_wpr": {
@@ -12769,7 +12769,7 @@
         "res": 0.21
       },
       "owned_by": 3.5,
-      "adp": 131,
+      "adp": 130,
       "proj_avg": 39.93,
       "wpr": 44.2651,
       "round_wpr": {
@@ -12863,7 +12863,7 @@
         "res": 0.39
       },
       "owned_by": 7.31,
-      "adp": 128,
+      "adp": 129,
       "proj_avg": 39.93,
       "wpr": 42.2485,
       "round_wpr": {
@@ -13320,7 +13320,7 @@
         "res": 0.39
       },
       "owned_by": 2.09,
-      "adp": 130,
+      "adp": 131,
       "proj_avg": 39.64,
       "wpr": 34.4389,
       "round_wpr": {
@@ -17533,7 +17533,7 @@
         "res": 1.49
       },
       "owned_by": 26.6,
-      "adp": 152,
+      "adp": 153,
       "proj_avg": 35.78,
       "wpr": 49.0665,
       "round_wpr": {
@@ -22599,7 +22599,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 441000,
@@ -32497,7 +32497,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 309000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 309000,
@@ -33050,7 +33050,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 300000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -40256,7 +40256,7 @@
     "last_name": "Brown",
     "squad_id": 500022,
     "cost": 371000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 371000
@@ -41425,7 +41425,7 @@
     "last_name": "Roache",
     "squad_id": 500032,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 250000
