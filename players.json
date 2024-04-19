@@ -8363,7 +8363,7 @@
     "last_name": "May",
     "squad_id": 500014,
     "cost": 562000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -15993,7 +15993,7 @@
     "last_name": "Peachey",
     "squad_id": 500014,
     "cost": 512000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 512000,
@@ -25471,7 +25471,7 @@
     "last_name": "Alamoti",
     "squad_id": 500014,
     "cost": 407000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 407000,
@@ -32350,7 +32350,7 @@
     "last_name": "Simpkin",
     "squad_id": 500023,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 314000,
@@ -37780,7 +37780,7 @@
     "last_name": "Fainu",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -38214,7 +38214,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39694,7 +39694,7 @@
     "last_name": "Alaimalo",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -41420,6 +41420,55 @@
     "locked": 0
   },
   {
+    "id": 507549,
+    "first_name": "Paul",
+    "last_name": "Roache",
+    "squad_id": 500032,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "7": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 214,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.9825,
+      "round_wpr": {
+        "7": 17.9825
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 6,
+      "career_avg_vs": {
+        "500723": 6
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 508067,
     "first_name": "Kane",
     "last_name": "Bradley",
@@ -42067,6 +42116,53 @@
         "5": 16.4191,
         "6": 16.4033,
         "7": 16.5437
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006286,
+    "first_name": "Zyon",
+    "last_name": "Maiu'u",
+    "squad_id": 500032,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "7": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.5439,
+      "round_wpr": {
+        "7": 16.5439
       },
       "rd_tog": "",
       "tog": 0,
