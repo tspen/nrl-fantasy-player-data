@@ -43559,6 +43559,53 @@
     "locked": 0
   },
   {
+    "id": 100003925,
+    "first_name": "Ethan",
+    "last_name": "Sanders",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "8": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.6261,
+      "round_wpr": {
+        "8": 16.6261
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100004119,
     "first_name": "Utuloa",
     "last_name": "Asomua",
