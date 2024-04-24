@@ -5385,7 +5385,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 459000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -7742,7 +7742,7 @@
     "last_name": "Radley",
     "squad_id": 500001,
     "cost": 684000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 611000,
@@ -16142,7 +16142,7 @@
     "last_name": "Ravalawa",
     "squad_id": 500022,
     "cost": 421000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 514000,
@@ -18698,7 +18698,7 @@
     "last_name": "Tupou",
     "squad_id": 500001,
     "cost": 522000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 484000,
@@ -23180,7 +23180,7 @@
     "last_name": "Wong",
     "squad_id": 500001,
     "cost": 475000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -28173,7 +28173,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 395000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -39018,7 +39018,7 @@
     "last_name": "Fifita",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -41226,7 +41226,7 @@
     "last_name": "Jennings",
     "squad_id": 500001,
     "cost": 379000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 407000,
