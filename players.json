@@ -7742,7 +7742,7 @@
     "last_name": "Radley",
     "squad_id": 500001,
     "cost": 684000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 611000,
@@ -12889,7 +12889,7 @@
     "last_name": "Seve",
     "squad_id": 500021,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -17283,7 +17283,7 @@
         "res": 0.23
       },
       "owned_by": 2.21,
-      "adp": 193,
+      "adp": 194,
       "proj_avg": 36.8,
       "wpr": 42.5891,
       "round_wpr": {
@@ -17788,7 +17788,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500005,
     "cost": 372000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 499000,
@@ -18698,7 +18698,7 @@
     "last_name": "Tupou",
     "squad_id": 500001,
     "cost": 522000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 484000,
@@ -22225,7 +22225,7 @@
     "last_name": "Pezet",
     "squad_id": 500021,
     "cost": 443000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -22857,7 +22857,7 @@
         "res": 1.39
       },
       "owned_by": 9.35,
-      "adp": 194,
+      "adp": 193,
       "proj_avg": 32.7,
       "wpr": 33.3812,
       "round_wpr": {
@@ -25725,7 +25725,7 @@
     "last_name": "Keppie",
     "squad_id": 500005,
     "cost": 428000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -29375,7 +29375,7 @@
     "last_name": "Mitchell",
     "squad_id": 500005,
     "cost": 402000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 380000,
@@ -43219,7 +43219,7 @@
     "last_name": "Powell",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
