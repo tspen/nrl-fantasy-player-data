@@ -3841,7 +3841,7 @@
     "last_name": "Sorensen",
     "squad_id": 500014,
     "cost": 614000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 683000,
@@ -16706,7 +16706,7 @@
     "last_name": "Peachey",
     "squad_id": 500014,
     "cost": 512000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 512000,
@@ -19996,7 +19996,7 @@
     "last_name": "Leota",
     "squad_id": 500014,
     "cost": 413000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 472000,
@@ -27538,7 +27538,7 @@
     "last_name": "Eisenhuth",
     "squad_id": 500014,
     "cost": 391000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 397000,
@@ -30422,7 +30422,7 @@
     "last_name": "Vailea",
     "squad_id": 500012,
     "cost": 360000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -39095,7 +39095,7 @@
     "last_name": "Geyer",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
