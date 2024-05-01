@@ -24220,7 +24220,7 @@
     "id": 500170,
     "first_name": "Jack",
     "last_name": "Gosiewski",
-    "squad_id": 500012,
+    "squad_id": 500011,
     "cost": 281000,
     "status": "not-playing",
     "stats": {
@@ -24305,8 +24305,8 @@
       3
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500012,
+    "transfer_round": 9,
     "is_bye": 0,
     "locked": 0
   },
@@ -43801,7 +43801,7 @@
     "id": 505612,
     "first_name": "Harrison",
     "last_name": "Edwards",
-    "squad_id": 500010,
+    "squad_id": 500012,
     "cost": 475000,
     "status": "reserve",
     "stats": {
@@ -43868,8 +43868,8 @@
     "original_positions": [
       2
     ],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500010,
+    "transfer_round": 9,
     "is_bye": 0,
     "locked": 0
   },
