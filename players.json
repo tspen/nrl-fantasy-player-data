@@ -45353,6 +45353,55 @@
     "locked": 0
   },
   {
+    "id": 505142,
+    "first_name": "Josh",
+    "last_name": "Rogers",
+    "squad_id": 500011,
+    "cost": 400000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "10": 400000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 254,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 29.0829,
+      "round_wpr": {
+        "10": 29.0829
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 38,
+      "career_avg_vs": {
+        "500021": 38
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 505612,
     "first_name": "Harrison",
     "last_name": "Edwards",
@@ -46533,6 +46582,53 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 509443,
+    "first_name": "Dion",
+    "last_name": "Teaupa",
+    "squad_id": 500005,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "10": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.7226,
+      "round_wpr": {
+        "10": 16.7226
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
