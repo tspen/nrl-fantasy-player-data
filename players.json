@@ -14770,7 +14770,7 @@
         "res": 1.14
       },
       "owned_by": 4.74,
-      "adp": 169,
+      "adp": 170,
       "proj_avg": 39.64,
       "wpr": 36.0551,
       "round_wpr": {
@@ -15806,7 +15806,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 495000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 529000,
@@ -16659,7 +16659,7 @@
         "res": 1.65
       },
       "owned_by": 13.02,
-      "adp": 170,
+      "adp": 169,
       "proj_avg": 37.82,
       "wpr": 48.821,
       "round_wpr": {
@@ -30074,7 +30074,7 @@
     "last_name": "Arthur",
     "squad_id": 500002,
     "cost": 395000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -40523,7 +40523,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47085,7 +47085,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 269000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
