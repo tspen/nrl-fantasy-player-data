@@ -45293,6 +45293,58 @@
     "locked": 1
   },
   {
+    "id": 504371,
+    "first_name": "Gehamat",
+    "last_name": "Shibasaki",
+    "squad_id": 500005,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "10": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 253,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.1768,
+      "round_wpr": {
+        "10": 18.1768
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 22.5,
+      "career_avg_vs": {
+        "500032": 29,
+        "500004": 16
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      6
+    ],
+    "original_positions": [
+      5,
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 504377,
     "first_name": "Thomas",
     "last_name": "Mikaele",
@@ -45358,6 +45410,53 @@
         "500723": 27,
         "500014": 25
       },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 504535,
+    "first_name": "Matthew",
+    "last_name": "French",
+    "squad_id": 500005,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "10": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.7226,
+      "round_wpr": {
+        "10": 16.7226
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
       "last_3_proj_avg": 0
     },
     "positions": [
