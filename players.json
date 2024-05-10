@@ -12728,7 +12728,7 @@
     "last_name": "Tracey",
     "squad_id": 500010,
     "cost": 523000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 558000,
@@ -35297,7 +35297,7 @@
     "last_name": "Taaffe",
     "squad_id": 500010,
     "cost": 341000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 330000,
@@ -38533,7 +38533,7 @@
     "last_name": "Luke",
     "squad_id": 500014,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 271000,
@@ -45065,7 +45065,7 @@
     "last_name": "Faamausili",
     "squad_id": 500010,
     "cost": 240000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
