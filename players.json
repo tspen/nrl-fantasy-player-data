@@ -8062,7 +8062,7 @@
     "last_name": "Tuivasa-Sheck",
     "squad_id": 500032,
     "cost": 553000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 619000,
@@ -15202,7 +15202,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 519000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 540000,
@@ -25052,7 +25052,7 @@
     "last_name": "Wong",
     "squad_id": 500001,
     "cost": 440000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -27119,7 +27119,7 @@
     "last_name": "Tupouniua",
     "squad_id": 500001,
     "cost": 302000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -27407,7 +27407,7 @@
     "last_name": "Montoya",
     "squad_id": 500032,
     "cost": 356000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 417000,
@@ -32346,7 +32346,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -32441,7 +32441,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 342000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -34052,7 +34052,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 370000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 348000,
@@ -34608,7 +34608,7 @@
     "last_name": "Kepaoa",
     "squad_id": 500023,
     "cost": 366000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 340000,
@@ -36012,7 +36012,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 323000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -47646,7 +47646,7 @@
     "last_name": "Maiu'u",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "7": 230000,
