@@ -11031,7 +11031,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 495000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 580000,
@@ -28299,7 +28299,7 @@
     "last_name": "Whyte",
     "squad_id": 500001,
     "cost": 424000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 411000,
@@ -44488,7 +44488,7 @@
     "last_name": "Laban",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
