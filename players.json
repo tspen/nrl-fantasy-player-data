@@ -2606,7 +2606,7 @@
     "last_name": "Harris",
     "squad_id": 500032,
     "cost": 750000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 736000,
@@ -4257,7 +4257,7 @@
     "last_name": "Sorensen",
     "squad_id": 500014,
     "cost": 614000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 683000,
@@ -9658,7 +9658,7 @@
     "last_name": "May",
     "squad_id": 500014,
     "cost": 504000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -18537,7 +18537,7 @@
     "last_name": "Peachey",
     "squad_id": 500014,
     "cost": 512000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 512000,
@@ -24182,7 +24182,7 @@
     "last_name": "Laurie",
     "squad_id": 500014,
     "cost": 284000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -26352,7 +26352,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 449000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 440000,
@@ -29432,7 +29432,7 @@
     "last_name": "Alamoti",
     "squad_id": 500014,
     "cost": 501000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 407000,
@@ -32305,7 +32305,7 @@
     "last_name": "Stimson",
     "squad_id": 500004,
     "cost": 324000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -37163,7 +37163,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 327000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -39914,7 +39914,7 @@
     "last_name": "Luke",
     "squad_id": 500014,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 271000,
@@ -40680,7 +40680,7 @@
     "last_name": "Cartwright",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43307,7 +43307,7 @@
     "last_name": "Geyer",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -48239,7 +48239,7 @@
     "last_name": "Roache",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 250000,
