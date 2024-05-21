@@ -24630,7 +24630,7 @@
     "last_name": "Campbell",
     "squad_id": 500004,
     "cost": 494000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 459000,
@@ -48668,6 +48668,59 @@
     "locked": 0
   },
   {
+    "id": 505527,
+    "first_name": "Declan",
+    "last_name": "Casey",
+    "squad_id": 500023,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "12": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 267,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2321,
+      "round_wpr": {
+        "12": 18.2321
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 10,
+      "career_avg_vs": {
+        "500028": 18,
+        "500022": 11,
+        "500013": 1
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      6
+    ],
+    "original_positions": [
+      5,
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 505612,
     "first_name": "Harrison",
     "last_name": "Edwards",
@@ -49740,6 +49793,58 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 506604,
+    "first_name": "Jacob",
+    "last_name": "Alick-Wiencke",
+    "squad_id": 500004,
+    "cost": 327000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "12": 327000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 267,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 23.8475,
+      "round_wpr": {
+        "12": 23.8475
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 23.75,
+      "career_avg_vs": {
+        "500723": 60,
+        "500014": 16,
+        "500021": 3,
+        "500010": 16
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
