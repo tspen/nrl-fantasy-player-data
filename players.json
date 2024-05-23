@@ -14740,7 +14740,7 @@
     "last_name": "Sexton",
     "squad_id": 500010,
     "cost": 523000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 551000,
@@ -31015,7 +31015,7 @@
     "last_name": "Hutchison",
     "squad_id": 500010,
     "cost": 434000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -35387,7 +35387,7 @@
     "last_name": "Murdoch-Masila",
     "squad_id": 500022,
     "cost": 278000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 353000,
