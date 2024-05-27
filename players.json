@@ -52113,6 +52113,59 @@
     "locked": 0
   },
   {
+    "id": 510488,
+    "first_name": "Moala",
+    "last_name": "Graham-Taufa",
+    "squad_id": 500032,
+    "cost": 247000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "13": 247000
+      },
+      "scores": {
+        "12": 32
+      },
+      "ranks": {
+        "12": 46
+      },
+      "season_rank": 151,
+      "games_played": 1,
+      "total_points": 32,
+      "avg_points": 32,
+      "high_score": 32,
+      "low_score": 32,
+      "last_3_avg": 32,
+      "last_5_avg": 32,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0717,
+      "round_wpr": {
+        "13": 18.0717
+      },
+      "rd_tog": 80,
+      "tog": 80,
+      "career_avg": 32,
+      "career_avg_vs": {
+        "500723": 32
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 1,
+    "locked": 0
+  },
+  {
     "id": 100002172,
     "first_name": "Max",
     "last_name": "Plath",
@@ -52914,7 +52967,7 @@
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
-    "is_bye": 0,
+    "is_bye": 1,
     "locked": 0
   },
   {
