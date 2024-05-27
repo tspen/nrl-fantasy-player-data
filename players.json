@@ -52865,6 +52865,59 @@
     "locked": 0
   },
   {
+    "id": 100007379,
+    "first_name": "Alex",
+    "last_name": "Lobb",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "13": 230000
+      },
+      "scores": {
+        "12": 5
+      },
+      "ranks": {
+        "12": 73
+      },
+      "season_rank": 265,
+      "games_played": 1,
+      "total_points": 5,
+      "avg_points": 5,
+      "high_score": 5,
+      "low_score": 5,
+      "last_3_avg": 5,
+      "last_5_avg": 5,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.8279,
+      "round_wpr": {
+        "13": 16.8279
+      },
+      "rd_tog": 12,
+      "tog": 12,
+      "career_avg": 5,
+      "career_avg_vs": {
+        "500012": 5
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100007922,
     "first_name": "Aitasi",
     "last_name": "James",
