@@ -35549,7 +35549,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -49715,7 +49715,7 @@
     "last_name": "Faamausili",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -51696,7 +51696,7 @@
     "last_name": "Hopoi",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "13": 230000
