@@ -53368,6 +53368,59 @@
     "locked": 1
   },
   {
+    "id": 100006533,
+    "first_name": "Blake",
+    "last_name": "Steep",
+    "squad_id": 500001,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "13": 230000
+      },
+      "scores": {
+        "13": 10
+      },
+      "ranks": {
+        "13": 59
+      },
+      "season_rank": 255,
+      "games_played": 1,
+      "total_points": 10,
+      "avg_points": 10,
+      "high_score": 10,
+      "low_score": 10,
+      "last_3_avg": 10,
+      "last_5_avg": 10,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 16.8279,
+      "round_wpr": {
+        "13": 16.8279
+      },
+      "rd_tog": 13,
+      "tog": 13,
+      "career_avg": 10,
+      "career_avg_vs": {
+        "500012": 10
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006660,
     "first_name": "Kit",
     "last_name": "Laulilii",
