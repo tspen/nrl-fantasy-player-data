@@ -5534,7 +5534,7 @@
     "last_name": "Robson",
     "squad_id": 500012,
     "cost": 716000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 660000,
@@ -16174,7 +16174,7 @@
     "last_name": "Nanai",
     "squad_id": 500012,
     "cost": 711000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 549000,
@@ -17757,7 +17757,7 @@
     "last_name": "Dearden",
     "squad_id": 500012,
     "cost": 616000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 531000,
@@ -20851,7 +20851,7 @@
     "last_name": "McLean",
     "squad_id": 500012,
     "cost": 392000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 507000,
@@ -24760,7 +24760,7 @@
     "last_name": "Taulagi",
     "squad_id": 500012,
     "cost": 483000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 470000,
@@ -34649,7 +34649,7 @@
     "last_name": "Afoa",
     "squad_id": 500032,
     "cost": 310000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 392000,
@@ -39067,7 +39067,7 @@
     "last_name": "Chester",
     "squad_id": 500012,
     "cost": 406000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 337000,
@@ -40543,7 +40543,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 320000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -49279,7 +49279,7 @@
     "last_name": "Duffy",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -53771,7 +53771,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500032,
     "cost": 247000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 247000,
