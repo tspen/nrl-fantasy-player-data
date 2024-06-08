@@ -9353,7 +9353,7 @@
         "res": 0.09
       },
       "owned_by": 0.6,
-      "adp": 97,
+      "adp": 96,
       "proj_avg": 44.73,
       "wpr": 36.7758,
       "round_wpr": {
@@ -9562,7 +9562,7 @@
         "res": 0.02
       },
       "owned_by": 0.23,
-      "adp": 96,
+      "adp": 97,
       "proj_avg": 44.29,
       "wpr": 45.0261,
       "round_wpr": {
@@ -18127,7 +18127,7 @@
     "last_name": "Saifiti",
     "squad_id": 500003,
     "cost": 388000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -33005,7 +33005,7 @@
     "last_name": "Pryce",
     "squad_id": 500003,
     "cost": 400000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -35287,7 +35287,7 @@
     "last_name": "Stimson",
     "squad_id": 500004,
     "cost": 283000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -36355,7 +36355,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 417000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 369000,
@@ -41289,7 +41289,7 @@
     "last_name": "Hetherington",
     "squad_id": 500003,
     "cost": 343000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 303000,
@@ -44270,7 +44270,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 362000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 261000,
@@ -46222,7 +46222,7 @@
     "last_name": "Ieremia",
     "squad_id": 500021,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -48504,7 +48504,7 @@
     "last_name": "Armstrong",
     "squad_id": 500003,
     "cost": 489000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -53228,7 +53228,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 249000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -55055,7 +55055,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "14": 230000
