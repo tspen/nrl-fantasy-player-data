@@ -28984,7 +28984,7 @@
     "last_name": "Tonumaipea",
     "squad_id": 500021,
     "cost": 437000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 437000,
@@ -36639,7 +36639,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 347000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -45843,7 +45843,7 @@
     "last_name": "Mapapalangi",
     "squad_id": 500003,
     "cost": 249000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53840,7 +53840,7 @@
     "last_name": "Cant",
     "squad_id": 500003,
     "cost": 400000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 400000,
