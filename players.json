@@ -23180,7 +23180,7 @@
     "last_name": "Asi",
     "squad_id": 500031,
     "cost": 479000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 484000,
@@ -26183,7 +26183,7 @@
     "last_name": "Lussick",
     "squad_id": 500031,
     "cost": 455000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 459000,
@@ -29918,7 +29918,7 @@
     "last_name": "Sivo",
     "squad_id": 500031,
     "cost": 538000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 429000,
@@ -39927,7 +39927,7 @@
     "last_name": "Makatoa",
     "squad_id": 500031,
     "cost": 260000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 331000,
@@ -51412,7 +51412,7 @@
     "last_name": "Faamausili",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
