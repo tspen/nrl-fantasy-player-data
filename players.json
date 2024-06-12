@@ -11390,7 +11390,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 544000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 590000,
@@ -13006,7 +13006,7 @@
     "last_name": "Wallace",
     "squad_id": 500723,
     "cost": 543000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 578000,
@@ -16162,7 +16162,7 @@
         "res": 0.01
       },
       "owned_by": 0.08,
-      "adp": 158,
+      "adp": 159,
       "proj_avg": 40,
       "wpr": 41.1584,
       "round_wpr": {
@@ -16376,7 +16376,7 @@
         "res": 0.08
       },
       "owned_by": 0.31,
-      "adp": 159,
+      "adp": 158,
       "proj_avg": 40,
       "wpr": 26.3641,
       "round_wpr": {
@@ -31174,7 +31174,7 @@
     "last_name": "Niu",
     "squad_id": 500723,
     "cost": 446000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 424000,
@@ -48370,7 +48370,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -49237,7 +49237,7 @@
     "last_name": "Stonestreet",
     "squad_id": 500028,
     "cost": 241000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -53008,7 +53008,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 450000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 450000,
