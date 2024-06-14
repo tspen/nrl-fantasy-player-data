@@ -56266,6 +56266,53 @@
     "locked": 0
   },
   {
+    "id": 100006657,
+    "first_name": "Heath",
+    "last_name": "Mason",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.2108,
+      "round_wpr": {
+        "15": 17.2108
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006660,
     "first_name": "Kit",
     "last_name": "Laulilii",
@@ -56435,6 +56482,53 @@
     ],
     "original_positions": [
       5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100007144,
+    "first_name": "Jordan",
+    "last_name": "Miller",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.2108,
+      "round_wpr": {
+        "15": 17.2108
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
@@ -56883,6 +56977,53 @@
         "500021": 32,
         "500014": 37
       },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011335,
+    "first_name": "Luke",
+    "last_name": "Laulilii",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.2108,
+      "round_wpr": {
+        "15": 17.2108
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
       "last_3_proj_avg": 0
     },
     "positions": [
