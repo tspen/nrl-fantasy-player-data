@@ -29571,7 +29571,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -41826,7 +41826,7 @@
     "last_name": "Chan Kum Tong",
     "squad_id": 500002,
     "cost": 247000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -42228,7 +42228,7 @@
     "last_name": "Simpkin",
     "squad_id": 500002,
     "cost": 312000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 314000,
