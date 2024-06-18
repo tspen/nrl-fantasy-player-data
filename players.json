@@ -7677,7 +7677,7 @@
     "last_name": "Garrick",
     "squad_id": 500002,
     "cost": 625000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 639000,
@@ -14339,7 +14339,7 @@
     "last_name": "Paseka",
     "squad_id": 500002,
     "cost": 418000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 569000,
@@ -53409,6 +53409,71 @@
         "500032": 26.6667,
         "500031": 24.6,
         "500023": 28.875
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 500438,
+    "first_name": "Tevita",
+    "last_name": "Pangai Junior",
+    "squad_id": 500723,
+    "cost": 500000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "16": 500000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 274,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 37.6344,
+      "round_wpr": {
+        "16": 37.6344
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 39.7634,
+      "career_avg_vs": {
+        "500023": 45.8333,
+        "500032": 42.3333,
+        "500013": 37,
+        "500010": 39.8889,
+        "500021": 36.5,
+        "500005": 37.8333,
+        "500014": 41,
+        "500001": 44.2727,
+        "500031": 45.9091,
+        "500028": 38.4,
+        "500012": 44.6667,
+        "500004": 39.2,
+        "500003": 33.25,
+        "500022": 37.6,
+        "500002": 28.8571,
+        "500011": 52.3333,
+        "500723": 14
       },
       "last_3_proj_avg": 0
     },
