@@ -17538,7 +17538,7 @@
     "last_name": "Nanai",
     "squad_id": 500012,
     "cost": 638000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 549000,
@@ -26939,7 +26939,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 436000,
-    "status": "not-playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 469000,
@@ -38874,7 +38874,7 @@
     "last_name": "Sutton",
     "squad_id": 500010,
     "cost": 378000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 378000,
@@ -47794,7 +47794,7 @@
     "last_name": "Cotric",
     "squad_id": 500013,
     "cost": 360000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 261000,
@@ -53782,7 +53782,7 @@
     "last_name": "Te Kura",
     "squad_id": 500011,
     "cost": 250000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58124,6 +58124,53 @@
     "locked": 0
   },
   {
+    "id": 509388,
+    "first_name": "Jordan",
+    "last_name": "Martin",
+    "squad_id": 500013,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "17": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.4526,
+      "round_wpr": {
+        "17": 17.4526
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 509443,
     "first_name": "Dion",
     "last_name": "Teaupa",
@@ -60598,6 +60645,53 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 100011250,
+    "first_name": "Matthew",
+    "last_name": "Arthur",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "17": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.4526,
+      "round_wpr": {
+        "17": 17.4526
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
