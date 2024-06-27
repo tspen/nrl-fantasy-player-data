@@ -4281,7 +4281,7 @@
     "last_name": "Preston",
     "squad_id": 500010,
     "cost": 680000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 704000,
@@ -7331,7 +7331,7 @@
     "last_name": "Wilton",
     "squad_id": 500028,
     "cost": 615000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -11217,7 +11217,7 @@
         "res": 0.13
       },
       "owned_by": 1.75,
-      "adp": 107,
+      "adp": 106,
       "proj_avg": 43.71,
       "wpr": 44.0138,
       "round_wpr": {
@@ -13998,7 +13998,7 @@
         "res": 0.73
       },
       "owned_by": 4.79,
-      "adp": 106,
+      "adp": 107,
       "proj_avg": 41.89,
       "wpr": 40.1087,
       "round_wpr": {
@@ -22046,7 +22046,7 @@
         "res": 0.19
       },
       "owned_by": 0.79,
-      "adp": 215,
+      "adp": 214,
       "proj_avg": 37.09,
       "wpr": 25.4925,
       "round_wpr": {
@@ -25760,7 +25760,7 @@
         "res": 0.37
       },
       "owned_by": 1.65,
-      "adp": 214,
+      "adp": 215,
       "proj_avg": 34.7,
       "wpr": 39.2731,
       "round_wpr": {
@@ -35571,7 +35571,7 @@
     "last_name": "Hutchison",
     "squad_id": 500010,
     "cost": 464000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -50985,7 +50985,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55959,7 +55959,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 450000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 450000,
@@ -58475,7 +58475,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 243000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 250000,
@@ -59933,7 +59933,7 @@
     "last_name": "Clark",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
