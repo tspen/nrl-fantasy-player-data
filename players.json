@@ -1587,7 +1587,7 @@
     "last_name": "Grant",
     "squad_id": 500021,
     "cost": 657000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 788000,
@@ -18780,7 +18780,7 @@
     "last_name": "Lewis",
     "squad_id": 500021,
     "cost": 424000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -23798,7 +23798,7 @@
     "last_name": "Papenhuyzen",
     "squad_id": 500021,
     "cost": 554000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 495000,
@@ -25363,7 +25363,7 @@
     "last_name": "Guler",
     "squad_id": 500013,
     "cost": 403000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 480000,
@@ -32364,7 +32364,7 @@
     "last_name": "Woolford",
     "squad_id": 500013,
     "cost": 429000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 428000,
@@ -36508,7 +36508,7 @@
     "last_name": "Smith",
     "squad_id": 500021,
     "cost": 389000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -50624,7 +50624,7 @@
     "last_name": "Schiller",
     "squad_id": 500013,
     "cost": 446000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -57790,7 +57790,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 249000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -59431,7 +59431,7 @@
     "last_name": "Fa'alogo",
     "squad_id": 500021,
     "cost": 492000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 400000,
