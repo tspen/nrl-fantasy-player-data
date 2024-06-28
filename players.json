@@ -9553,7 +9553,7 @@
     "last_name": "Cogger",
     "squad_id": 500003,
     "cost": 551000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 620000,
@@ -15669,7 +15669,7 @@
     "last_name": "Lucas",
     "squad_id": 500003,
     "cost": 713000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 558000,
@@ -28114,7 +28114,7 @@
     "last_name": "Lussick",
     "squad_id": 500031,
     "cost": 342000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 459000,
@@ -39434,7 +39434,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 317000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -42405,7 +42405,7 @@
     "last_name": "Greig",
     "squad_id": 500031,
     "cost": 324000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 336000,
@@ -52508,7 +52508,7 @@
     "last_name": "Armstrong",
     "squad_id": 500003,
     "cost": 489000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -59528,6 +59528,53 @@
     ],
     "original_positions": [
       6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006434,
+    "first_name": "Charlie",
+    "last_name": "Guymer",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "17": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.4526,
+      "round_wpr": {
+        "17": 17.4526
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
