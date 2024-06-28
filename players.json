@@ -9671,7 +9671,7 @@
     "last_name": "Crichton",
     "squad_id": 500010,
     "cost": 521000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 620000,
@@ -34220,7 +34220,7 @@
     "last_name": "Turpin",
     "squad_id": 500010,
     "cost": 282000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 411000,
@@ -46539,7 +46539,7 @@
     "last_name": "Colquhoun",
     "squad_id": 500028,
     "cost": 286000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 286000,
