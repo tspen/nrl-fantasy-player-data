@@ -7084,7 +7084,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 378000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -11626,7 +11626,7 @@
     "last_name": "Lomax",
     "squad_id": 500022,
     "cost": 712000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 591000,
@@ -15316,7 +15316,7 @@
     "last_name": "Tabuai-Fidow",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 564000,
@@ -27220,7 +27220,7 @@
     "last_name": "Stone",
     "squad_id": 500723,
     "cost": 397000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 468000,
@@ -30935,7 +30935,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -40533,7 +40533,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 289000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 355000,
@@ -49825,7 +49825,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -50876,7 +50876,7 @@
     "last_name": "Mozer",
     "squad_id": 500011,
     "cost": 245000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -54201,7 +54201,7 @@
     "last_name": "Laban",
     "squad_id": 500032,
     "cost": 285000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55590,7 +55590,7 @@
     "last_name": "Marschke",
     "squad_id": 500022,
     "cost": 303000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58075,7 +58075,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 628000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 425000,
@@ -59223,7 +59223,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 242000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
