@@ -8554,7 +8554,7 @@
     "last_name": "Boyd",
     "squad_id": 500004,
     "cost": 609000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 635000,
@@ -13282,7 +13282,7 @@
     "last_name": "Rudolf",
     "squad_id": 500028,
     "cost": 478000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 583000,
@@ -18646,7 +18646,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 631000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -22322,7 +22322,7 @@
     "last_name": "Sami",
     "squad_id": 500004,
     "cost": 454000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 513000,
@@ -35918,7 +35918,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 274000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -41765,7 +41765,7 @@
     "last_name": "Maumalo",
     "squad_id": 500004,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -47765,7 +47765,7 @@
     "last_name": "Colquhoun",
     "squad_id": 500028,
     "cost": 286000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 286000,
@@ -59118,7 +59118,7 @@
     "last_name": "Alick-Wiencke",
     "squad_id": 500004,
     "cost": 343000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "12": 327000,
@@ -60150,7 +60150,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 243000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
