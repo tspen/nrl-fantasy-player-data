@@ -7298,7 +7298,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 378000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -31459,7 +31459,7 @@
     "last_name": "Wong",
     "squad_id": 500001,
     "cost": 379000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -31827,7 +31827,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -33446,7 +33446,7 @@
     "last_name": "Faitala-Mariner",
     "squad_id": 500022,
     "cost": 559000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -38665,7 +38665,7 @@
     "last_name": "Afoa",
     "squad_id": 500032,
     "cost": 310000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 392000,
@@ -55875,7 +55875,7 @@
     "last_name": "Tamale",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -61722,7 +61722,7 @@
     "last_name": "Steep",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 230000,
@@ -61943,7 +61943,7 @@
     "last_name": "Hayes",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "17": 230000,
@@ -63229,7 +63229,7 @@
     "last_name": "Halasima",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "18": 230000
