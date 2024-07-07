@@ -31959,7 +31959,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 441000,
@@ -34793,7 +34793,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 400000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 415000,
@@ -35501,7 +35501,7 @@
     "last_name": "Whyte",
     "squad_id": 500001,
     "cost": 454000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 411000,
@@ -57012,7 +57012,7 @@
     "last_name": "Brown",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 371000,
@@ -62945,7 +62945,7 @@
     "last_name": "King",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "15": 230000,
