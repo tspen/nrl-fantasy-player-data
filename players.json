@@ -249,7 +249,7 @@
     "last_name": "Haas",
     "squad_id": 500011,
     "cost": 830000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 880000,
@@ -372,7 +372,7 @@
     "last_name": "Cherry-Evans",
     "squad_id": 500002,
     "cost": 720000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 877000,
@@ -771,7 +771,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 847000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 843000,
@@ -1030,7 +1030,7 @@
     "last_name": "De Belin",
     "squad_id": 500022,
     "cost": 610000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 793000,
@@ -1412,7 +1412,7 @@
     "last_name": "Moses",
     "squad_id": 500031,
     "cost": 689000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 792000,
@@ -1534,7 +1534,7 @@
     "last_name": "Carrigan",
     "squad_id": 500011,
     "cost": 759000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 791000,
@@ -1798,7 +1798,7 @@
     "last_name": "Murray",
     "squad_id": 500005,
     "cost": 678000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 787000,
@@ -1922,7 +1922,7 @@
     "last_name": "Cook",
     "squad_id": 500005,
     "cost": 758000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 773000,
@@ -2165,7 +2165,7 @@
     "last_name": "Brown",
     "squad_id": 500031,
     "cost": 625000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 759000,
@@ -2301,7 +2301,7 @@
     "last_name": "Ponga",
     "squad_id": 500003,
     "cost": 718000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 757000,
@@ -2541,7 +2541,7 @@
     "last_name": "Gagai",
     "squad_id": 500003,
     "cost": 702000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 749000,
@@ -2936,7 +2936,7 @@
     "last_name": "Bateman",
     "squad_id": 500023,
     "cost": 608000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 740000,
@@ -3334,7 +3334,7 @@
     "last_name": "Marzhew",
     "squad_id": 500003,
     "cost": 515000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 734000,
@@ -3465,7 +3465,7 @@
     "last_name": "Nikora",
     "squad_id": 500028,
     "cost": 691000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 722000,
@@ -3598,7 +3598,7 @@
     "last_name": "Papali'i",
     "squad_id": 500023,
     "cost": 659000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 716000,
@@ -3992,7 +3992,7 @@
     "last_name": "Olakau'atu",
     "squad_id": 500002,
     "cost": 661000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 715000,
@@ -4123,7 +4123,7 @@
     "last_name": "Frizell",
     "squad_id": 500003,
     "cost": 565000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 714000,
@@ -4369,7 +4369,7 @@
     "last_name": "McInnes",
     "squad_id": 500028,
     "cost": 716000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 704000,
@@ -4628,7 +4628,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 565000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 701000,
@@ -4759,7 +4759,7 @@
     "last_name": "Hunt",
     "squad_id": 500022,
     "cost": 679000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 696000,
@@ -4895,7 +4895,7 @@
     "last_name": "Isaako",
     "squad_id": 500723,
     "cost": 555000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 688000,
@@ -5030,7 +5030,7 @@
     "last_name": "Pereira",
     "squad_id": 500011,
     "cost": 688000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 688000,
@@ -5785,7 +5785,7 @@
     "last_name": "Cartwright",
     "squad_id": 500031,
     "cost": 608000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 667000,
@@ -5915,7 +5915,7 @@
     "last_name": "Walsh",
     "squad_id": 500011,
     "cost": 690000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 664000,
@@ -6038,7 +6038,7 @@
     "last_name": "Koloamatangi",
     "squad_id": 500005,
     "cost": 756000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 661000,
@@ -6438,7 +6438,7 @@
     "last_name": "Fermor",
     "squad_id": 500004,
     "cost": 654000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 660000,
@@ -6570,7 +6570,7 @@
     "last_name": "Fotuaika",
     "squad_id": 500004,
     "cost": 561000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 659000,
@@ -6701,7 +6701,7 @@
     "last_name": "Lawrie",
     "squad_id": 500022,
     "cost": 386000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 657000,
@@ -6836,7 +6836,7 @@
     "last_name": "Trbojevic",
     "squad_id": 500002,
     "cost": 612000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 653000,
@@ -7327,7 +7327,7 @@
     "last_name": "Farnworth",
     "squad_id": 500723,
     "cost": 683000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 646000,
@@ -7454,7 +7454,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 378000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 642000,
@@ -7719,7 +7719,7 @@
     "last_name": "Wilton",
     "squad_id": 500028,
     "cost": 545000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -8262,7 +8262,7 @@
     "last_name": "Garrick",
     "squad_id": 500002,
     "cost": 615000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 639000,
@@ -8789,7 +8789,7 @@
     "last_name": "Boyd",
     "squad_id": 500004,
     "cost": 573000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 635000,
@@ -8910,7 +8910,7 @@
     "last_name": "Walker",
     "squad_id": 500005,
     "cost": 592000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 633000,
@@ -9043,7 +9043,7 @@
     "last_name": "Su'a",
     "squad_id": 500022,
     "cost": 593000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 633000,
@@ -9174,7 +9174,7 @@
     "last_name": "Brailey",
     "squad_id": 500028,
     "cost": 582000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 631000,
@@ -9446,7 +9446,7 @@
     "last_name": "Gutherson",
     "squad_id": 500031,
     "cost": 501000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 627000,
@@ -9578,7 +9578,7 @@
     "last_name": "Trbojevic",
     "squad_id": 500002,
     "cost": 588000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 626000,
@@ -9713,7 +9713,7 @@
     "last_name": "Doueihi",
     "squad_id": 500023,
     "cost": 606000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 626000,
@@ -9942,7 +9942,7 @@
     "last_name": "Sipley",
     "squad_id": 500002,
     "cost": 395000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 622000,
@@ -10065,7 +10065,7 @@
     "last_name": "Cogger",
     "squad_id": 500003,
     "cost": 551000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 620000,
@@ -11085,7 +11085,7 @@
     "last_name": "Koroisau",
     "squad_id": 500023,
     "cost": 645000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 608000,
@@ -11221,7 +11221,7 @@
     "last_name": "Leilua",
     "squad_id": 500022,
     "cost": 556000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 608000,
@@ -11884,7 +11884,7 @@
     "last_name": "Burns",
     "squad_id": 500028,
     "cost": 513000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 600000,
@@ -12100,7 +12100,7 @@
     "last_name": "Klemmer",
     "squad_id": 500023,
     "cost": 436000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 597000,
@@ -12232,7 +12232,7 @@
     "last_name": "Lomax",
     "squad_id": 500022,
     "cost": 698000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 591000,
@@ -12365,7 +12365,7 @@
     "last_name": "Randall",
     "squad_id": 500004,
     "cost": 532000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 591000,
@@ -12630,7 +12630,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 544000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 590000,
@@ -12734,7 +12734,7 @@
     "last_name": "Best",
     "squad_id": 500003,
     "cost": 715000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 589000,
@@ -13134,7 +13134,7 @@
     "last_name": "Utoikamanu",
     "squad_id": 500023,
     "cost": 657000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 587000,
@@ -13651,7 +13651,7 @@
     "last_name": "Rudolf",
     "squad_id": 500028,
     "cost": 478000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 583000,
@@ -13774,7 +13774,7 @@
     "last_name": "Penisini",
     "squad_id": 500031,
     "cost": 600000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 582000,
@@ -14429,7 +14429,7 @@
     "last_name": "Wallace",
     "squad_id": 500723,
     "cost": 543000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 578000,
@@ -14538,7 +14538,7 @@
     "last_name": "Elliott",
     "squad_id": 500003,
     "cost": 590000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 576000,
@@ -14674,7 +14674,7 @@
     "last_name": "Brooks",
     "squad_id": 500002,
     "cost": 549000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 576000,
@@ -14811,7 +14811,7 @@
     "last_name": "Brailey",
     "squad_id": 500003,
     "cost": 514000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 575000,
@@ -14945,7 +14945,7 @@
     "last_name": "Lemuelu",
     "squad_id": 500723,
     "cost": 535000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 575000,
@@ -15060,7 +15060,7 @@
     "last_name": "Kelly",
     "squad_id": 500004,
     "cost": 566000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 572000,
@@ -15588,7 +15588,7 @@
     "last_name": "Cobbo",
     "squad_id": 500011,
     "cost": 563000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 568000,
@@ -15857,7 +15857,7 @@
     "last_name": "Riki",
     "squad_id": 500011,
     "cost": 603000,
-    "status": "suspended",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 565000,
@@ -16117,7 +16117,7 @@
     "last_name": "Tabuai-Fidow",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 564000,
@@ -16239,7 +16239,7 @@
     "last_name": "Lane",
     "squad_id": 500031,
     "cost": 474000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 558000,
@@ -16508,7 +16508,7 @@
     "last_name": "Lucas",
     "squad_id": 500003,
     "cost": 696000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 558000,
@@ -16637,7 +16637,7 @@
     "last_name": "Arrow",
     "squad_id": 500005,
     "cost": 603000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -16764,7 +16764,7 @@
     "last_name": "Hastings",
     "squad_id": 500003,
     "cost": 638000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -17027,7 +17027,7 @@
     "last_name": "Russell",
     "squad_id": 500022,
     "cost": 557000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -17122,7 +17122,7 @@
     "last_name": "Thompson",
     "squad_id": 500003,
     "cost": 539000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -17393,7 +17393,7 @@
     "last_name": "Verrills",
     "squad_id": 500004,
     "cost": 490000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 553000,
@@ -17657,7 +17657,7 @@
     "last_name": "Staggs",
     "squad_id": 500011,
     "cost": 452000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 551000,
@@ -18131,7 +18131,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 300000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -18349,7 +18349,7 @@
     "last_name": "Aitken",
     "squad_id": 500723,
     "cost": 772000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 549000,
@@ -18885,7 +18885,7 @@
     "last_name": "Ramien",
     "squad_id": 500028,
     "cost": 546000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 547000,
@@ -19023,7 +19023,7 @@
     "last_name": "Waddell",
     "squad_id": 500002,
     "cost": 432000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -19159,7 +19159,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 631000,
-    "status": "injured",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 545000,
@@ -19279,7 +19279,7 @@
     "last_name": "Campbell-Gillard",
     "squad_id": 500031,
     "cost": 504000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 543000,
@@ -19654,7 +19654,7 @@
     "last_name": "Nicholls",
     "squad_id": 500723,
     "cost": 540000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -19888,7 +19888,7 @@
     "last_name": "Liddle",
     "squad_id": 500022,
     "cost": 704000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -20144,7 +20144,7 @@
     "last_name": "Wighton",
     "squad_id": 500005,
     "cost": 482000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 532000,
@@ -20411,7 +20411,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 463000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 529000,
@@ -20539,7 +20539,7 @@
     "last_name": "Bula",
     "squad_id": 500023,
     "cost": 450000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 528000,
@@ -20676,7 +20676,7 @@
     "last_name": "Saifiti",
     "squad_id": 500003,
     "cost": 390000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -20929,7 +20929,7 @@
     "last_name": "Nikorima",
     "squad_id": 500723,
     "cost": 477000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 521000,
@@ -21063,7 +21063,7 @@
     "last_name": "Crossland",
     "squad_id": 500003,
     "cost": 358000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 521000,
@@ -21198,7 +21198,7 @@
     "last_name": "Mulitalo",
     "squad_id": 500028,
     "cost": 421000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 520000,
@@ -21470,7 +21470,7 @@
     "last_name": "Pearce-Paul",
     "squad_id": 500003,
     "cost": 596000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 520000,
@@ -21732,7 +21732,7 @@
     "last_name": "Harper",
     "squad_id": 500031,
     "cost": 402000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 518000,
@@ -22436,7 +22436,7 @@
     "last_name": "Ravalawa",
     "squad_id": 500022,
     "cost": 447000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 514000,
@@ -22924,7 +22924,7 @@
     "last_name": "Sami",
     "squad_id": 500004,
     "cost": 454000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 513000,
@@ -23153,7 +23153,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 326000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 510000,
@@ -23423,7 +23423,7 @@
     "last_name": "Tass",
     "squad_id": 500005,
     "cost": 350000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 510000,
@@ -24055,7 +24055,7 @@
     "last_name": "To'a",
     "squad_id": 500023,
     "cost": 408000,
-    "status": "injured",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 503000,
@@ -24162,7 +24162,7 @@
     "last_name": "Kaufusi",
     "squad_id": 500723,
     "cost": 404000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 501000,
@@ -24416,7 +24416,7 @@
     "last_name": "Kennedy",
     "squad_id": 500028,
     "cost": 416000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 501000,
@@ -24692,7 +24692,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500005,
     "cost": 388000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 499000,
@@ -25842,7 +25842,7 @@
     "last_name": "Tatola",
     "squad_id": 500005,
     "cost": 502000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 485000,
@@ -26092,7 +26092,7 @@
     "last_name": "Bullemor",
     "squad_id": 500002,
     "cost": 407000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 484000,
@@ -26224,7 +26224,7 @@
     "last_name": "Asi",
     "squad_id": 500031,
     "cost": 400000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 484000,
@@ -26603,7 +26603,7 @@
     "last_name": "Johnston",
     "squad_id": 500005,
     "cost": 321000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 480000,
@@ -26853,7 +26853,7 @@
     "last_name": "Te Whare",
     "squad_id": 500723,
     "cost": 479000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 479000,
@@ -26952,7 +26952,7 @@
     "last_name": "Sezer",
     "squad_id": 500023,
     "cost": 518000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 477000,
@@ -27212,7 +27212,7 @@
     "last_name": "Williams",
     "squad_id": 500028,
     "cost": 480000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 477000,
@@ -27866,7 +27866,7 @@
     "last_name": "Pole",
     "squad_id": 500023,
     "cost": 459000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 472000,
@@ -28003,7 +28003,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 443000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 470000,
@@ -28139,7 +28139,7 @@
     "last_name": "Aloiai",
     "squad_id": 500002,
     "cost": 433000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 470000,
@@ -28649,7 +28649,7 @@
     "last_name": "Stone",
     "squad_id": 500723,
     "cost": 397000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 468000,
@@ -29013,7 +29013,7 @@
     "last_name": "Jensen",
     "squad_id": 500011,
     "cost": 576000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 466000,
@@ -29402,7 +29402,7 @@
     "last_name": "Sloan",
     "squad_id": 500022,
     "cost": 462000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 465000,
@@ -29539,7 +29539,7 @@
     "last_name": "Graham",
     "squad_id": 500723,
     "cost": 463000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 463000,
@@ -29632,7 +29632,7 @@
     "last_name": "Lussick",
     "squad_id": 500031,
     "cost": 342000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 459000,
@@ -29759,7 +29759,7 @@
     "last_name": "Campbell",
     "squad_id": 500004,
     "cost": 632000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 459000,
@@ -29876,7 +29876,7 @@
     "last_name": "Trindall",
     "squad_id": 500028,
     "cost": 469000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -30239,7 +30239,7 @@
     "last_name": "Suli",
     "squad_id": 500022,
     "cost": 500000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -30710,7 +30710,7 @@
     "last_name": "Walters",
     "squad_id": 500011,
     "cost": 395000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 454000,
@@ -30948,7 +30948,7 @@
     "last_name": "Liu",
     "squad_id": 500004,
     "cost": 311000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 451000,
@@ -31082,7 +31082,7 @@
     "last_name": "Hoeter",
     "squad_id": 500011,
     "cost": 450000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -31179,7 +31179,7 @@
     "last_name": "Sele",
     "squad_id": 500022,
     "cost": 441000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -31521,7 +31521,7 @@
     "last_name": "Mam",
     "squad_id": 500011,
     "cost": 395000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -31656,7 +31656,7 @@
     "last_name": "Mariner",
     "squad_id": 500011,
     "cost": 512000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -31786,7 +31786,7 @@
     "last_name": "Averillo",
     "squad_id": 500723,
     "cost": 414000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 447000,
@@ -32288,7 +32288,7 @@
     "last_name": "Clark",
     "squad_id": 500004,
     "cost": 532000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 443000,
@@ -32550,7 +32550,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 441000,
@@ -32663,7 +32663,7 @@
     "last_name": "Saab",
     "squad_id": 500002,
     "cost": 400000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -32788,7 +32788,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 452000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 440000,
@@ -32991,7 +32991,7 @@
     "last_name": "Saifiti",
     "squad_id": 500003,
     "cost": 543000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 437000,
@@ -33124,7 +33124,7 @@
     "last_name": "Katoa",
     "squad_id": 500028,
     "cost": 509000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 437000,
@@ -33257,7 +33257,7 @@
     "last_name": "Burgess",
     "squad_id": 500005,
     "cost": 389000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 436000,
@@ -33392,7 +33392,7 @@
     "last_name": "Oates",
     "squad_id": 500011,
     "cost": 317000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 436000,
@@ -33645,7 +33645,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 383000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 432000,
@@ -34208,7 +34208,7 @@
     "last_name": "Faitala-Mariner",
     "squad_id": 500022,
     "cost": 559000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -34345,7 +34345,7 @@
     "last_name": "Jenkins",
     "squad_id": 500003,
     "cost": 326000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 426000,
@@ -34453,7 +34453,7 @@
     "last_name": "Eisenhuth",
     "squad_id": 500022,
     "cost": 590000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 424000,
@@ -34591,7 +34591,7 @@
     "last_name": "Niu",
     "squad_id": 500723,
     "cost": 435000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 424000,
@@ -34707,7 +34707,7 @@
     "last_name": "Sullivan",
     "squad_id": 500023,
     "cost": 619000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 424000,
@@ -35324,7 +35324,7 @@
     "last_name": "Tupou",
     "squad_id": 500023,
     "cost": 416000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 417000,
@@ -35441,7 +35441,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 400000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 415000,
@@ -35538,7 +35538,7 @@
     "last_name": "Haas",
     "squad_id": 500004,
     "cost": 565000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 415000,
@@ -35670,7 +35670,7 @@
     "last_name": "Keppie",
     "squad_id": 500005,
     "cost": 409000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -35800,7 +35800,7 @@
     "last_name": "Duncan",
     "squad_id": 500005,
     "cost": 399000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -35923,7 +35923,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 481000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 413000,
@@ -36293,7 +36293,7 @@
     "last_name": "Ofahengaue",
     "squad_id": 500031,
     "cost": 425000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 409000,
@@ -36431,7 +36431,7 @@
     "last_name": "Schuster",
     "squad_id": 500002,
     "cost": 408000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 408000,
@@ -36751,7 +36751,7 @@
     "last_name": "Milne",
     "squad_id": 500005,
     "cost": 371000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -36880,7 +36880,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 274000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -36997,7 +36997,7 @@
     "last_name": "Hands",
     "squad_id": 500031,
     "cost": 391000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -37124,7 +37124,7 @@
     "last_name": "Paulo",
     "squad_id": 500002,
     "cost": 300000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 406000,
@@ -37356,7 +37356,7 @@
     "last_name": "Taupau",
     "squad_id": 500011,
     "cost": 373000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 402000,
@@ -37602,7 +37602,7 @@
     "last_name": "Pryce",
     "squad_id": 500003,
     "cost": 442000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -37698,7 +37698,7 @@
     "last_name": "Piakura",
     "squad_id": 500011,
     "cost": 422000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 399000,
@@ -37826,7 +37826,7 @@
     "last_name": "Host",
     "squad_id": 500005,
     "cost": 447000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 397000,
@@ -38070,7 +38070,7 @@
     "last_name": "Hazelton",
     "squad_id": 500028,
     "cost": 475000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 397000,
@@ -38207,7 +38207,7 @@
     "last_name": "Foran",
     "squad_id": 500004,
     "cost": 533000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 396000,
@@ -39064,7 +39064,7 @@
     "last_name": "Couchman",
     "squad_id": 500022,
     "cost": 406000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -39175,7 +39175,7 @@
     "last_name": "Tu’itupou Thompson",
     "squad_id": 500005,
     "cost": 420000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 393000,
@@ -39283,7 +39283,7 @@
     "last_name": "Palasia",
     "squad_id": 500004,
     "cost": 330000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 393000,
@@ -39404,7 +39404,7 @@
     "last_name": "Havili",
     "squad_id": 500005,
     "cost": 342000,
-    "status": "injured",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 392000,
@@ -39859,7 +39859,7 @@
     "last_name": "Katoa",
     "squad_id": 500723,
     "cost": 551000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 386000,
@@ -40191,7 +40191,7 @@
     "last_name": "Stimson",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 384000,
@@ -40309,7 +40309,7 @@
     "last_name": "Kaufusi",
     "squad_id": 500028,
     "cost": 452000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 382000,
@@ -40446,7 +40446,7 @@
     "last_name": "Russell",
     "squad_id": 500031,
     "cost": 316000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 381000,
@@ -40582,7 +40582,7 @@
     "last_name": "Khan-Pereira",
     "squad_id": 500004,
     "cost": 452000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 381000,
@@ -40711,7 +40711,7 @@
     "last_name": "Mitchell",
     "squad_id": 500005,
     "cost": 402000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 380000,
@@ -41051,7 +41051,7 @@
     "last_name": "Kerr",
     "squad_id": 500723,
     "cost": 364000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 378000,
@@ -41185,7 +41185,7 @@
     "last_name": "Olam",
     "squad_id": 500023,
     "cost": 448000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 375000,
@@ -41533,7 +41533,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 300000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -42013,7 +42013,7 @@
     "last_name": "Seyfarth",
     "squad_id": 500023,
     "cost": 492000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 359000,
@@ -42149,7 +42149,7 @@
     "last_name": "Staines",
     "squad_id": 500023,
     "cost": 342000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 359000,
@@ -42406,7 +42406,7 @@
     "last_name": "Hunt",
     "squad_id": 500028,
     "cost": 285000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 355000,
@@ -42529,7 +42529,7 @@
     "last_name": "Schoupp",
     "squad_id": 500002,
     "cost": 359000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 355000,
@@ -42638,7 +42638,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 312000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 355000,
@@ -42752,7 +42752,7 @@
     "last_name": "Murdoch-Masila",
     "squad_id": 500022,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 353000,
@@ -42883,7 +42883,7 @@
     "last_name": "Maumalo",
     "squad_id": 500004,
     "cost": 350000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -43620,7 +43620,7 @@
     "last_name": "Flanagan",
     "squad_id": 500022,
     "cost": 437000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 349000,
@@ -43995,7 +43995,7 @@
     "last_name": "Arthars",
     "squad_id": 500011,
     "cost": 350000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 344000,
@@ -44121,7 +44121,7 @@
     "last_name": "Fainu",
     "squad_id": 500023,
     "cost": 559000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 344000,
@@ -44255,7 +44255,7 @@
     "last_name": "Tuaimalo Vaega",
     "squad_id": 500002,
     "cost": 367000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 342000,
@@ -44358,7 +44358,7 @@
     "last_name": "Ogden",
     "squad_id": 500031,
     "cost": 341000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 341000,
@@ -44678,7 +44678,7 @@
     "last_name": "Greig",
     "squad_id": 500031,
     "cost": 324000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 336000,
@@ -44787,7 +44787,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 257000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 335000,
@@ -45016,7 +45016,7 @@
     "last_name": "Hetherington",
     "squad_id": 500011,
     "cost": 408000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 334000,
@@ -45152,7 +45152,7 @@
     "last_name": "Makatoa",
     "squad_id": 500031,
     "cost": 246000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 331000,
@@ -45271,7 +45271,7 @@
     "last_name": "Paix",
     "squad_id": 500011,
     "cost": 331000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 331000,
@@ -45372,7 +45372,7 @@
     "last_name": "Naden",
     "squad_id": 500023,
     "cost": 261000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 330000,
@@ -45616,7 +45616,7 @@
     "last_name": "Teague",
     "squad_id": 500723,
     "cost": 329000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 329000,
@@ -46024,7 +46024,7 @@
     "last_name": "Chan Kum Tong",
     "squad_id": 500002,
     "cost": 247000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -46127,7 +46127,7 @@
     "last_name": "Milford",
     "squad_id": 500723,
     "cost": 280000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 323000,
@@ -46468,7 +46468,7 @@
     "last_name": "Simpkin",
     "squad_id": 500002,
     "cost": 327000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 314000,
@@ -46585,7 +46585,7 @@
     "last_name": "Doorey",
     "squad_id": 500031,
     "cost": 298000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 311000,
@@ -46801,7 +46801,7 @@
     "last_name": "Bostock",
     "squad_id": 500723,
     "cost": 375000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 307000,
@@ -46930,7 +46930,7 @@
     "last_name": "Parker",
     "squad_id": 500002,
     "cost": 304000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 304000,
@@ -47030,7 +47030,7 @@
     "last_name": "Hetherington",
     "squad_id": 500003,
     "cost": 274000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 303000,
@@ -47732,7 +47732,7 @@
     "last_name": "Lee",
     "squad_id": 500723,
     "cost": 298000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 298000,
@@ -47835,7 +47835,7 @@
     "last_name": "Turner",
     "squad_id": 500022,
     "cost": 298000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 298000,
@@ -48011,7 +48011,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 282000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 297000,
@@ -48113,7 +48113,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 347000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 296000,
@@ -48236,7 +48236,7 @@
     "last_name": "Lovett",
     "squad_id": 500005,
     "cost": 293000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 293000,
@@ -48422,7 +48422,7 @@
     "last_name": "Moale",
     "squad_id": 500005,
     "cost": 453000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 290000,
@@ -48807,7 +48807,7 @@
     "last_name": "Feledy",
     "squad_id": 500023,
     "cost": 291000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 289000,
@@ -49038,7 +49038,7 @@
     "last_name": "Colquhoun",
     "squad_id": 500028,
     "cost": 286000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 286000,
@@ -49365,7 +49365,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 693000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 279000,
@@ -49483,7 +49483,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 495000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 278000,
@@ -49861,7 +49861,7 @@
     "last_name": "Lawton",
     "squad_id": 500002,
     "cost": 426000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 268000,
@@ -49997,7 +49997,7 @@
     "last_name": "Jennings",
     "squad_id": 500723,
     "cost": 265000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 265000,
@@ -50101,7 +50101,7 @@
     "last_name": "Talau",
     "squad_id": 500002,
     "cost": 536000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 265000,
@@ -50234,7 +50234,7 @@
     "last_name": "Willison",
     "squad_id": 500011,
     "cost": 464000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 263000,
@@ -50918,7 +50918,7 @@
     "last_name": "Cini",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -51004,7 +51004,7 @@
     "last_name": "Rodwell",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -51090,7 +51090,7 @@
     "last_name": "Smith-Shields",
     "squad_id": 500004,
     "cost": 320000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -51284,7 +51284,7 @@
     "last_name": "Condon",
     "squad_id": 500002,
     "cost": 239000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -51740,7 +51740,7 @@
     "last_name": "Momoisea",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52056,7 +52056,7 @@
     "last_name": "Mapapalangi",
     "squad_id": 500003,
     "cost": 249000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52148,7 +52148,7 @@
     "last_name": "Tumeth",
     "squad_id": 500023,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52236,7 +52236,7 @@
     "last_name": "Matamua",
     "squad_id": 500023,
     "cost": 347000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52434,7 +52434,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 311000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52530,7 +52530,7 @@
     "last_name": "Fulton",
     "squad_id": 500002,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52813,7 +52813,7 @@
     "last_name": "Finau",
     "squad_id": 500022,
     "cost": 266000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52906,7 +52906,7 @@
     "last_name": "Rivett",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52994,7 +52994,7 @@
     "last_name": "Atkinson",
     "squad_id": 500028,
     "cost": 445000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53245,7 +53245,7 @@
     "last_name": "Da Silva",
     "squad_id": 500023,
     "cost": 252000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53448,7 +53448,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53536,7 +53536,7 @@
     "last_name": "Mozer",
     "squad_id": 500011,
     "cost": 245000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53719,7 +53719,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -53910,7 +53910,7 @@
     "last_name": "Tuitavake",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54100,7 +54100,7 @@
     "last_name": "Taumoepenu",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54186,7 +54186,7 @@
     "last_name": "Fifita",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54281,7 +54281,7 @@
     "last_name": "Iro",
     "squad_id": 500028,
     "cost": 524000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54408,7 +54408,7 @@
     "last_name": "Fainu",
     "squad_id": 500023,
     "cost": 287000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54515,7 +54515,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54687,7 +54687,7 @@
     "last_name": "Stonestreet",
     "squad_id": 500028,
     "cost": 241000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54865,7 +54865,7 @@
     "last_name": "Mataele",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -54951,7 +54951,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55156,7 +55156,7 @@
     "last_name": "Taukamo",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55328,7 +55328,7 @@
     "last_name": "Armstrong",
     "squad_id": 500003,
     "cost": 489000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55432,7 +55432,7 @@
     "last_name": "Te Hau",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55518,7 +55518,7 @@
     "last_name": "Bryan",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55690,7 +55690,7 @@
     "last_name": "Humphreys",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55776,7 +55776,7 @@
     "last_name": "Fainu",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -55877,7 +55877,7 @@
     "last_name": "Karapani",
     "squad_id": 500011,
     "cost": 327000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56079,7 +56079,7 @@
     "last_name": "Galvin",
     "squad_id": 500023,
     "cost": 692000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56206,7 +56206,7 @@
     "last_name": "Foran",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56550,7 +56550,7 @@
     "last_name": "Pahulu",
     "squad_id": 500004,
     "cost": 305000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56765,7 +56765,7 @@
     "last_name": "Gray",
     "squad_id": 500005,
     "cost": 330000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56953,7 +56953,7 @@
     "last_name": "Gabrael",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -57148,7 +57148,7 @@
     "last_name": "Tamale",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -57234,7 +57234,7 @@
     "last_name": "Alaimalo",
     "squad_id": 500023,
     "cost": 327000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -57654,7 +57654,7 @@
     "last_name": "Pangai Junior",
     "squad_id": 500723,
     "cost": 461000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "16": 500000,
@@ -57736,7 +57736,7 @@
     "last_name": "Kennar",
     "squad_id": 500005,
     "cost": 419000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 322000,
@@ -57854,7 +57854,7 @@
     "last_name": "Brown",
     "squad_id": 500002,
     "cost": 445000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -57985,7 +57985,7 @@
     "last_name": "Woods",
     "squad_id": 500002,
     "cost": 322000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -58096,7 +58096,7 @@
     "last_name": "Brown",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "7": 371000,
@@ -58203,7 +58203,7 @@
     "last_name": "Gagai",
     "squad_id": 500005,
     "cost": 393000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58422,7 +58422,7 @@
     "last_name": "Porter",
     "squad_id": 500023,
     "cost": 320000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -58499,7 +58499,7 @@
     "last_name": "Marschke",
     "squad_id": 500022,
     "cost": 303000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58602,7 +58602,7 @@
     "last_name": "Matterson",
     "squad_id": 500002,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "7": 250000,
@@ -58686,7 +58686,7 @@
     "last_name": "Shibasaki",
     "squad_id": 500005,
     "cost": 257000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 250000,
@@ -58883,7 +58883,7 @@
     "last_name": "French",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 230000,
@@ -58959,7 +58959,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 450000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 450000,
@@ -59035,7 +59035,7 @@
     "last_name": "Tago",
     "squad_id": 500031,
     "cost": 234000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "18": 230000,
@@ -59097,7 +59097,7 @@
     "last_name": "Rogers",
     "squad_id": 500011,
     "cost": 410000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "10": 400000,
@@ -59174,7 +59174,7 @@
     "last_name": "Casey",
     "squad_id": 500023,
     "cost": 239000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 250000,
@@ -59251,7 +59251,7 @@
     "last_name": "Chapman",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
@@ -59648,7 +59648,7 @@
     "last_name": "Bentley-Hape",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 230000,
@@ -59718,7 +59718,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 256000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
@@ -60044,7 +60044,7 @@
     "last_name": "Muhleisen",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -60247,7 +60247,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 308000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -60445,7 +60445,7 @@
     "last_name": "Faataape",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -60625,7 +60625,7 @@
     "last_name": "Hubner",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -60709,7 +60709,7 @@
     "last_name": "Alick-Wiencke",
     "squad_id": 500004,
     "cost": 359000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "12": 327000,
@@ -61211,7 +61211,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 636000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 425000,
@@ -61462,7 +61462,7 @@
     "last_name": "Teaupa",
     "squad_id": 500005,
     "cost": 263000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "10": 230000,
@@ -61544,7 +61544,7 @@
     "last_name": "Cant",
     "squad_id": 500003,
     "cost": 400000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "5": 400000,
@@ -61626,7 +61626,7 @@
     "last_name": "Navale",
     "squad_id": 500002,
     "cost": 242000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "16": 230000,
@@ -61690,7 +61690,7 @@
     "last_name": "Hosking",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "4": 230000,
@@ -61772,7 +61772,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 248000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "2": 250000,
@@ -61957,7 +61957,7 @@
     "last_name": "Faulalo",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "16": 230000,
@@ -62017,7 +62017,7 @@
     "last_name": "Plath",
     "squad_id": 500723,
     "cost": 673000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -62143,7 +62143,7 @@
     "last_name": "Sanders",
     "squad_id": 500031,
     "cost": 282000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
@@ -62314,7 +62314,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
@@ -62372,7 +62372,7 @@
     "last_name": "Rodwell",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "18": 230000,
@@ -62667,7 +62667,7 @@
     "last_name": "Egan",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -63018,7 +63018,7 @@
     "last_name": "Guymer",
     "squad_id": 500031,
     "cost": 240000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "17": 230000,
@@ -63080,7 +63080,7 @@
     "last_name": "Sharpe",
     "squad_id": 500003,
     "cost": 369000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -63230,7 +63230,7 @@
     "last_name": "Mason",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "15": 230000,
@@ -63302,7 +63302,7 @@
     "last_name": "Laulilii",
     "squad_id": 500023,
     "cost": 317000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 330000,
@@ -63445,7 +63445,7 @@
     "last_name": "Talagi",
     "squad_id": 500031,
     "cost": 477000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 230000,
@@ -63565,7 +63565,7 @@
     "last_name": "De Groot",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "18": 230000,
@@ -63677,7 +63677,7 @@
     "last_name": "Miller",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "15": 230000,
@@ -63743,7 +63743,7 @@
     "last_name": "Lobb",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "injured",
+    "status": "playing",
     "stats": {
       "prices": {
         "13": 230000,
@@ -63816,7 +63816,7 @@
     "last_name": "James",
     "squad_id": 500002,
     "cost": 271000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "7": 280000,
@@ -64046,7 +64046,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -64114,7 +64114,7 @@
     "last_name": "Hau",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
@@ -64316,7 +64316,7 @@
     "last_name": "Hopoate",
     "squad_id": 500002,
     "cost": 383000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "12": 230000,
@@ -64400,7 +64400,7 @@
     "last_name": "Arthur",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "17": 230000,
@@ -64465,7 +64465,7 @@
     "last_name": "Laulilii",
     "squad_id": 500023,
     "cost": 235000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "15": 230000,
@@ -64596,7 +64596,7 @@
     "last_name": "Leota",
     "squad_id": 500011,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "15": 230000,
