@@ -59169,6 +59169,56 @@
     "locked": 0
   },
   {
+    "id": 505402,
+    "first_name": "Isaac",
+    "last_name": "Lumelume",
+    "squad_id": 500031,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "19": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 278,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.1334,
+      "round_wpr": {
+        "19": 19.1334
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 16.5,
+      "career_avg_vs": {
+        "500021": 19,
+        "500032": 14
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 505527,
     "first_name": "Declan",
     "last_name": "Casey",
@@ -60437,6 +60487,53 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 506082,
+    "first_name": "Lorenzo",
+    "last_name": "Mulitalo",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "19": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6027,
+      "round_wpr": {
+        "19": 17.6027
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
@@ -64190,6 +64287,53 @@
         "500002": 14
       },
       "last_3_proj_avg": 24
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100009160,
+    "first_name": "Va'a",
+    "last_name": "Semu",
+    "squad_id": 500011,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "19": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6027,
+      "round_wpr": {
+        "19": 17.6027
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
     },
     "positions": [
       2
