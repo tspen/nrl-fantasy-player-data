@@ -19202,7 +19202,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 631000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -21787,7 +21787,7 @@
     "last_name": "Harper",
     "squad_id": 500031,
     "cost": 402000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 518000,
@@ -40282,7 +40282,7 @@
     "last_name": "Stimson",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
