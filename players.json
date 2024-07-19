@@ -1830,7 +1830,7 @@
     "last_name": "Murray",
     "squad_id": 500005,
     "cost": 678000,
-    "status": "playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 787000,
@@ -11311,7 +11311,7 @@
     "last_name": "Koroisau",
     "squad_id": 500023,
     "cost": 623000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 608000,
@@ -38650,7 +38650,7 @@
     "last_name": "Host",
     "squad_id": 500005,
     "cost": 447000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 397000,
@@ -58519,7 +58519,7 @@
     "last_name": "Alaimalo",
     "squad_id": 500023,
     "cost": 327000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -59739,7 +59739,7 @@
     "last_name": "Porter",
     "squad_id": 500023,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -65774,7 +65774,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 230000,
