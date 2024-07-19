@@ -253,7 +253,7 @@
     "last_name": "Haas",
     "squad_id": 500011,
     "cost": 830000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 880000,
@@ -1562,7 +1562,7 @@
     "last_name": "Carrigan",
     "squad_id": 500011,
     "cost": 759000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 791000,
@@ -4335,7 +4335,7 @@
     "last_name": "Reynolds",
     "squad_id": 500011,
     "cost": 689000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 705000,
@@ -6033,7 +6033,7 @@
     "last_name": "Walsh",
     "squad_id": 500011,
     "cost": 690000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 664000,
@@ -14835,7 +14835,7 @@
     "last_name": "Elliott",
     "squad_id": 500003,
     "cost": 546000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 576000,
@@ -15912,7 +15912,7 @@
     "last_name": "Cobbo",
     "squad_id": 500011,
     "cost": 563000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 568000,
@@ -18512,7 +18512,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 307000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -35084,7 +35084,7 @@
     "last_name": "Jenkins",
     "squad_id": 500003,
     "cost": 326000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -42436,7 +42436,7 @@
     "last_name": "Croker",
     "squad_id": 500003,
     "cost": 308000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 366000,
@@ -46263,7 +46263,7 @@
     "last_name": "Paix",
     "squad_id": 500011,
     "cost": 331000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 331000,
@@ -54717,7 +54717,7 @@
     "last_name": "Mozer",
     "squad_id": 500011,
     "cost": 268000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -57123,7 +57123,7 @@
     "last_name": "Karapani",
     "squad_id": 500011,
     "cost": 284000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 230000,
@@ -60439,7 +60439,7 @@
     "last_name": "Rogers",
     "squad_id": 500011,
     "cost": 404000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 400000,
@@ -64770,7 +64770,7 @@
     "last_name": "Sharpe",
     "squad_id": 500003,
     "cost": 364000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -65847,7 +65847,7 @@
     "last_name": "Semu",
     "squad_id": 500011,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000,
