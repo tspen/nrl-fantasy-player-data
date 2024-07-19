@@ -16321,7 +16321,7 @@
     "last_name": "Asofa-Solomona",
     "squad_id": 500021,
     "cost": 350000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 564000,
@@ -20210,7 +20210,7 @@
     "last_name": "Lewis",
     "squad_id": 500021,
     "cost": 424000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -39303,7 +39303,7 @@
     "last_name": "Smith",
     "squad_id": 500021,
     "cost": 389000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -51595,7 +51595,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 261000,
@@ -54995,7 +54995,7 @@
     "last_name": "Dockar-Clay",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58625,7 +58625,7 @@
     "last_name": "Jennings",
     "squad_id": 500001,
     "cost": 385000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 407000,
@@ -64852,7 +64852,7 @@
     "last_name": "Steep",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 230000,
