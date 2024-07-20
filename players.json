@@ -10814,7 +10814,7 @@
     "last_name": "Welch",
     "squad_id": 500021,
     "cost": 423000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 615000,
@@ -20240,7 +20240,7 @@
     "last_name": "Lewis",
     "squad_id": 500021,
     "cost": 424000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 536000,
@@ -21904,7 +21904,7 @@
         "res": 0.73
       },
       "owned_by": 5,
-      "adp": 170,
+      "adp": 169,
       "proj_avg": 37.82,
       "wpr": 42.9556,
       "round_wpr": {
@@ -24910,7 +24910,7 @@
         "res": 2.18
       },
       "owned_by": 17.94,
-      "adp": 169,
+      "adp": 170,
       "proj_avg": 36.4,
       "wpr": 58.4663,
       "round_wpr": {
