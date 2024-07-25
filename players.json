@@ -2525,7 +2525,7 @@
     "last_name": "Munster",
     "squad_id": 500021,
     "cost": 690000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 754000,
@@ -11065,7 +11065,7 @@
     "last_name": "Welch",
     "squad_id": 500021,
     "cost": 423000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 615000,
@@ -40258,7 +40258,7 @@
     "last_name": "Smith",
     "squad_id": 500021,
     "cost": 389000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 395000,
@@ -55205,7 +55205,7 @@
     "last_name": "Ieremia",
     "squad_id": 500021,
     "cost": 243000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
