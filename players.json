@@ -10650,7 +10650,7 @@
     "last_name": "Crichton",
     "squad_id": 500010,
     "cost": 477000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 620000,
@@ -18969,7 +18969,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 307000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -34947,7 +34947,7 @@
     "last_name": "Oates",
     "squad_id": 500011,
     "cost": 291000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 436000,
@@ -39217,7 +39217,7 @@
     "last_name": "Hutchison",
     "squad_id": 500010,
     "cost": 464000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 400000,
@@ -39454,7 +39454,7 @@
     "last_name": "Piakura",
     "squad_id": 500011,
     "cost": 401000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 399000,
@@ -45441,7 +45441,7 @@
     "last_name": "Skelton",
     "squad_id": 500010,
     "cost": 390000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -51806,7 +51806,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 521000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 278000,
@@ -61099,7 +61099,7 @@
     "last_name": "Faamausili",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -67615,7 +67615,7 @@
     "last_name": "Semu",
     "squad_id": 500011,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000,
