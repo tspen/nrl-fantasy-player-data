@@ -7808,7 +7808,7 @@
     "last_name": "Bird",
     "squad_id": 500022,
     "cost": 344000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -23537,7 +23537,7 @@
     "last_name": "Ravalawa",
     "squad_id": 500022,
     "cost": 417000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 514000,
@@ -30835,7 +30835,7 @@
     "last_name": "Sloan",
     "squad_id": 500022,
     "cost": 447000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 465000,
@@ -41937,7 +41937,7 @@
     "last_name": "Knight",
     "squad_id": 500010,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 385000,
@@ -48974,7 +48974,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 421000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 309000,
@@ -57770,7 +57770,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 474000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -58652,7 +58652,7 @@
     "last_name": "Karapani",
     "squad_id": 500011,
     "cost": 284000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -60995,7 +60995,7 @@
     "last_name": "Brown",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "7": 371000,
@@ -62524,7 +62524,7 @@
     "last_name": "Sommerton",
     "squad_id": 500014,
     "cost": 392000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -66080,7 +66080,7 @@
     "last_name": "Iongi",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 230000,
