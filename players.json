@@ -19464,7 +19464,7 @@
     "last_name": "Sailor",
     "squad_id": 500011,
     "cost": 307000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -20566,7 +20566,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 617000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -21492,7 +21492,7 @@
     "last_name": "Jolliffe",
     "squad_id": 500004,
     "cost": 666000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -42157,7 +42157,7 @@
     "last_name": "Palasia",
     "squad_id": 500004,
     "cost": 309000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 393000,
@@ -53137,7 +53137,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 521000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 278000,
@@ -59033,7 +59033,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -69521,7 +69521,7 @@
     "last_name": "Semu",
     "squad_id": 500011,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000,
