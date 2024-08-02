@@ -44238,7 +44238,7 @@
         "3": 50
       },
       "ranks": {
-        "22": 26,
+        "22": 27,
         "18": 59,
         "15": 28,
         "14": 60,
@@ -45277,7 +45277,7 @@
         "2": 18
       },
       "ranks": {
-        "22": 22,
+        "22": 23,
         "21": 53,
         "20": 32,
         "19": 54,
@@ -45417,7 +45417,7 @@
         "1": 31
       },
       "ranks": {
-        "22": 23,
+        "22": 24,
         "21": 53,
         "17": 31,
         "13": 34,
@@ -59954,7 +59954,7 @@
         "5": 14
       },
       "ranks": {
-        "22": 24,
+        "22": 25,
         "21": 44,
         "20": 68,
         "9": 65,
@@ -63671,6 +63671,59 @@
     ],
     "original_positions": [
       4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 505373,
+    "first_name": "Dan",
+    "last_name": "Keir",
+    "squad_id": 500031,
+    "cost": 240000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "22": 240000
+      },
+      "scores": {
+        "21": 27
+      },
+      "ranks": {
+        "21": 48
+      },
+      "season_rank": 203,
+      "games_played": 1,
+      "total_points": 27,
+      "avg_points": 27,
+      "high_score": 27,
+      "low_score": 27,
+      "last_3_avg": 27,
+      "last_5_avg": 27,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.6055,
+      "round_wpr": {
+        "22": 18.6055
+      },
+      "rd_tog": "",
+      "tog": 34,
+      "career_avg": 27,
+      "career_avg_vs": {
+        "500021": 27
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
@@ -68410,6 +68463,59 @@
     "locked": 0
   },
   {
+    "id": 100006621,
+    "first_name": "Tim",
+    "last_name": "Johannssen",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "22": 230000
+      },
+      "scores": {
+        "22": 18
+      },
+      "ranks": {
+        "22": 22
+      },
+      "season_rank": 244,
+      "games_played": 1,
+      "total_points": 18,
+      "avg_points": 18,
+      "high_score": 18,
+      "low_score": 18,
+      "last_3_avg": 18,
+      "last_5_avg": 18,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8302,
+      "round_wpr": {
+        "22": 17.8302
+      },
+      "rd_tog": 27,
+      "tog": 27,
+      "career_avg": 18,
+      "career_avg_vs": {
+        "500012": 18
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006657,
     "first_name": "Heath",
     "last_name": "Mason",
@@ -68435,7 +68541,7 @@
         "15": 16
       },
       "ranks": {
-        "22": 25,
+        "22": 26,
         "19": 66,
         "18": 71,
         "16": 67,
@@ -69265,7 +69371,7 @@
         "13": 31
       },
       "ranks": {
-        "22": 25,
+        "22": 26,
         "21": 72,
         "20": 40,
         "17": 51,
