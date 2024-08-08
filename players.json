@@ -8472,7 +8472,7 @@
     "last_name": "Wilton",
     "squad_id": 500028,
     "cost": 485000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -9650,7 +9650,7 @@
     "last_name": "Boyd",
     "squad_id": 500004,
     "cost": 573000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 635000,
@@ -13042,7 +13042,7 @@
     "last_name": "Burns",
     "squad_id": 500028,
     "cost": 513000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -44139,7 +44139,7 @@
     "last_name": "Stimson",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -64835,7 +64835,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 450000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 450000,
@@ -67055,7 +67055,7 @@
     "last_name": "Alick-Wiencke",
     "squad_id": 500004,
     "cost": 359000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 327000,
@@ -69487,7 +69487,7 @@
     "last_name": "Ison",
     "squad_id": 500028,
     "cost": 255000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "21": 230000,
