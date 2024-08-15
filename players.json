@@ -6948,7 +6948,7 @@
     "last_name": "Edwards",
     "squad_id": 500014,
     "cost": 808000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 660000,
@@ -14921,7 +14921,7 @@
     "last_name": "Fisher-Harris",
     "squad_id": 500014,
     "cost": 632000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 584000,
@@ -22269,7 +22269,7 @@
     "last_name": "Lewis",
     "squad_id": 500021,
     "cost": 363000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -24745,7 +24745,7 @@
     "last_name": "Turuva",
     "squad_id": 500014,
     "cost": 533000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 518000,
@@ -71209,7 +71209,7 @@
     "last_name": "Patea",
     "squad_id": 500014,
     "cost": 249000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "17": 230000,
