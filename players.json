@@ -73982,6 +73982,61 @@
     "locked": 0
   },
   {
+    "id": 100006946,
+    "first_name": "Kyle",
+    "last_name": "McCarthy",
+    "squad_id": 500003,
+    "cost": 266000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "25": 266000
+      },
+      "scores": {
+        "24": 48
+      },
+      "ranks": {
+        "24": 29
+      },
+      "season_rank": 50,
+      "games_played": 1,
+      "total_points": 48,
+      "avg_points": 48,
+      "high_score": 48,
+      "low_score": 48,
+      "last_3_avg": 48,
+      "last_5_avg": 48,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 20.3195,
+      "round_wpr": {
+        "25": 20.3195
+      },
+      "rd_tog": 85,
+      "tog": 85,
+      "career_avg": 48,
+      "career_avg_vs": {
+        "500028": 48
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      6
+    ],
+    "original_positions": [
+      5,
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100007013,
     "first_name": "Eli",
     "last_name": "Clark",
