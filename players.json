@@ -21913,7 +21913,7 @@
     "last_name": "Waddell",
     "squad_id": 500002,
     "cost": 432000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -33541,7 +33541,7 @@
     "last_name": "Lodge",
     "squad_id": 500002,
     "cost": 381000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 465000,
@@ -56108,7 +56108,7 @@
     "last_name": "Feledy",
     "squad_id": 500023,
     "cost": 291000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 289000,
@@ -57324,7 +57324,7 @@
     "last_name": "Lawton",
     "squad_id": 500002,
     "cost": 510000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 268000,
@@ -67242,7 +67242,7 @@
     "last_name": "Porter",
     "squad_id": 500023,
     "cost": 442000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "14": 230000,
@@ -71710,7 +71710,7 @@
     "last_name": "Faulalo",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
@@ -72280,7 +72280,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "16": 230000,
