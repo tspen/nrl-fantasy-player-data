@@ -10705,7 +10705,7 @@
     "last_name": "King",
     "squad_id": 500010,
     "cost": 675000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 630000,
@@ -28276,7 +28276,7 @@
     "last_name": "Curran",
     "squad_id": 500010,
     "cost": 610000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 501000,
@@ -43097,7 +43097,7 @@
     "last_name": "Hutchison",
     "squad_id": 500010,
     "cost": 464000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -45444,7 +45444,7 @@
     "last_name": "Afoa",
     "squad_id": 500032,
     "cost": 310000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 392000,
@@ -45579,7 +45579,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 444000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 388000,
@@ -49907,7 +49907,7 @@
     "last_name": "Skelton",
     "squad_id": 500010,
     "cost": 417000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -75529,7 +75529,7 @@
     "last_name": "Halasima",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "18": 230000,
