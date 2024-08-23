@@ -12199,7 +12199,7 @@
     "last_name": "Welch",
     "squad_id": 500021,
     "cost": 423000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 615000,
@@ -22820,7 +22820,7 @@
     "last_name": "Lewis",
     "squad_id": 500021,
     "cost": 363000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -39832,7 +39832,7 @@
     "last_name": "Niu",
     "squad_id": 500723,
     "cost": 407000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 424000,
@@ -47223,7 +47223,7 @@
     "last_name": "Kerr",
     "squad_id": 500723,
     "cost": 338000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 378000,
@@ -60664,7 +60664,7 @@
     "last_name": "Ieremia",
     "squad_id": 500021,
     "cost": 243000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -66409,7 +66409,7 @@
     "last_name": "Pangai Junior",
     "squad_id": 500723,
     "cost": 470000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "16": 500000,
@@ -68118,7 +68118,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "21": 230000,
@@ -70900,7 +70900,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 580000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "7": 425000,
