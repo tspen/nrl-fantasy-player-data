@@ -49450,7 +49450,7 @@
     "last_name": "Harris-Tavita",
     "squad_id": 500032,
     "cost": 462000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -52679,7 +52679,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 257000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 326000,
@@ -53176,7 +53176,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 332000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -70591,7 +70591,7 @@
     "last_name": "Hopoi",
     "squad_id": 500010,
     "cost": 240000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "13": 230000,
