@@ -22566,7 +22566,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 427000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 540000,
@@ -26494,7 +26494,7 @@
     "last_name": "Sami",
     "squad_id": 500004,
     "cost": 575000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 513000,
@@ -30876,7 +30876,7 @@
     "last_name": "Guler",
     "squad_id": 500013,
     "cost": 386000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 480000,
@@ -37150,7 +37150,7 @@
     "last_name": "Wong",
     "squad_id": 500001,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -43784,7 +43784,7 @@
     "last_name": "Eisenhuth",
     "squad_id": 500014,
     "cost": 387000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 397000,
@@ -45303,7 +45303,7 @@
     "last_name": "Palasia",
     "squad_id": 500004,
     "cost": 282000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 393000,
@@ -62075,7 +62075,7 @@
     "last_name": "Dockar-Clay",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -63408,7 +63408,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -65165,7 +65165,7 @@
     "last_name": "Toia",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -70454,7 +70454,7 @@
     "last_name": "Alick-Wiencke",
     "squad_id": 500004,
     "cost": 359000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 327000,
