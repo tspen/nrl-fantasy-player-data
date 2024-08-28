@@ -6483,7 +6483,7 @@
     "last_name": "King",
     "squad_id": 500021,
     "cost": 519000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 671000,
@@ -12308,7 +12308,7 @@
     "last_name": "Meaney",
     "squad_id": 500021,
     "cost": 551000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 619000,
@@ -13826,7 +13826,7 @@
     "last_name": "Loiero",
     "squad_id": 500021,
     "cost": 644000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 601000,
@@ -28182,7 +28182,7 @@
     "last_name": "Townsend",
     "squad_id": 500012,
     "cost": 394000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 506000,
@@ -58350,7 +58350,7 @@
     "last_name": "Finefeuiaki",
     "squad_id": 500012,
     "cost": 331000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 272000,
@@ -71329,7 +71329,7 @@
     "last_name": "Burns",
     "squad_id": 500012,
     "cost": 495000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 420000,
@@ -76235,7 +76235,7 @@
     "last_name": "Purdue",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "14": 247000,
