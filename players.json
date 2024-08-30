@@ -8321,7 +8321,7 @@
     "last_name": "Marshall-King",
     "squad_id": 500723,
     "cost": 629000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 650000,
@@ -40735,7 +40735,7 @@
     "last_name": "Niu",
     "squad_id": 500723,
     "cost": 407000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 424000,
@@ -49143,7 +49143,7 @@
     "last_name": "Baker",
     "squad_id": 500011,
     "cost": 418000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 360000,
@@ -53266,7 +53266,7 @@
     "last_name": "Paix",
     "squad_id": 500011,
     "cost": 331000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 331000,
@@ -53653,7 +53653,7 @@
     "last_name": "Teague",
     "squad_id": 500723,
     "cost": 310000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 329000,
@@ -54262,7 +54262,7 @@
     "last_name": "Milford",
     "squad_id": 500723,
     "cost": 280000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 323000,
@@ -67920,7 +67920,7 @@
     "last_name": "Pangai Junior",
     "squad_id": 500723,
     "cost": 470000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "16": 500000,
@@ -71282,7 +71282,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 308000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -72530,7 +72530,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 580000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 425000,
@@ -74291,7 +74291,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 238000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "2": 250000,
