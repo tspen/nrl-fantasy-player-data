@@ -7899,7 +7899,7 @@
     "last_name": "Lawrie",
     "squad_id": 500022,
     "cost": 388000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 657000,
@@ -26469,7 +26469,7 @@
     "last_name": "Ravalawa",
     "squad_id": 500022,
     "cost": 417000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 514000,
@@ -35628,7 +35628,7 @@
     "last_name": "Suli",
     "squad_id": 500022,
     "cost": 492000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -38342,7 +38342,7 @@
     "last_name": "Molo",
     "squad_id": 500022,
     "cost": 460000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -47583,7 +47583,7 @@
     "last_name": "Russell",
     "squad_id": 500031,
     "cost": 364000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 381000,
@@ -48296,7 +48296,7 @@
     "last_name": "Kerr",
     "squad_id": 500723,
     "cost": 313000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 378000,
@@ -50166,7 +50166,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 450000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 355000,
@@ -54804,7 +54804,7 @@
     "last_name": "Doorey",
     "squad_id": 500031,
     "cost": 253000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 311000,
@@ -69579,7 +69579,7 @@
     "last_name": "Tago",
     "squad_id": 500031,
     "cost": 231000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "18": 230000,
@@ -73681,7 +73681,7 @@
     "last_name": "Sanders",
     "squad_id": 500031,
     "cost": 282000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
@@ -77582,7 +77582,7 @@
     "last_name": "King-Togia",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "24": 230000,
