@@ -19832,7 +19832,7 @@
     "last_name": "Hastings",
     "squad_id": 500003,
     "cost": 637000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -23514,7 +23514,7 @@
     "last_name": "Liddle",
     "squad_id": 500022,
     "cost": 738000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 536000,
@@ -25715,7 +25715,7 @@
     "last_name": "Harper",
     "squad_id": 500031,
     "cost": 402000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 518000,
@@ -40533,7 +40533,7 @@
     "last_name": "Jenkins",
     "squad_id": 500003,
     "cost": 326000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 426000,
@@ -41234,7 +41234,7 @@
     "last_name": "Tuilagi",
     "squad_id": 500031,
     "cost": 527000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -52305,7 +52305,7 @@
     "last_name": "Ogden",
     "squad_id": 500031,
     "cost": 341000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 341000,
@@ -65292,7 +65292,7 @@
     "last_name": "Armstrong",
     "squad_id": 500003,
     "cost": 489000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -71190,7 +71190,7 @@
     "last_name": "Muhleisen",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -73820,7 +73820,7 @@
     "last_name": "Sanders",
     "squad_id": 500031,
     "cost": 282000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "8": 230000,
