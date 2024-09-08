@@ -28517,7 +28517,7 @@
     "last_name": "Talakai",
     "squad_id": 500028,
     "cost": 372000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 509000,
@@ -48710,7 +48710,7 @@
     "last_name": "Kaufusi",
     "squad_id": 500028,
     "cost": 500000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 382000,
@@ -67326,7 +67326,7 @@
     "last_name": "Humphreys",
     "squad_id": 500002,
     "cost": 257000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
