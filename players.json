@@ -30028,6 +30028,66 @@
     "locked": 0
   },
   {
+    "id": 100011191,
+    "first_name": "Lehi",
+    "last_name": "Hopoate",
+    "squad_id": 500002,
+    "cost": 514000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 514000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 12,
+      "total_points": 453,
+      "avg_points": 37.8,
+      "high_score": 81,
+      "low_score": 11,
+      "last_3_avg": 32,
+      "last_5_avg": 37.4,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 38.2442,
+      "round_wpr": {
+        "1": 38.2442
+      },
+      "rd_tog": "",
+      "tog": 71,
+      "career_avg": 37.75,
+      "career_avg_vs": {
+        "500021": 32,
+        "500014": 37,
+        "500022": 62,
+        "500005": 27,
+        "500012": 11,
+        "500003": 81,
+        "500004": 16,
+        "500013": 49,
+        "500032": 42,
+        "500023": 30,
+        "500010": 49,
+        "500028": 17
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100011237,
     "first_name": "Michael",
     "last_name": "Gabrael",
