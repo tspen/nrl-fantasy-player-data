@@ -2040,7 +2040,7 @@
         "res": 0.11
       },
       "owned_by": 4.22,
-      "adp": 31,
+      "adp": 32,
       "proj_avg": 52.2,
       "wpr": 52.0835,
       "round_wpr": {
@@ -2107,7 +2107,7 @@
         "res": 0.24
       },
       "owned_by": 8.12,
-      "adp": 36,
+      "adp": 37,
       "proj_avg": 52.1,
       "wpr": 51.7115,
       "round_wpr": {
@@ -2444,7 +2444,7 @@
         "res": 0.25
       },
       "owned_by": 3.6,
-      "adp": 37,
+      "adp": 36,
       "proj_avg": 51.8,
       "wpr": 51.7115,
       "round_wpr": {
@@ -2896,7 +2896,7 @@
         "res": 0.23
       },
       "owned_by": 13.05,
-      "adp": 32,
+      "adp": 31,
       "proj_avg": 50,
       "wpr": 49.7026,
       "round_wpr": {
@@ -7473,7 +7473,7 @@
         "res": 0.1
       },
       "owned_by": 1.01,
-      "adp": 122,
+      "adp": 123,
       "proj_avg": 42.4,
       "wpr": 42.1877,
       "round_wpr": {
@@ -10216,7 +10216,7 @@
         "res": 0.29
       },
       "owned_by": 3.76,
-      "adp": 151,
+      "adp": 150,
       "proj_avg": 38.3,
       "wpr": 38.021,
       "round_wpr": {
@@ -10623,7 +10623,7 @@
         "res": 0.22
       },
       "owned_by": 1.67,
-      "adp": 150,
+      "adp": 151,
       "proj_avg": 38.2,
       "wpr": 37.9466,
       "round_wpr": {
@@ -11291,7 +11291,7 @@
         "res": 0.04
       },
       "owned_by": 0.17,
-      "adp": 203,
+      "adp": 204,
       "proj_avg": 37.6,
       "wpr": 37.3513,
       "round_wpr": {
@@ -13224,7 +13224,7 @@
         "res": 0.13
       },
       "owned_by": 0.61,
-      "adp": 233,
+      "adp": 234,
       "proj_avg": 35.4,
       "wpr": 35.1192,
       "round_wpr": {
@@ -14364,7 +14364,7 @@
     "last_name": "Sanders",
     "squad_id": 500013,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000
@@ -15348,7 +15348,7 @@
         "res": 0.26
       },
       "owned_by": 0.78,
-      "adp": 250,
+      "adp": 251,
       "proj_avg": 33,
       "wpr": 32.7382,
       "round_wpr": {
@@ -16009,7 +16009,7 @@
         "res": 0.09
       },
       "owned_by": 0.65,
-      "adp": 274,
+      "adp": 273,
       "proj_avg": 32.3,
       "wpr": 32.0686,
       "round_wpr": {
@@ -16066,7 +16066,7 @@
         "res": 0.09
       },
       "owned_by": 0.31,
-      "adp": 283,
+      "adp": 284,
       "proj_avg": 32.2,
       "wpr": 31.9942,
       "round_wpr": {
@@ -16870,7 +16870,7 @@
         "res": 2
       },
       "owned_by": 8.6,
-      "adp": 234,
+      "adp": 233,
       "proj_avg": 31.4,
       "wpr": 31.2501,
       "round_wpr": {
@@ -17070,7 +17070,7 @@
         "res": 0.24
       },
       "owned_by": 0.68,
-      "adp": 284,
+      "adp": 283,
       "proj_avg": 31.2,
       "wpr": 30.9525,
       "round_wpr": {
@@ -17647,7 +17647,7 @@
         "res": 0.45
       },
       "owned_by": 1.1,
-      "adp": 273,
+      "adp": 274,
       "proj_avg": 30.7,
       "wpr": 30.4317,
       "round_wpr": {
@@ -17781,7 +17781,7 @@
         "res": 0.23
       },
       "owned_by": 1.17,
-      "adp": 277,
+      "adp": 278,
       "proj_avg": 30.7,
       "wpr": 30.5061,
       "round_wpr": {
@@ -18505,7 +18505,7 @@
         "res": 0.23
       },
       "owned_by": 1.18,
-      "adp": 278,
+      "adp": 277,
       "proj_avg": 30.1,
       "wpr": 29.8364,
       "round_wpr": {
@@ -18707,7 +18707,7 @@
         "res": 4.28
       },
       "owned_by": 19.85,
-      "adp": 251,
+      "adp": 250,
       "proj_avg": 30,
       "wpr": 22.3215,
       "round_wpr": {
@@ -22129,7 +22129,7 @@
     "last_name": "Stewart",
     "squad_id": 500013,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000
@@ -22751,7 +22751,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000
@@ -23445,7 +23445,7 @@
     "last_name": "Levi",
     "squad_id": 500013,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 314000
@@ -24108,7 +24108,7 @@
     "last_name": "Afoa",
     "squad_id": 500032,
     "cost": 286000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 286000
@@ -27696,7 +27696,7 @@
         "res": 3.36
       },
       "owned_by": 21.43,
-      "adp": 123,
+      "adp": 122,
       "proj_avg": 0,
       "wpr": 37.2025,
       "round_wpr": {
@@ -27815,7 +27815,7 @@
         "res": 5.08
       },
       "owned_by": 11.03,
-      "adp": 204,
+      "adp": 203,
       "proj_avg": 0,
       "wpr": 22.3215,
       "round_wpr": {
@@ -28290,7 +28290,7 @@
     "last_name": "Healey",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
