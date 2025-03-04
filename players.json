@@ -5909,7 +5909,7 @@
         "res": 0.05
       },
       "owned_by": 0.44,
-      "adp": 100,
+      "adp": 101,
       "proj_avg": 44.2,
       "wpr": 43.899,
       "round_wpr": {
@@ -6921,7 +6921,7 @@
         "res": 0.15
       },
       "owned_by": 2.16,
-      "adp": 101,
+      "adp": 100,
       "proj_avg": 43.5,
       "wpr": 43.1549,
       "round_wpr": {
@@ -11421,7 +11421,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 502000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 502000
@@ -27323,6 +27323,67 @@
     "locked": 0
   },
   {
+    "id": 500889,
+    "first_name": "Zach",
+    "last_name": "Dockar-Clay",
+    "squad_id": 500001,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.6013,
+      "round_wpr": {
+        "1": 18.6013
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 15.5263,
+      "career_avg_vs": {
+        "500023": 9,
+        "500022": 16,
+        "500014": 23,
+        "500031": 25,
+        "500028": 14,
+        "500005": 12.5,
+        "500004": 26,
+        "500003": 12,
+        "500012": 8,
+        "500032": 7,
+        "500002": 21,
+        "500021": 19,
+        "500013": 4
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500928,
     "first_name": "Ken",
     "last_name": "Maumalo",
@@ -27696,6 +27757,104 @@
     "locked": 0
   },
   {
+    "id": 504371,
+    "first_name": "Gehamat",
+    "last_name": "Shibasaki",
+    "squad_id": 500011,
+    "cost": 300000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 300000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 22.3215,
+      "round_wpr": {
+        "1": 22.3215
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 23,
+      "career_avg_vs": {
+        "500032": 29,
+        "500004": 16,
+        "500022": 24
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 504376,
+    "first_name": "Tristan",
+    "last_name": "Hope",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1132,
+      "round_wpr": {
+        "1": 17.1132
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 504447,
     "first_name": "Haze",
     "last_name": "Dunster",
@@ -27806,6 +27965,61 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 504787,
+    "first_name": "Jake",
+    "last_name": "Tago",
+    "squad_id": 500031,
+    "cost": 268000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 268000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.9406,
+      "round_wpr": {
+        "1": 19.9406
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 19.7143,
+      "career_avg_vs": {
+        "500005": 24,
+        "500004": 11,
+        "500021": 21,
+        "500032": 22,
+        "500014": 19,
+        "500001": 6,
+        "500022": 35
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -27994,6 +28208,67 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 506197,
+    "first_name": "Solomona",
+    "last_name": "Faataape",
+    "squad_id": 500023,
+    "cost": 287000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 287000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 21.3543,
+      "round_wpr": {
+        "1": 21.3543
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 21.1176,
+      "career_avg_vs": {
+        "500013": 17.5,
+        "500028": 15,
+        "500031": 19.5,
+        "500723": 29,
+        "500022": 13,
+        "500004": 18,
+        "500001": 4,
+        "500021": 7,
+        "500005": 26.5,
+        "500032": 13,
+        "500012": 27,
+        "500003": 56,
+        "500002": 35
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -28813,6 +29088,57 @@
     "locked": 1
   },
   {
+    "id": 100000365,
+    "first_name": "Ronald",
+    "last_name": "Volkman",
+    "squad_id": 500031,
+    "cost": 374000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 374000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 27.8275,
+      "round_wpr": {
+        "1": 27.8275
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 28,
+      "career_avg_vs": {
+        "500028": 20,
+        "500010": 28,
+        "500723": 36
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100001565,
     "first_name": "Riley",
     "last_name": "Price",
@@ -28928,6 +29254,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100003898,
+    "first_name": "Ryley",
+    "last_name": "Smith",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1132,
+      "round_wpr": {
+        "1": 17.1132
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100004119,
@@ -29584,6 +29957,116 @@
     "locked": 1
   },
   {
+    "id": 100006657,
+    "first_name": "Heath",
+    "last_name": "Mason",
+    "squad_id": 500023,
+    "cost": 291000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 291000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 21.6519,
+      "round_wpr": {
+        "1": 21.6519
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 21.4286,
+      "career_avg_vs": {
+        "500004": 16,
+        "500013": 2,
+        "500021": 1,
+        "500028": 3,
+        "500005": 47,
+        "500002": 38,
+        "500031": 43
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006687,
+    "first_name": "Harry",
+    "last_name": "Hayes",
+    "squad_id": 500010,
+    "cost": 395000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 395000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 40,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 29.39,
+      "round_wpr": {
+        "1": 29.39
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 29.625,
+      "career_avg_vs": {
+        "500012": 22,
+        "500011": 18,
+        "500013": 35,
+        "500022": 44,
+        "500723": 23,
+        "500032": 42,
+        "500002": 31
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006888,
     "first_name": "Jack",
     "last_name": "Todd",
@@ -29884,6 +30367,53 @@
       4
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100008234,
+    "first_name": "Salesi",
+    "last_name": "Foketi",
+    "squad_id": 500001,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1132,
+      "round_wpr": {
+        "1": 17.1132
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
