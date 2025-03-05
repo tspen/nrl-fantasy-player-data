@@ -12781,7 +12781,7 @@
     "last_name": "Nicholls",
     "squad_id": 500723,
     "cost": 482000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 482000
@@ -16916,7 +16916,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 421000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000
@@ -17830,7 +17830,7 @@
     "last_name": "Nikorima",
     "squad_id": 500723,
     "cost": 409000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 409000
@@ -18378,7 +18378,7 @@
     "last_name": "Kerr",
     "squad_id": 500723,
     "cost": 403000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 403000
@@ -22195,7 +22195,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 450000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000
@@ -22327,7 +22327,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 347000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 347000
