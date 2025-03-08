@@ -2104,7 +2104,7 @@
         "res": 0.13
       },
       "owned_by": 4.47,
-      "adp": 30,
+      "adp": 31,
       "proj_avg": 52.2,
       "wpr": 52.0835,
       "round_wpr": {
@@ -2385,7 +2385,7 @@
         "res": 0.23
       },
       "owned_by": 6.66,
-      "adp": 31,
+      "adp": 30,
       "proj_avg": 51.8,
       "wpr": 51.4883,
       "round_wpr": {
@@ -4340,7 +4340,7 @@
         "res": 0.06
       },
       "owned_by": 0.43,
-      "adp": 78,
+      "adp": 79,
       "proj_avg": 46.8,
       "wpr": 46.4287,
       "round_wpr": {
@@ -4819,7 +4819,7 @@
         "res": 0.11
       },
       "owned_by": 1.5,
-      "adp": 79,
+      "adp": 78,
       "proj_avg": 45.5,
       "wpr": 45.1639,
       "round_wpr": {
@@ -7667,7 +7667,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 567000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 567000
@@ -12596,7 +12596,7 @@
         "res": 0.15
       },
       "owned_by": 1.75,
-      "adp": 200,
+      "adp": 201,
       "proj_avg": 36.6,
       "wpr": 39.0626,
       "round_wpr": {
@@ -13290,7 +13290,7 @@
         "res": 0.53
       },
       "owned_by": 5.47,
-      "adp": 168,
+      "adp": 167,
       "proj_avg": 36,
       "wpr": 35.7888,
       "round_wpr": {
@@ -15643,7 +15643,7 @@
     "last_name": "Faalogo",
     "squad_id": 500021,
     "cost": 443000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 443000
@@ -16126,7 +16126,7 @@
         "res": 1.1
       },
       "owned_by": 16.31,
-      "adp": 167,
+      "adp": 168,
       "proj_avg": 32.6,
       "wpr": 32.3662,
       "round_wpr": {
@@ -21053,7 +21053,7 @@
         "res": 1.75
       },
       "owned_by": 5.03,
-      "adp": 201,
+      "adp": 199,
       "proj_avg": 28.4,
       "wpr": 28.1995,
       "round_wpr": {
@@ -22297,7 +22297,7 @@
     "last_name": "Lussick",
     "squad_id": 500031,
     "cost": 357000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 357000
@@ -25106,7 +25106,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000
@@ -28795,7 +28795,7 @@
         "res": 5.63
       },
       "owned_by": 11.98,
-      "adp": 199,
+      "adp": 200,
       "proj_avg": 0,
       "wpr": 22.3215,
       "round_wpr": {
@@ -29176,7 +29176,7 @@
     "last_name": "Samrani",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
@@ -30327,7 +30327,7 @@
     "last_name": "Tuivaiti",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000
