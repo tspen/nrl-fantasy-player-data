@@ -28774,6 +28774,53 @@
     "locked": 0
   },
   {
+    "id": 500171,
+    "first_name": "Brock",
+    "last_name": "Gray",
+    "squad_id": 500004,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1783,
+      "round_wpr": {
+        "2": 17.1783
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500405,
     "first_name": "Coen",
     "last_name": "Hess",
@@ -29119,6 +29166,70 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 501341,
+    "first_name": "Makahesi",
+    "last_name": "Makatoa",
+    "squad_id": 500001,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 72,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.6721,
+      "round_wpr": {
+        "2": 18.6721
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 23.0755,
+      "career_avg_vs": {
+        "500002": 23.8333,
+        "500012": 28.6667,
+        "500021": 17,
+        "500014": 31.25,
+        "500004": 15.6667,
+        "500028": 21,
+        "500022": 23,
+        "500023": 24.75,
+        "500003": 32.3333,
+        "500001": 20.75,
+        "500013": 19,
+        "500010": 18.6667,
+        "500005": 27.6667,
+        "500032": 30,
+        "500011": 17.8,
+        "500723": 17
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -29676,6 +29787,53 @@
         "500001": 6,
         "500022": 35
       },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 505672,
+    "first_name": "Bayleigh",
+    "last_name": "Bentley-Hape",
+    "squad_id": 500005,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.1783,
+      "round_wpr": {
+        "2": 17.1783
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
       "last_3_proj_avg": 0
     },
     "positions": [
