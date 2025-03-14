@@ -7286,7 +7286,7 @@
     "last_name": "Nanai",
     "squad_id": 500012,
     "cost": 551000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 581000,
@@ -8973,7 +8973,7 @@
     "last_name": "Hazelton",
     "squad_id": 500028,
     "cost": 528000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 545000,
@@ -10472,7 +10472,7 @@
     "last_name": "Clifford",
     "squad_id": 500012,
     "cost": 525000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -20374,7 +20374,7 @@
     "last_name": "Taumalolo",
     "squad_id": 500012,
     "cost": 392000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 392000,
@@ -26740,7 +26740,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -28328,7 +28328,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -30399,7 +30399,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
