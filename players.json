@@ -12961,7 +12961,7 @@
     "last_name": "Sloan",
     "squad_id": 500022,
     "cost": 496000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 496000,
@@ -20133,7 +20133,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 388000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 401000,
@@ -32013,7 +32013,7 @@
     "last_name": "Egan",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -32792,7 +32792,7 @@
     "last_name": "Dodd",
     "squad_id": 500005,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
