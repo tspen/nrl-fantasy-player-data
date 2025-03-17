@@ -11219,7 +11219,7 @@
         "res": 0.02
       },
       "owned_by": 0.08,
-      "adp": 184,
+      "adp": 183,
       "proj_avg": 38.7,
       "wpr": 39.3985,
       "round_wpr": {
@@ -11371,7 +11371,7 @@
         "res": 0.16
       },
       "owned_by": 0.95,
-      "adp": 164,
+      "adp": 165,
       "proj_avg": 38.6,
       "wpr": 36.5649,
       "round_wpr": {
@@ -11907,7 +11907,7 @@
         "res": 0.12
       },
       "owned_by": 0.93,
-      "adp": 183,
+      "adp": 184,
       "proj_avg": 38.2,
       "wpr": 38.9694,
       "round_wpr": {
@@ -13034,7 +13034,7 @@
         "res": 0.14
       },
       "owned_by": 1.12,
-      "adp": 165,
+      "adp": 166,
       "proj_avg": 37.3,
       "wpr": 39.3985,
       "round_wpr": {
@@ -17532,7 +17532,7 @@
     "id": 500228,
     "first_name": "David",
     "last_name": "Klemmer",
-    "squad_id": 500023,
+    "squad_id": 500022,
     "cost": 439000,
     "status": "uncertain",
     "stats": {
@@ -17595,9 +17595,9 @@
       2
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 0,
+    "original_squad_id": 500023,
+    "transfer_round": 3,
+    "is_bye": 1,
     "locked": 0
   },
   {
@@ -18893,7 +18893,7 @@
         "res": 0.13
       },
       "owned_by": 0.54,
-      "adp": 284,
+      "adp": 283,
       "proj_avg": 31.5,
       "wpr": 31.5939,
       "round_wpr": {
@@ -20874,7 +20874,7 @@
         "res": 0.1
       },
       "owned_by": 0.59,
-      "adp": 283,
+      "adp": 284,
       "proj_avg": 30.1,
       "wpr": 30.093,
       "round_wpr": {
@@ -23363,7 +23363,7 @@
     "id": 508031,
     "first_name": "Mikaele",
     "last_name": "Ravalawa",
-    "squad_id": 500022,
+    "squad_id": 500005,
     "cost": 374000,
     "status": "uncertain",
     "stats": {
@@ -23425,9 +23425,9 @@
       6
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 1,
+    "original_squad_id": 500022,
+    "transfer_round": 3,
+    "is_bye": 0,
     "locked": 0
   },
   {
@@ -26190,7 +26190,7 @@
         "res": 15.55
       },
       "owned_by": 41.65,
-      "adp": 166,
+      "adp": 164,
       "proj_avg": 23.9,
       "wpr": 28.2228,
       "round_wpr": {
