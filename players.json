@@ -13333,7 +13333,7 @@
         "res": 0.23
       },
       "owned_by": 0.86,
-      "adp": 197,
+      "adp": 196,
       "proj_avg": 37.2,
       "wpr": 37.0172,
       "round_wpr": {
@@ -17404,7 +17404,7 @@
     "last_name": "Sommerton",
     "squad_id": 500014,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -20773,7 +20773,7 @@
     "last_name": "Laurie",
     "squad_id": 500014,
     "cost": 421000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 402000,
@@ -22661,7 +22661,7 @@
     "last_name": "Asofa-Solomona",
     "squad_id": 500021,
     "cost": 400000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -24648,7 +24648,7 @@
         "res": 2.37
       },
       "owned_by": 4.28,
-      "adp": 196,
+      "adp": 197,
       "proj_avg": 26.4,
       "wpr": 29.8565,
       "round_wpr": {
@@ -26864,7 +26864,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 295000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 291000,
@@ -27512,7 +27512,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -27918,7 +27918,7 @@
     "last_name": "Jenkins",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
