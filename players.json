@@ -12809,7 +12809,7 @@
         "res": 0.02
       },
       "owned_by": 0.08,
-      "adp": 205,
+      "adp": 204,
       "proj_avg": 37.6,
       "wpr": 37.6725,
       "round_wpr": {
@@ -13831,7 +13831,7 @@
     "last_name": "Collins",
     "squad_id": 500001,
     "cost": 513000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -13860,7 +13860,7 @@
         "res": 0.21
       },
       "owned_by": 1.28,
-      "adp": 204,
+      "adp": 205,
       "proj_avg": 36.6,
       "wpr": 38.4902,
       "round_wpr": {
@@ -17464,7 +17464,7 @@
     "last_name": "Berry",
     "squad_id": 500032,
     "cost": 441000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 441000,
@@ -25068,7 +25068,7 @@
         "res": 2.23
       },
       "owned_by": 18.54,
-      "adp": 178,
+      "adp": 179,
       "proj_avg": 25.9,
       "wpr": 31.9298,
       "round_wpr": {
@@ -26649,7 +26649,7 @@
     "last_name": "Lussick",
     "squad_id": 500032,
     "cost": 301000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 301000,
@@ -27108,7 +27108,7 @@
     "last_name": "Afoa",
     "squad_id": 500032,
     "cost": 286000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 286000,
@@ -27802,7 +27802,7 @@
         "res": 5.91
       },
       "owned_by": 18.33,
-      "adp": 179,
+      "adp": 178,
       "proj_avg": 19.4,
       "wpr": 19.5054,
       "round_wpr": {
@@ -30621,7 +30621,7 @@
     "last_name": "Makatoa",
     "squad_id": 500001,
     "cost": 243000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
@@ -32467,7 +32467,7 @@
     "last_name": "Savala",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -32697,7 +32697,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 235000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -34403,7 +34403,7 @@
     "last_name": "Foketi",
     "squad_id": 500001,
     "cost": 269000,
-    "status": "playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 230000,
