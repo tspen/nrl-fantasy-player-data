@@ -7185,7 +7185,7 @@
     "last_name": "Schneider",
     "squad_id": 500014,
     "cost": 550000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 550000,
@@ -8758,7 +8758,7 @@
         "res": 0.21
       },
       "owned_by": 1.66,
-      "adp": 124,
+      "adp": 123,
       "proj_avg": 41.5,
       "wpr": 42.5967,
       "round_wpr": {
@@ -10940,7 +10940,7 @@
         "res": 0.26
       },
       "owned_by": 1.25,
-      "adp": 123,
+      "adp": 124,
       "proj_avg": 39.3,
       "wpr": 40.4547,
       "round_wpr": {
@@ -15219,7 +15219,7 @@
         "res": 0.48
       },
       "owned_by": 3.31,
-      "adp": 180,
+      "adp": 179,
       "proj_avg": 35.1,
       "wpr": 37.2689,
       "round_wpr": {
@@ -15898,7 +15898,7 @@
     "last_name": "Talagi",
     "squad_id": 500014,
     "cost": 458000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -23883,7 +23883,7 @@
     "last_name": "Garlick",
     "squad_id": 500021,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -24964,7 +24964,7 @@
     "last_name": "Eisenhuth",
     "squad_id": 500014,
     "cost": 325000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 346000,
@@ -25068,7 +25068,7 @@
         "res": 2.23
       },
       "owned_by": 18.54,
-      "adp": 179,
+      "adp": 180,
       "proj_avg": 25.9,
       "wpr": 31.9298,
       "round_wpr": {
