@@ -13333,7 +13333,7 @@
         "res": 0.24
       },
       "owned_by": 0.87,
-      "adp": 197,
+      "adp": 196,
       "proj_avg": 37.2,
       "wpr": 37.0172,
       "round_wpr": {
@@ -24648,7 +24648,7 @@
         "res": 2.41
       },
       "owned_by": 4.32,
-      "adp": 196,
+      "adp": 197,
       "proj_avg": 26.4,
       "wpr": 29.8565,
       "round_wpr": {
@@ -31927,6 +31927,59 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 508067,
+    "first_name": "Kane",
+    "last_name": "Bradley",
+    "squad_id": 500021,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "3": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 116,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.7617,
+      "round_wpr": {
+        "3": 18.7617
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 16.6667,
+      "career_avg_vs": {
+        "500010": 9,
+        "500023": 20,
+        "500003": 16,
+        "500013": 2,
+        "500012": 33
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
