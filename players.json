@@ -8163,7 +8163,7 @@
         "res": 0.02
       },
       "owned_by": 0.1,
-      "adp": 128,
+      "adp": 129,
       "proj_avg": 43,
       "wpr": 43.0007,
       "round_wpr": {
@@ -9812,7 +9812,7 @@
         "res": 0.11
       },
       "owned_by": 0.73,
-      "adp": 129,
+      "adp": 128,
       "proj_avg": 40.6,
       "wpr": 39.2052,
       "round_wpr": {
@@ -12719,7 +12719,7 @@
         "res": 0.19
       },
       "owned_by": 3.45,
-      "adp": 151,
+      "adp": 152,
       "proj_avg": 37.8,
       "wpr": 39.3893,
       "round_wpr": {
@@ -15538,7 +15538,7 @@
         "res": 0.05
       },
       "owned_by": 0.31,
-      "adp": 239,
+      "adp": 238,
       "proj_avg": 35,
       "wpr": 26.2657,
       "round_wpr": {
@@ -18234,7 +18234,7 @@
         "res": 0.41
       },
       "owned_by": 2.62,
-      "adp": 238,
+      "adp": 239,
       "proj_avg": 32.4,
       "wpr": 32.6041,
       "round_wpr": {
@@ -32972,6 +32972,53 @@
     "locked": 1
   },
   {
+    "id": 509614,
+    "first_name": "Joseph",
+    "last_name": "O'Neill",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "3": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.2607,
+      "round_wpr": {
+        "3": 17.2607
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 509635,
     "first_name": "Toni",
     "last_name": "Mataele",
@@ -35072,7 +35119,7 @@
         "res": 9.27
       },
       "owned_by": 49.88,
-      "adp": 152,
+      "adp": 151,
       "proj_avg": 0,
       "wpr": 24.8882,
       "round_wpr": {
@@ -35806,6 +35853,55 @@
       4
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011328,
+    "first_name": "Jonathan",
+    "last_name": "Sua",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "3": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 161,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.2607,
+      "round_wpr": {
+        "3": 17.2607
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 31,
+      "career_avg_vs": {
+        "500012": 31
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
