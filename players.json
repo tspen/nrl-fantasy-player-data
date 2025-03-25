@@ -33453,6 +33453,62 @@
     "locked": 0
   },
   {
+    "id": 508341,
+    "first_name": "Trent",
+    "last_name": "Toelau",
+    "squad_id": 500014,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "4": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 168,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.8021,
+      "round_wpr": {
+        "4": 18.8021
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 17.4444,
+      "career_avg_vs": {
+        "500022": 23,
+        "500003": 18,
+        "500012": 22,
+        "500723": 26,
+        "500031": 18,
+        "500021": 11,
+        "500013": 12,
+        "500005": 4
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 509128,
     "first_name": "Billy",
     "last_name": "Smith",
