@@ -7515,7 +7515,7 @@
     "last_name": "Schneider",
     "squad_id": 500014,
     "cost": 550000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -10909,7 +10909,7 @@
         "res": 0.38
       },
       "owned_by": 2.03,
-      "adp": 160,
+      "adp": 159,
       "proj_avg": 40,
       "wpr": 33.2906,
       "round_wpr": {
@@ -13415,7 +13415,7 @@
         "res": 0.02
       },
       "owned_by": 0.07,
-      "adp": 204,
+      "adp": 203,
       "proj_avg": 37.6,
       "wpr": 37.7544,
       "round_wpr": {
@@ -15156,7 +15156,7 @@
         "res": 0.82
       },
       "owned_by": 6.39,
-      "adp": 159,
+      "adp": 160,
       "proj_avg": 36.1,
       "wpr": 33.5332,
       "round_wpr": {
@@ -15397,7 +15397,7 @@
         "res": 0.37
       },
       "owned_by": 1.99,
-      "adp": 203,
+      "adp": 204,
       "proj_avg": 35.8,
       "wpr": 32.8239,
       "round_wpr": {
@@ -16654,7 +16654,7 @@
     "last_name": "Talagi",
     "squad_id": 500014,
     "cost": 457000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -17887,7 +17887,7 @@
         "res": 0.03
       },
       "owned_by": 0.12,
-      "adp": 272,
+      "adp": 271,
       "proj_avg": 33.3,
       "wpr": 34.0432,
       "round_wpr": {
@@ -18233,7 +18233,7 @@
     "last_name": "Sommerton",
     "squad_id": 500014,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -18935,7 +18935,7 @@
         "res": 0.02
       },
       "owned_by": 0.16,
-      "adp": 278,
+      "adp": 277,
       "proj_avg": 32.3,
       "wpr": 32.4147,
       "round_wpr": {
@@ -20011,7 +20011,7 @@
         "res": 0.28
       },
       "owned_by": 2.61,
-      "adp": 239,
+      "adp": 238,
       "proj_avg": 31.3,
       "wpr": 39.2432,
       "round_wpr": {
@@ -20168,7 +20168,7 @@
         "res": 0.38
       },
       "owned_by": 1.43,
-      "adp": 277,
+      "adp": 278,
       "proj_avg": 31.2,
       "wpr": 34.7371,
       "round_wpr": {
@@ -21772,7 +21772,7 @@
         "res": 0.31
       },
       "owned_by": 1.16,
-      "adp": 271,
+      "adp": 272,
       "proj_avg": 30.1,
       "wpr": 31.6659,
       "round_wpr": {
@@ -23137,7 +23137,7 @@
         "res": 0.95
       },
       "owned_by": 4.52,
-      "adp": 238,
+      "adp": 239,
       "proj_avg": 28.9,
       "wpr": 33.8893,
       "round_wpr": {
@@ -28170,7 +28170,7 @@
     "last_name": "Patea",
     "squad_id": 500014,
     "cost": 246000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -35360,7 +35360,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
