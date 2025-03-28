@@ -18957,7 +18957,7 @@
     "last_name": "Laybutt",
     "squad_id": 500012,
     "cost": 431000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 431000,
@@ -21713,7 +21713,7 @@
     "last_name": "Hopoate",
     "squad_id": 500013,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 402000,
@@ -24279,7 +24279,7 @@
     "last_name": "Saulo",
     "squad_id": 500013,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 377000,
@@ -24803,7 +24803,7 @@
     "last_name": "Edwards",
     "squad_id": 500012,
     "cost": 399000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 371000,
@@ -27651,7 +27651,7 @@
     "last_name": "Levi",
     "squad_id": 500013,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 314000,
@@ -33259,6 +33259,60 @@
     "locked": 0
   },
   {
+    "id": 506392,
+    "first_name": "Adam",
+    "last_name": "Cook",
+    "squad_id": 500013,
+    "cost": 350000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "4": 350000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 171,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 26.3229,
+      "round_wpr": {
+        "4": 26.3229
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 28.5,
+      "career_avg_vs": {
+        "500021": 47,
+        "500003": 34,
+        "500010": 19,
+        "500002": 19,
+        "500012": 17,
+        "500001": 35
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 506492,
     "first_name": "Cory",
     "last_name": "Paix",
@@ -36100,7 +36154,7 @@
     "last_name": "Duffy",
     "squad_id": 500012,
     "cost": 292000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
