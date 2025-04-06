@@ -19057,7 +19057,7 @@
     "last_name": "Faalogo",
     "squad_id": 500021,
     "cost": 443000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 443000,
@@ -29681,7 +29681,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 295000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 291000,
@@ -35849,7 +35849,7 @@
     "last_name": "Navale",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000
@@ -40326,7 +40326,7 @@
     "last_name": "Leo",
     "squad_id": 500021,
     "cost": 350000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
