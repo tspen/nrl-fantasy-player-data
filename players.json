@@ -17585,7 +17585,7 @@
     "last_name": "Talau",
     "squad_id": 500002,
     "cost": 465000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 465000,
@@ -21464,7 +21464,7 @@
     "last_name": "Saab",
     "squad_id": 500002,
     "cost": 460000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 422000,
@@ -21635,7 +21635,7 @@
     "last_name": "Croker",
     "squad_id": 500002,
     "cost": 420000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 420000,
@@ -33749,7 +33749,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -33813,7 +33813,7 @@
     "last_name": "Colquhoun",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -36359,7 +36359,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -37460,7 +37460,7 @@
     "last_name": "Arthur",
     "squad_id": 500002,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
