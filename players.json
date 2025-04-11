@@ -5809,7 +5809,7 @@
         "res": 0.05
       },
       "owned_by": 0.31,
-      "adp": 82,
+      "adp": 81,
       "proj_avg": 46.2,
       "wpr": 49.797,
       "round_wpr": {
@@ -8406,7 +8406,7 @@
         "res": 0.34
       },
       "owned_by": 4.27,
-      "adp": 81,
+      "adp": 82,
       "proj_avg": 43.6,
       "wpr": 46.7364,
       "round_wpr": {
@@ -11552,7 +11552,7 @@
         "res": 0.08
       },
       "owned_by": 0.41,
-      "adp": 161,
+      "adp": 160,
       "proj_avg": 40.2,
       "wpr": 31.5953,
       "round_wpr": {
@@ -13803,7 +13803,7 @@
         "res": 0.31
       },
       "owned_by": 2.04,
-      "adp": 160,
+      "adp": 161,
       "proj_avg": 38.2,
       "wpr": 36.9418,
       "round_wpr": {
@@ -37789,6 +37789,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100003233,
+    "first_name": "Allan",
+    "last_name": "Fitzgibbon",
+    "squad_id": 500004,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "6": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.3999,
+      "round_wpr": {
+        "6": 17.3999
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100003896,
