@@ -13789,7 +13789,7 @@
     "last_name": "Kikau",
     "squad_id": 500010,
     "cost": 559000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 511000,
@@ -26411,7 +26411,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -36854,7 +36854,7 @@
     "last_name": "Suluka-Fifita",
     "squad_id": 500010,
     "cost": 250000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -37156,7 +37156,7 @@
     "last_name": "Schuster",
     "squad_id": 500005,
     "cost": 400000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
