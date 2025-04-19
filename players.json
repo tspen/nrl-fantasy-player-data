@@ -5150,7 +5150,7 @@
     "last_name": "Hastings",
     "squad_id": 500003,
     "cost": 642000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 642000,
@@ -17635,7 +17635,7 @@
         "res": 0.08
       },
       "owned_by": 0.41,
-      "adp": 212,
+      "adp": 211,
       "proj_avg": 35.7,
       "wpr": 36.1564,
       "round_wpr": {
@@ -19023,7 +19023,7 @@
         "res": 0.38
       },
       "owned_by": 1.22,
-      "adp": 211,
+      "adp": 212,
       "proj_avg": 34.3,
       "wpr": 34.8478,
       "round_wpr": {
@@ -19474,7 +19474,7 @@
     "last_name": "Cogger",
     "squad_id": 500003,
     "cost": 426000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 453000,
@@ -32770,7 +32770,7 @@
     "last_name": "Burns",
     "squad_id": 500028,
     "cost": 321000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -34569,7 +34569,7 @@
     "last_name": "Arthur",
     "squad_id": 500003,
     "cost": 247000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -35216,7 +35216,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
