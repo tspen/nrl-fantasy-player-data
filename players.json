@@ -34,7 +34,7 @@
         "2": 49,
         "1": 9
       },
-      "season_rank": 7,
+      "season_rank": 5,
       "games_played": 7,
       "total_points": 431,
       "avg_points": 61.6,
@@ -127,7 +127,7 @@
         "2": 16,
         "1": 20
       },
-      "season_rank": 15,
+      "season_rank": 11,
       "games_played": 6,
       "total_points": 341,
       "avg_points": 56.8,
@@ -220,7 +220,7 @@
         "2": 15,
         "1": 35
       },
-      "season_rank": 30,
+      "season_rank": 24,
       "games_played": 6,
       "total_points": 319,
       "avg_points": 53.2,
@@ -405,7 +405,7 @@
         "3": 43,
         "1": 30
       },
-      "season_rank": 109,
+      "season_rank": 102,
       "games_played": 5,
       "total_points": 177,
       "avg_points": 35.4,
@@ -492,7 +492,7 @@
         "6": 11,
         "5": 29
       },
-      "season_rank": 53,
+      "season_rank": 49,
       "games_played": 3,
       "total_points": 141,
       "avg_points": 47,
@@ -582,7 +582,7 @@
         "3": 35,
         "2": 56
       },
-      "season_rank": 41,
+      "season_rank": 36,
       "games_played": 5,
       "total_points": 250,
       "avg_points": 50,
@@ -640,7 +640,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500449,
@@ -675,7 +675,7 @@
         "2": 43,
         "1": 9
       },
-      "season_rank": 19,
+      "season_rank": 15,
       "games_played": 6,
       "total_points": 332,
       "avg_points": 55.3,
@@ -771,7 +771,7 @@
         "2": 40,
         "1": 14
       },
-      "season_rank": 27,
+      "season_rank": 21,
       "games_played": 7,
       "total_points": 375,
       "avg_points": 53.6,
@@ -864,7 +864,7 @@
         "2": 34,
         "1": 30
       },
-      "season_rank": 59,
+      "season_rank": 55,
       "games_played": 6,
       "total_points": 276,
       "avg_points": 46,
@@ -958,7 +958,7 @@
         "2": 25,
         "1": 29
       },
-      "season_rank": 44,
+      "season_rank": 39,
       "games_played": 6,
       "total_points": 295,
       "avg_points": 49.2,
@@ -1054,7 +1054,7 @@
         "2": 21,
         "1": 48
       },
-      "season_rank": 56,
+      "season_rank": 52,
       "games_played": 7,
       "total_points": 326,
       "avg_points": 46.6,
@@ -1134,7 +1134,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -1228,7 +1228,7 @@
         "2": 24,
         "1": 19
       },
-      "season_rank": 10,
+      "season_rank": 8,
       "games_played": 7,
       "total_points": 417,
       "avg_points": 59.6,
@@ -1318,7 +1318,7 @@
         "2": 47,
         "1": 28
       },
-      "season_rank": 35,
+      "season_rank": 30,
       "games_played": 4,
       "total_points": 203,
       "avg_points": 50.8,
@@ -1411,7 +1411,7 @@
         "2": 23,
         "1": 33
       },
-      "season_rank": 19,
+      "season_rank": 15,
       "games_played": 6,
       "total_points": 332,
       "avg_points": 55.3,
@@ -1502,7 +1502,7 @@
         "3": 4,
         "2": 33
       },
-      "season_rank": 5,
+      "season_rank": 4,
       "games_played": 5,
       "total_points": 313,
       "avg_points": 62.6,
@@ -1561,7 +1561,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 502756,
@@ -1582,7 +1582,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -1671,7 +1671,7 @@
         "2": 3,
         "1": 15
       },
-      "season_rank": 65,
+      "season_rank": 61,
       "games_played": 5,
       "total_points": 225,
       "avg_points": 45,
@@ -1762,7 +1762,7 @@
         "3": 35,
         "1": 36
       },
-      "season_rank": 59,
+      "season_rank": 55,
       "games_played": 5,
       "total_points": 230,
       "avg_points": 46,
@@ -1840,25 +1840,27 @@
         "7": 767000
       },
       "scores": {
+        "7": 6,
         "6": 67,
         "5": 86,
         "4": 61,
         "1": 41
       },
       "ranks": {
+        "7": 65,
         "6": 10,
         "5": 1,
         "4": 13,
         "1": 35
       },
-      "season_rank": 4,
-      "games_played": 4,
-      "total_points": 255,
-      "avg_points": 63.8,
+      "season_rank": 26,
+      "games_played": 5,
+      "total_points": 261,
+      "avg_points": 52.2,
       "high_score": 86,
-      "low_score": 41,
-      "last_3_avg": 71.3,
-      "last_5_avg": 63.8,
+      "low_score": 6,
+      "last_3_avg": 53,
+      "last_5_avg": 52.2,
       "selections": 11298,
       "selections_info": {
         "c": 0.44,
@@ -1879,9 +1881,9 @@
         "6": 55.3613,
         "7": 58.177
       },
-      "rd_tog": "",
-      "tog": 53,
-      "career_avg": 44.3122,
+      "rd_tog": 11,
+      "tog": 45,
+      "career_avg": 44.1262,
       "career_avg_vs": {
         "500014": 39.7143,
         "500002": 37.4,
@@ -1897,7 +1899,7 @@
         "500021": 36.3571,
         "500010": 50.5385,
         "500003": 46.8462,
-        "500004": 46.6923,
+        "500004": 43.7857,
         "500023": 54.2308,
         "500723": 68
       },
@@ -1910,7 +1912,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504074,
@@ -1930,6 +1932,7 @@
         "7": 773000
       },
       "scores": {
+        "7": 8,
         "6": 69,
         "5": 76,
         "4": 45,
@@ -1938,6 +1941,7 @@
         "1": 66
       },
       "ranks": {
+        "7": 65,
         "6": 9,
         "5": 6,
         "4": 28,
@@ -1945,14 +1949,14 @@
         "2": 29,
         "1": 11
       },
-      "season_rank": 6,
-      "games_played": 6,
-      "total_points": 370,
-      "avg_points": 61.7,
+      "season_rank": 20,
+      "games_played": 7,
+      "total_points": 376,
+      "avg_points": 53.7,
       "high_score": 76,
-      "low_score": 45,
-      "last_3_avg": 63.3,
-      "last_5_avg": 60.8,
+      "low_score": 6,
+      "last_3_avg": 50.3,
+      "last_5_avg": 52,
       "selections": 9193,
       "selections_info": {
         "c": 0.23,
@@ -1973,9 +1977,9 @@
         "6": 56.8237,
         "7": 58.6511
       },
-      "rd_tog": "",
-      "tog": 78,
-      "career_avg": 51.5098,
+      "rd_tog": 11,
+      "tog": 69,
+      "career_avg": 50.6346,
       "career_avg_vs": {
         "500012": 46.25,
         "500723": 37,
@@ -1990,7 +1994,7 @@
         "500023": 44.25,
         "500032": 54.6,
         "500001": 54.3333,
-        "500004": 69.5,
+        "500004": 48.3333,
         "500021": 36.5,
         "500005": 83
       },
@@ -2003,7 +2007,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500024,
@@ -2040,7 +2044,7 @@
         "2": 36,
         "1": 2
       },
-      "season_rank": 40,
+      "season_rank": 35,
       "games_played": 7,
       "total_points": 351,
       "avg_points": 50.1,
@@ -2133,7 +2137,7 @@
         "2": 38,
         "1": 27
       },
-      "season_rank": 60,
+      "season_rank": 56,
       "games_played": 6,
       "total_points": 274,
       "avg_points": 45.7,
@@ -2222,7 +2226,7 @@
         "2": 56,
         "1": 28
       },
-      "season_rank": 77,
+      "season_rank": 73,
       "games_played": 3,
       "total_points": 125,
       "avg_points": 41.7,
@@ -2315,7 +2319,7 @@
         "2": 57,
         "1": 21
       },
-      "season_rank": 90,
+      "season_rank": 85,
       "games_played": 6,
       "total_points": 233,
       "avg_points": 38.8,
@@ -2392,6 +2396,7 @@
         "7": 704000
       },
       "scores": {
+        "7": 8,
         "6": 53,
         "5": 65,
         "4": 55,
@@ -2400,6 +2405,7 @@
         "1": 55
       },
       "ranks": {
+        "7": 63,
         "6": 21,
         "5": 13,
         "4": 18,
@@ -2407,14 +2413,14 @@
         "2": 24,
         "1": 21
       },
-      "season_rank": 26,
-      "games_played": 6,
-      "total_points": 324,
-      "avg_points": 54,
+      "season_rank": 48,
+      "games_played": 7,
+      "total_points": 332,
+      "avg_points": 47.4,
       "high_score": 65,
-      "low_score": 41,
-      "last_3_avg": 57.7,
-      "last_5_avg": 53.8,
+      "low_score": 8,
+      "last_3_avg": 42,
+      "last_5_avg": 44.4,
       "selections": 20534,
       "selections_info": {
         "c": 0.24,
@@ -2435,9 +2441,9 @@
         "6": 52.8506,
         "7": 53.4213
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 50.1458,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 49.7113,
       "career_avg_vs": {
         "500023": 51.7143,
         "500001": 50.2,
@@ -2454,7 +2460,7 @@
         "500002": 45.7143,
         "500003": 50.7143,
         "500031": 40.8,
-        "500004": 58.6667,
+        "500004": 46,
         "500723": 50.5
       },
       "last_3_proj_avg": 0
@@ -2466,7 +2472,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501505,
@@ -2495,7 +2501,7 @@
         "2": 56,
         "1": 20
       },
-      "season_rank": 150,
+      "season_rank": 143,
       "games_played": 3,
       "total_points": 87,
       "avg_points": 29,
@@ -2580,7 +2586,7 @@
         "7": 58,
         "6": 29
       },
-      "season_rank": 150,
+      "season_rank": 143,
       "games_played": 2,
       "total_points": 58,
       "avg_points": 29,
@@ -2673,7 +2679,7 @@
         "2": 31,
         "1": 19
       },
-      "season_rank": 20,
+      "season_rank": 16,
       "games_played": 6,
       "total_points": 331,
       "avg_points": 55.2,
@@ -2767,7 +2773,7 @@
         "3": 28,
         "1": 13
       },
-      "season_rank": 41,
+      "season_rank": 36,
       "games_played": 6,
       "total_points": 300,
       "avg_points": 50,
@@ -2860,7 +2866,7 @@
         "2": 26,
         "1": 34
       },
-      "season_rank": 11,
+      "season_rank": 9,
       "games_played": 6,
       "total_points": 357,
       "avg_points": 59.5,
@@ -2955,7 +2961,7 @@
         "2": 43,
         "1": 15
       },
-      "season_rank": 55,
+      "season_rank": 51,
       "games_played": 7,
       "total_points": 327,
       "avg_points": 46.7,
@@ -3047,7 +3053,7 @@
         "2": 27,
         "1": 37
       },
-      "season_rank": 84,
+      "season_rank": 80,
       "games_played": 5,
       "total_points": 200,
       "avg_points": 40,
@@ -3143,7 +3149,7 @@
         "2": 51,
         "1": 14
       },
-      "season_rank": 59,
+      "season_rank": 55,
       "games_played": 7,
       "total_points": 322,
       "avg_points": 46,
@@ -3237,7 +3243,7 @@
         "2": 31,
         "1": 19
       },
-      "season_rank": 54,
+      "season_rank": 50,
       "games_played": 6,
       "total_points": 281,
       "avg_points": 46.8,
@@ -3330,7 +3336,7 @@
         "2": 15,
         "1": 26
       },
-      "season_rank": 51,
+      "season_rank": 47,
       "games_played": 6,
       "total_points": 285,
       "avg_points": 47.5,
@@ -3424,7 +3430,7 @@
         "2": 58,
         "1": 28
       },
-      "season_rank": 141,
+      "season_rank": 134,
       "games_played": 7,
       "total_points": 213,
       "avg_points": 30.4,
@@ -3504,7 +3510,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -3574,7 +3580,7 @@
         "2": 13,
         "1": 19
       },
-      "season_rank": 8,
+      "season_rank": 6,
       "games_played": 2,
       "total_points": 123,
       "avg_points": 61.5,
@@ -3668,7 +3674,7 @@
         "2": 52,
         "1": 8
       },
-      "season_rank": 63,
+      "season_rank": 59,
       "games_played": 7,
       "total_points": 318,
       "avg_points": 45.4,
@@ -3856,7 +3862,7 @@
         "2": 74,
         "1": 29
       },
-      "season_rank": 142,
+      "season_rank": 135,
       "games_played": 7,
       "total_points": 212,
       "avg_points": 30.3,
@@ -3947,7 +3953,7 @@
         "2": 20,
         "1": 46
       },
-      "season_rank": 48,
+      "season_rank": 44,
       "games_played": 5,
       "total_points": 240,
       "avg_points": 48,
@@ -4040,7 +4046,7 @@
         "2": 51,
         "1": 38
       },
-      "season_rank": 69,
+      "season_rank": 65,
       "games_played": 5,
       "total_points": 216,
       "avg_points": 43.2,
@@ -4118,6 +4124,7 @@
         "7": 640000
       },
       "scores": {
+        "7": 15,
         "6": 30,
         "5": 20,
         "4": 50,
@@ -4125,20 +4132,21 @@
         "2": 69
       },
       "ranks": {
+        "7": 56,
         "6": 44,
         "5": 56,
         "4": 23,
         "3": 15,
         "2": 10
       },
-      "season_rank": 59,
-      "games_played": 5,
-      "total_points": 230,
-      "avg_points": 46,
+      "season_rank": 77,
+      "games_played": 6,
+      "total_points": 245,
+      "avg_points": 40.8,
       "high_score": 69,
-      "low_score": 20,
-      "last_3_avg": 33.3,
-      "last_5_avg": 46,
+      "low_score": 15,
+      "last_3_avg": 21.7,
+      "last_5_avg": 35.2,
       "selections": 13811,
       "selections_info": {
         "c": 0.01,
@@ -4159,15 +4167,15 @@
         "6": 51.9797,
         "7": 48.5014
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 49.1111,
+      "rd_tog": 11,
+      "tog": 69,
+      "career_avg": 47.8929,
       "career_avg_vs": {
         "500022": 29,
         "500010": 52.5,
         "500723": 33.6667,
         "500012": 55.5,
-        "500013": 63,
+        "500013": 39,
         "500002": 56,
         "500032": 49.5,
         "500021": 34,
@@ -4190,7 +4198,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 508480,
@@ -4211,7 +4219,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -4299,7 +4307,7 @@
         "2": 1,
         "1": 12
       },
-      "season_rank": 17,
+      "season_rank": 13,
       "games_played": 6,
       "total_points": 336,
       "avg_points": 56,
@@ -4391,7 +4399,7 @@
         "2": 20,
         "1": 55
       },
-      "season_rank": 90,
+      "season_rank": 85,
       "games_played": 6,
       "total_points": 233,
       "avg_points": 38.8,
@@ -4484,7 +4492,7 @@
         "2": 8,
         "1": 40
       },
-      "season_rank": 39,
+      "season_rank": 34,
       "games_played": 6,
       "total_points": 301,
       "avg_points": 50.2,
@@ -4577,7 +4585,7 @@
         "2": 23,
         "1": 25
       },
-      "season_rank": 12,
+      "season_rank": 10,
       "games_played": 6,
       "total_points": 354,
       "avg_points": 59,
@@ -4670,7 +4678,7 @@
         "2": 40,
         "1": 42
       },
-      "season_rank": 57,
+      "season_rank": 53,
       "games_played": 6,
       "total_points": 279,
       "avg_points": 46.5,
@@ -4763,7 +4771,7 @@
         "2": 30,
         "1": 38
       },
-      "season_rank": 51,
+      "season_rank": 47,
       "games_played": 6,
       "total_points": 285,
       "avg_points": 47.5,
@@ -4842,7 +4850,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -4936,7 +4944,7 @@
         "2": 42,
         "1": 11
       },
-      "season_rank": 48,
+      "season_rank": 44,
       "games_played": 6,
       "total_points": 288,
       "avg_points": 48,
@@ -5030,7 +5038,7 @@
         "2": 44,
         "1": 44
       },
-      "season_rank": 76,
+      "season_rank": 72,
       "games_played": 6,
       "total_points": 251,
       "avg_points": 41.8,
@@ -5109,7 +5117,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -5186,7 +5194,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -5272,7 +5280,7 @@
         "7": 14,
         "5": 32
       },
-      "season_rank": 34,
+      "season_rank": 29,
       "games_played": 2,
       "total_points": 103,
       "avg_points": 51.5,
@@ -5366,7 +5374,7 @@
         "2": 18,
         "1": 34
       },
-      "season_rank": 44,
+      "season_rank": 39,
       "games_played": 6,
       "total_points": 295,
       "avg_points": 49.2,
@@ -5450,12 +5458,12 @@
         "4": 47
       },
       "ranks": {
-        "7": 63,
+        "7": 65,
         "6": 18,
         "5": 18,
         "4": 26
       },
-      "season_rank": 76,
+      "season_rank": 72,
       "games_played": 4,
       "total_points": 167,
       "avg_points": 41.8,
@@ -5541,7 +5549,7 @@
         "3": 28,
         "2": 46
       },
-      "season_rank": 84,
+      "season_rank": 80,
       "games_played": 2,
       "total_points": 80,
       "avg_points": 40,
@@ -5597,7 +5605,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 505410,
@@ -5626,7 +5634,7 @@
         "3": 13,
         "2": 58
       },
-      "season_rank": 65,
+      "season_rank": 61,
       "games_played": 3,
       "total_points": 135,
       "avg_points": 45,
@@ -5720,7 +5728,7 @@
         "2": 44,
         "1": 48
       },
-      "season_rank": 123,
+      "season_rank": 116,
       "games_played": 7,
       "total_points": 231,
       "avg_points": 33,
@@ -5816,7 +5824,7 @@
         "2": 27,
         "1": 12
       },
-      "season_rank": 36,
+      "season_rank": 31,
       "games_played": 7,
       "total_points": 355,
       "avg_points": 50.7,
@@ -5910,7 +5918,7 @@
         "3": 53,
         "1": 30
       },
-      "season_rank": 88,
+      "season_rank": 83,
       "games_played": 6,
       "total_points": 236,
       "avg_points": 39.3,
@@ -5999,7 +6007,7 @@
         "2": 5,
         "1": 35
       },
-      "season_rank": 17,
+      "season_rank": 13,
       "games_played": 4,
       "total_points": 224,
       "avg_points": 56,
@@ -6085,7 +6093,7 @@
         "3": 25,
         "2": 24
       },
-      "season_rank": 16,
+      "season_rank": 12,
       "games_played": 3,
       "total_points": 170,
       "avg_points": 56.7,
@@ -6165,7 +6173,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -6258,7 +6266,7 @@
         "2": 7,
         "1": 4
       },
-      "season_rank": 20,
+      "season_rank": 16,
       "games_played": 5,
       "total_points": 276,
       "avg_points": 55.2,
@@ -6343,7 +6351,7 @@
         "2": 53,
         "1": 12
       },
-      "season_rank": 77,
+      "season_rank": 73,
       "games_played": 7,
       "total_points": 292,
       "avg_points": 41.7,
@@ -6438,7 +6446,7 @@
         "2": 41,
         "1": 31
       },
-      "season_rank": 62,
+      "season_rank": 58,
       "games_played": 6,
       "total_points": 273,
       "avg_points": 45.5,
@@ -6523,7 +6531,7 @@
         "2": 71,
         "1": 22
       },
-      "season_rank": 136,
+      "season_rank": 130,
       "games_played": 2,
       "total_points": 62,
       "avg_points": 31,
@@ -6597,6 +6605,7 @@
         "7": 505000
       },
       "scores": {
+        "7": 0,
         "6": 48,
         "5": 37,
         "3": 8,
@@ -6604,20 +6613,21 @@
         "1": 54
       },
       "ranks": {
+        "7": 71,
         "6": 26,
         "5": 39,
         "3": 64,
         "2": 45,
         "1": 22
       },
-      "season_rank": 106,
-      "games_played": 5,
+      "season_rank": 136,
+      "games_played": 6,
       "total_points": 181,
-      "avg_points": 36.2,
+      "avg_points": 30.2,
       "high_score": 54,
-      "low_score": 8,
-      "last_3_avg": 31,
-      "last_5_avg": 36.2,
+      "low_score": 0,
+      "last_3_avg": 28.3,
+      "last_5_avg": 25.4,
       "selections": 1127,
       "selections_info": {
         "c": 0,
@@ -6638,16 +6648,16 @@
         "6": 39.2199,
         "7": 38.3149
       },
-      "rd_tog": "",
-      "tog": 42,
-      "career_avg": 43.5172,
+      "rd_tog": 0,
+      "tog": 35,
+      "career_avg": 42.0667,
       "career_avg_vs": {
         "500003": 45.5,
         "500023": 43.5,
         "500032": 43.6667,
         "500028": 36.6667,
         "500031": 54,
-        "500004": 61,
+        "500004": 30.5,
         "500011": 33.5,
         "500002": 36,
         "500010": 49.5,
@@ -6668,7 +6678,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 502580,
@@ -6701,7 +6711,7 @@
         "2": 22,
         "1": 25
       },
-      "season_rank": 71,
+      "season_rank": 67,
       "games_played": 5,
       "total_points": 214,
       "avg_points": 42.8,
@@ -6792,7 +6802,7 @@
         "3": 26,
         "2": 29
       },
-      "season_rank": 37,
+      "season_rank": 32,
       "games_played": 5,
       "total_points": 253,
       "avg_points": 50.6,
@@ -6887,7 +6897,7 @@
         "3": 39,
         "1": 45
       },
-      "season_rank": 70,
+      "season_rank": 66,
       "games_played": 6,
       "total_points": 258,
       "avg_points": 43,
@@ -6978,7 +6988,7 @@
         "3": 28,
         "1": 69
       },
-      "season_rank": 116,
+      "season_rank": 109,
       "games_played": 5,
       "total_points": 170,
       "avg_points": 34,
@@ -7074,7 +7084,7 @@
         "2": 38,
         "1": 10
       },
-      "season_rank": 21,
+      "season_rank": 17,
       "games_played": 7,
       "total_points": 385,
       "avg_points": 55,
@@ -7165,7 +7175,7 @@
         "2": 22,
         "1": 31
       },
-      "season_rank": 58,
+      "season_rank": 54,
       "games_played": 5,
       "total_points": 231,
       "avg_points": 46.2,
@@ -7258,7 +7268,7 @@
         "3": 43,
         "1": 38
       },
-      "season_rank": 60,
+      "season_rank": 56,
       "games_played": 6,
       "total_points": 274,
       "avg_points": 45.7,
@@ -7346,7 +7356,7 @@
         "1": 46
       },
       "ranks": {
-        "7": 62,
+        "7": 63,
         "6": 40,
         "5": 39,
         "4": 35,
@@ -7354,7 +7364,7 @@
         "2": 45,
         "1": 30
       },
-      "season_rank": 128,
+      "season_rank": 122,
       "games_played": 7,
       "total_points": 226,
       "avg_points": 32.3,
@@ -7445,7 +7455,7 @@
         "2": 40,
         "1": 19
       },
-      "season_rank": 61,
+      "season_rank": 57,
       "games_played": 5,
       "total_points": 228,
       "avg_points": 45.6,
@@ -7533,7 +7543,7 @@
         "2": 35,
         "1": 24
       },
-      "season_rank": 43,
+      "season_rank": 38,
       "games_played": 3,
       "total_points": 148,
       "avg_points": 49.3,
@@ -7624,7 +7634,7 @@
         "2": 48,
         "1": 56
       },
-      "season_rank": 127,
+      "season_rank": 121,
       "games_played": 5,
       "total_points": 162,
       "avg_points": 32.4,
@@ -7716,7 +7726,7 @@
         "3": 7,
         "2": 53
       },
-      "season_rank": 87,
+      "season_rank": 82,
       "games_played": 5,
       "total_points": 197,
       "avg_points": 39.4,
@@ -7796,7 +7806,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -7890,7 +7900,7 @@
         "2": 41,
         "1": 23
       },
-      "season_rank": 42,
+      "season_rank": 37,
       "games_played": 6,
       "total_points": 298,
       "avg_points": 49.7,
@@ -7981,7 +7991,7 @@
         "2": 54,
         "1": 44
       },
-      "season_rank": 100,
+      "season_rank": 93,
       "games_played": 5,
       "total_points": 188,
       "avg_points": 37.6,
@@ -8076,7 +8086,7 @@
         "3": 42,
         "1": 23
       },
-      "season_rank": 72,
+      "season_rank": 68,
       "games_played": 6,
       "total_points": 256,
       "avg_points": 42.7,
@@ -8154,23 +8164,25 @@
         "7": 517000
       },
       "scores": {
+        "7": 0,
         "6": 26,
         "5": 36,
         "2": 29
       },
       "ranks": {
+        "7": 71,
         "6": 48,
         "5": 40,
         "2": 50
       },
-      "season_rank": 142,
-      "games_played": 3,
+      "season_rank": 174,
+      "games_played": 4,
       "total_points": 91,
-      "avg_points": 30.3,
+      "avg_points": 22.8,
       "high_score": 36,
-      "low_score": 26,
-      "last_3_avg": 30.3,
-      "last_5_avg": 30.3,
+      "low_score": 0,
+      "last_3_avg": 20.7,
+      "last_5_avg": 22.8,
       "selections": 167,
       "selections_info": {
         "c": 0,
@@ -8191,13 +8203,13 @@
         "6": 41.5236,
         "7": 39.2355
       },
-      "rd_tog": "",
-      "tog": 37,
-      "career_avg": 41,
+      "rd_tog": 0,
+      "tog": 28,
+      "career_avg": 39.5862,
       "career_avg_vs": {
         "500023": 34.5,
         "500011": 23.5,
-        "500013": 52,
+        "500013": 34.6667,
         "500723": 49.3333,
         "500028": 44,
         "500014": 48,
@@ -8219,7 +8231,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504121,
@@ -8252,7 +8264,7 @@
         "2": 48,
         "1": 33
       },
-      "season_rank": 139,
+      "season_rank": 132,
       "games_played": 5,
       "total_points": 153,
       "avg_points": 30.6,
@@ -8347,7 +8359,7 @@
         "2": 43,
         "1": 21
       },
-      "season_rank": 50,
+      "season_rank": 46,
       "games_played": 7,
       "total_points": 334,
       "avg_points": 47.7,
@@ -8440,7 +8452,7 @@
         "3": 40,
         "1": 34
       },
-      "season_rank": 66,
+      "season_rank": 62,
       "games_played": 6,
       "total_points": 267,
       "avg_points": 44.5,
@@ -8534,7 +8546,7 @@
         "2": 39,
         "1": 17
       },
-      "season_rank": 83,
+      "season_rank": 79,
       "games_played": 6,
       "total_points": 241,
       "avg_points": 40.2,
@@ -8619,12 +8631,12 @@
         "4": 32
       },
       "ranks": {
-        "7": 64,
+        "7": 69,
         "6": 51,
         "5": 60,
         "4": 41
       },
-      "season_rank": 197,
+      "season_rank": 194,
       "games_played": 4,
       "total_points": 73,
       "avg_points": 18.3,
@@ -8714,7 +8726,7 @@
         "2": 43,
         "1": 21
       },
-      "season_rank": 36,
+      "season_rank": 31,
       "games_played": 7,
       "total_points": 355,
       "avg_points": 50.7,
@@ -8808,7 +8820,7 @@
         "2": 27,
         "1": 15
       },
-      "season_rank": 45,
+      "season_rank": 40,
       "games_played": 6,
       "total_points": 294,
       "avg_points": 49,
@@ -8886,21 +8898,23 @@
         "7": 622000
       },
       "scores": {
+        "7": 0,
         "2": 53,
         "1": 62
       },
       "ranks": {
+        "7": 71,
         "2": 26,
         "1": 15
       },
-      "season_rank": 14,
-      "games_played": 2,
+      "season_rank": 88,
+      "games_played": 3,
       "total_points": 115,
-      "avg_points": 57.5,
+      "avg_points": 38.3,
       "high_score": 62,
-      "low_score": 53,
-      "last_3_avg": 57.5,
-      "last_5_avg": 57.5,
+      "low_score": 0,
+      "last_3_avg": 38.3,
+      "last_5_avg": 38.3,
       "selections": 3357,
       "selections_info": {
         "c": 0,
@@ -8921,9 +8935,9 @@
         "6": 47.0583,
         "7": 47.1519
       },
-      "rd_tog": "",
-      "tog": 69,
-      "career_avg": 43.8,
+      "rd_tog": 0,
+      "tog": 46,
+      "career_avg": 42.3871,
       "career_avg_vs": {
         "500031": 61.5,
         "500013": 59,
@@ -8939,7 +8953,7 @@
         "500021": 40.5,
         "500723": 42,
         "500028": 17.5,
-        "500004": 23,
+        "500004": 15.3333,
         "500010": 14
       },
       "last_3_proj_avg": 0
@@ -8951,7 +8965,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 506682,
@@ -8984,7 +8998,7 @@
         "2": 4,
         "1": 39
       },
-      "season_rank": 35,
+      "season_rank": 30,
       "games_played": 5,
       "total_points": 254,
       "avg_points": 50.8,
@@ -9077,7 +9091,7 @@
         "2": 46,
         "1": 53
       },
-      "season_rank": 110,
+      "season_rank": 103,
       "games_played": 6,
       "total_points": 210,
       "avg_points": 35,
@@ -9168,7 +9182,7 @@
         "3": 61,
         "1": 58
       },
-      "season_rank": 160,
+      "season_rank": 152,
       "games_played": 5,
       "total_points": 135,
       "avg_points": 27,
@@ -9262,7 +9276,7 @@
         "2": 43,
         "1": 41
       },
-      "season_rank": 125,
+      "season_rank": 119,
       "games_played": 7,
       "total_points": 229,
       "avg_points": 32.7,
@@ -9355,7 +9369,7 @@
         "2": 68,
         "1": 71
       },
-      "season_rank": 202,
+      "season_rank": 199,
       "games_played": 6,
       "total_points": 101,
       "avg_points": 16.8,
@@ -9430,6 +9444,7 @@
         "7": 505000
       },
       "scores": {
+        "7": 5,
         "6": 40,
         "5": 47,
         "4": 45,
@@ -9437,20 +9452,21 @@
         "2": 21
       },
       "ranks": {
+        "7": 66,
         "6": 34,
         "5": 29,
         "4": 28,
         "3": 47,
         "2": 58
       },
-      "season_rank": 107,
-      "games_played": 5,
-      "total_points": 180,
-      "avg_points": 36,
+      "season_rank": 131,
+      "games_played": 6,
+      "total_points": 185,
+      "avg_points": 30.8,
       "high_score": 47,
-      "low_score": 21,
-      "last_3_avg": 44,
-      "last_5_avg": 36,
+      "low_score": 5,
+      "last_3_avg": 30.7,
+      "last_5_avg": 32.8,
       "selections": 902,
       "selections_info": {
         "c": 0,
@@ -9471,9 +9487,9 @@
         "6": 37.7724,
         "7": 38.296
       },
-      "rd_tog": "",
-      "tog": 54,
-      "career_avg": 42.4,
+      "rd_tog": 11,
+      "tog": 47,
+      "career_avg": 41.6667,
       "career_avg_vs": {
         "500022": 37.2,
         "500021": 43.6667,
@@ -9485,7 +9501,7 @@
         "500003": 29.5,
         "500010": 35.6667,
         "500005": 47.5,
-        "500013": 41.5,
+        "500013": 29.3333,
         "500001": 47.6667,
         "500032": 60,
         "500028": 43.3333,
@@ -9502,7 +9518,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501293,
@@ -9525,9 +9541,9 @@
         "7": 2
       },
       "ranks": {
-        "7": 64
+        "7": 69
       },
-      "season_rank": 219,
+      "season_rank": 215,
       "games_played": 1,
       "total_points": 2,
       "avg_points": 2,
@@ -9607,7 +9623,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -9699,7 +9715,7 @@
         "2": 62,
         "1": 48
       },
-      "season_rank": 140,
+      "season_rank": 133,
       "games_played": 6,
       "total_points": 183,
       "avg_points": 30.5,
@@ -9781,7 +9797,7 @@
         "2": 44,
         "1": 39
       },
-      "season_rank": 80,
+      "season_rank": 76,
       "games_played": 5,
       "total_points": 206,
       "avg_points": 41.2,
@@ -9864,7 +9880,7 @@
         "2": 12,
         "1": 50
       },
-      "season_rank": 62,
+      "season_rank": 58,
       "games_played": 6,
       "total_points": 273,
       "avg_points": 45.5,
@@ -9943,6 +9959,7 @@
         "7": 415000
       },
       "scores": {
+        "7": 4,
         "6": 43,
         "5": 30,
         "4": 30,
@@ -9951,6 +9968,7 @@
         "1": 25
       },
       "ranks": {
+        "7": 67,
         "6": 31,
         "5": 46,
         "4": 43,
@@ -9958,14 +9976,14 @@
         "2": 66,
         "1": 51
       },
-      "season_rank": 151,
-      "games_played": 6,
-      "total_points": 172,
-      "avg_points": 28.7,
+      "season_rank": 161,
+      "games_played": 7,
+      "total_points": 176,
+      "avg_points": 25.1,
       "high_score": 43,
-      "low_score": 13,
-      "last_3_avg": 34.3,
-      "last_5_avg": 29.4,
+      "low_score": 4,
+      "last_3_avg": 25.7,
+      "last_5_avg": 27.6,
       "selections": 10814,
       "selections_info": {
         "c": 0.01,
@@ -9986,9 +10004,9 @@
         "6": 30.887,
         "7": 31.4986
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 33.1563,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 32.2727,
       "career_avg_vs": {
         "500010": 37.6667,
         "500031": 22.3333,
@@ -9996,7 +10014,7 @@
         "500003": 32,
         "500014": 33,
         "500021": 29,
-        "500004": 23,
+        "500004": 13.5,
         "500028": 36,
         "500002": 45,
         "500001": 33,
@@ -10017,7 +10035,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500083,
@@ -10050,7 +10068,7 @@
         "2": 62,
         "1": 43
       },
-      "season_rank": 147,
+      "season_rank": 140,
       "games_played": 5,
       "total_points": 147,
       "avg_points": 29.4,
@@ -10134,7 +10152,7 @@
       "ranks": {
         "6": 54
       },
-      "season_rank": 189,
+      "season_rank": 186,
       "games_played": 1,
       "total_points": 20,
       "avg_points": 20,
@@ -10215,7 +10233,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -10293,7 +10311,7 @@
         "2": 46,
         "1": 38
       },
-      "season_rank": 151,
+      "season_rank": 144,
       "games_played": 6,
       "total_points": 172,
       "avg_points": 28.7,
@@ -10387,7 +10405,7 @@
         "2": 26,
         "1": 60
       },
-      "season_rank": 82,
+      "season_rank": 78,
       "games_played": 6,
       "total_points": 244,
       "avg_points": 40.7,
@@ -10476,7 +10494,7 @@
         "2": 44,
         "1": 21
       },
-      "season_rank": 38,
+      "season_rank": 33,
       "games_played": 4,
       "total_points": 201,
       "avg_points": 50.3,
@@ -10569,7 +10587,7 @@
         "2": 6,
         "1": 19
       },
-      "season_rank": 18,
+      "season_rank": 14,
       "games_played": 6,
       "total_points": 334,
       "avg_points": 55.7,
@@ -10664,7 +10682,7 @@
         "2": 6,
         "1": 27
       },
-      "season_rank": 22,
+      "season_rank": 18,
       "games_played": 7,
       "total_points": 382,
       "avg_points": 54.6,
@@ -10749,7 +10767,7 @@
         "3": 52,
         "1": 6
       },
-      "season_rank": 57,
+      "season_rank": 53,
       "games_played": 2,
       "total_points": 93,
       "avg_points": 46.5,
@@ -10837,7 +10855,7 @@
         "1": 44
       },
       "ranks": {
-        "7": 62,
+        "7": 63,
         "6": 40,
         "5": 32,
         "4": 47,
@@ -10845,7 +10863,7 @@
         "2": 42,
         "1": 32
       },
-      "season_rank": 141,
+      "season_rank": 134,
       "games_played": 7,
       "total_points": 213,
       "avg_points": 30.4,
@@ -10937,7 +10955,7 @@
         "2": 11,
         "1": 22
       },
-      "season_rank": 28,
+      "season_rank": 22,
       "games_played": 5,
       "total_points": 267,
       "avg_points": 53.4,
@@ -11028,7 +11046,7 @@
         "2": 70,
         "1": 27
       },
-      "season_rank": 163,
+      "season_rank": 155,
       "games_played": 7,
       "total_points": 185,
       "avg_points": 26.4,
@@ -11115,14 +11133,14 @@
         "1": 22
       },
       "ranks": {
-        "7": 62,
+        "7": 63,
         "6": 52,
         "4": 52,
         "3": 18,
         "2": 35,
         "1": 54
       },
-      "season_rank": 149,
+      "season_rank": 142,
       "games_played": 6,
       "total_points": 175,
       "avg_points": 29.2,
@@ -11212,7 +11230,7 @@
         "2": 47,
         "1": 30
       },
-      "season_rank": 85,
+      "season_rank": 81,
       "games_played": 7,
       "total_points": 278,
       "avg_points": 39.7,
@@ -11300,7 +11318,7 @@
         "5": 34,
         "1": 49
       },
-      "season_rank": 64,
+      "season_rank": 60,
       "games_played": 3,
       "total_points": 136,
       "avg_points": 45.3,
@@ -11389,7 +11407,7 @@
         "2": 40,
         "1": 37
       },
-      "season_rank": 165,
+      "season_rank": 159,
       "games_played": 4,
       "total_points": 101,
       "avg_points": 25.3,
@@ -11477,7 +11495,7 @@
         "2": 26,
         "1": 23
       },
-      "season_rank": 52,
+      "season_rank": 48,
       "games_played": 7,
       "total_points": 332,
       "avg_points": 47.4,
@@ -11569,7 +11587,7 @@
         "2": 12,
         "1": 60
       },
-      "season_rank": 113,
+      "season_rank": 106,
       "games_played": 7,
       "total_points": 241,
       "avg_points": 34.4,
@@ -11647,6 +11665,7 @@
         "7": 663000
       },
       "scores": {
+        "7": 14,
         "6": 56,
         "5": 53,
         "4": 48,
@@ -11655,6 +11674,7 @@
         "1": 57
       },
       "ranks": {
+        "7": 58,
         "6": 18,
         "5": 23,
         "4": 25,
@@ -11662,14 +11682,14 @@
         "2": 21,
         "1": 19
       },
-      "season_rank": 25,
-      "games_played": 6,
-      "total_points": 325,
-      "avg_points": 54.2,
+      "season_rank": 43,
+      "games_played": 7,
+      "total_points": 338,
+      "avg_points": 48.3,
       "high_score": 58,
-      "low_score": 48,
-      "last_3_avg": 52.3,
-      "last_5_avg": 53.6,
+      "low_score": 13,
+      "last_3_avg": 40.7,
+      "last_5_avg": 44.6,
       "selections": 50256,
       "selections_info": {
         "c": 0.09,
@@ -11690,9 +11710,9 @@
         "6": 49.2976,
         "7": 50.3065
       },
-      "rd_tog": "",
-      "tog": 54,
-      "career_avg": 52.9091,
+      "rd_tog": 11,
+      "tog": 47,
+      "career_avg": 51.7353,
       "career_avg_vs": {
         "500012": 41,
         "500723": 62.5,
@@ -11708,7 +11728,7 @@
         "500023": 53.5,
         "500032": 64,
         "500001": 71,
-        "500004": 68,
+        "500004": 40.5,
         "500021": 49
       },
       "last_3_proj_avg": 0
@@ -11720,7 +11740,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100007929,
@@ -11755,7 +11775,7 @@
         "3": 35,
         "2": 47
       },
-      "season_rank": 110,
+      "season_rank": 103,
       "games_played": 6,
       "total_points": 210,
       "avg_points": 35,
@@ -11833,6 +11853,7 @@
         "7": 513000
       },
       "scores": {
+        "7": 6,
         "6": 47,
         "5": 34,
         "4": 29,
@@ -11840,20 +11861,21 @@
         "2": 38
       },
       "ranks": {
+        "7": 65,
         "6": 27,
         "5": 42,
         "4": 44,
         "3": 31,
         "2": 41
       },
-      "season_rank": 93,
-      "games_played": 5,
-      "total_points": 192,
-      "avg_points": 38.4,
+      "season_rank": 116,
+      "games_played": 6,
+      "total_points": 198,
+      "avg_points": 33,
       "high_score": 47,
-      "low_score": 29,
-      "last_3_avg": 36.7,
-      "last_5_avg": 38.4,
+      "low_score": 6,
+      "last_3_avg": 29,
+      "last_5_avg": 32,
       "selections": 850,
       "selections_info": {
         "c": 0,
@@ -11874,9 +11896,9 @@
         "6": 38.8762,
         "7": 38.8905
       },
-      "rd_tog": "",
-      "tog": 49,
-      "career_avg": 43.6304,
+      "rd_tog": 11,
+      "tog": 43,
+      "career_avg": 42.8298,
       "career_avg_vs": {
         "500023": 58,
         "500022": 42,
@@ -11889,7 +11911,7 @@
         "500003": 41.75,
         "500010": 37.25,
         "500005": 51.5,
-        "500013": 47,
+        "500013": 33.3333,
         "500001": 40.6667,
         "500032": 18,
         "500014": 48.5,
@@ -11904,7 +11926,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100001736,
@@ -11937,7 +11959,7 @@
         "2": 30,
         "1": 15
       },
-      "season_rank": 48,
+      "season_rank": 44,
       "games_played": 5,
       "total_points": 240,
       "avg_points": 48,
@@ -12030,7 +12052,7 @@
         "3": 50,
         "1": 43
       },
-      "season_rank": 169,
+      "season_rank": 164,
       "games_played": 6,
       "total_points": 148,
       "avg_points": 24.7,
@@ -12119,7 +12141,7 @@
         "2": 63,
         "1": 43
       },
-      "season_rank": 182,
+      "season_rank": 179,
       "games_played": 4,
       "total_points": 86,
       "avg_points": 21.5,
@@ -12212,7 +12234,7 @@
         "2": 46,
         "1": 31
       },
-      "season_rank": 111,
+      "season_rank": 104,
       "games_played": 6,
       "total_points": 209,
       "avg_points": 34.8,
@@ -12303,7 +12325,7 @@
         "2": 36,
         "1": 29
       },
-      "season_rank": 80,
+      "season_rank": 76,
       "games_played": 5,
       "total_points": 206,
       "avg_points": 41.2,
@@ -12383,6 +12405,7 @@
         "7": 439000
       },
       "scores": {
+        "7": 9,
         "6": 26,
         "5": 38,
         "4": 36,
@@ -12390,20 +12413,21 @@
         "2": 13
       },
       "ranks": {
+        "7": 62,
         "6": 48,
         "5": 38,
         "4": 37,
         "3": 41,
         "2": 66
       },
-      "season_rank": 149,
-      "games_played": 5,
-      "total_points": 146,
-      "avg_points": 29.2,
+      "season_rank": 157,
+      "games_played": 6,
+      "total_points": 155,
+      "avg_points": 25.8,
       "high_score": 38,
-      "low_score": 13,
-      "last_3_avg": 33.3,
-      "last_5_avg": 29.2,
+      "low_score": 9,
+      "last_3_avg": 24.3,
+      "last_5_avg": 28.4,
       "selections": 1610,
       "selections_info": {
         "c": 0,
@@ -12424,9 +12448,9 @@
         "6": 33.978,
         "7": 33.3002
       },
-      "rd_tog": "",
-      "tog": 46,
-      "career_avg": 37.514,
+      "rd_tog": 11,
+      "tog": 40,
+      "career_avg": 37.3814,
       "career_avg_vs": {
         "500010": 38.2632,
         "500004": 39.4,
@@ -12440,7 +12464,7 @@
         "500021": 36.4615,
         "500023": 42.5625,
         "500005": 36.4615,
-        "500013": 35.8,
+        "500013": 34.125,
         "500032": 37.8,
         "500022": 36.8182,
         "500014": 43.3333,
@@ -12455,7 +12479,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 509559,
@@ -12490,7 +12514,7 @@
         "2": 21,
         "1": 54
       },
-      "season_rank": 134,
+      "season_rank": 128,
       "games_played": 6,
       "total_points": 189,
       "avg_points": 31.5,
@@ -12561,6 +12585,7 @@
         "7": 519000
       },
       "scores": {
+        "7": 4,
         "6": 44,
         "5": 43,
         "4": 43,
@@ -12568,20 +12593,21 @@
         "2": 37
       },
       "ranks": {
+        "7": 67,
         "6": 30,
         "5": 33,
         "4": 30,
         "3": 43,
         "2": 42
       },
-      "season_rank": 86,
-      "games_played": 5,
-      "total_points": 198,
-      "avg_points": 39.6,
+      "season_rank": 111,
+      "games_played": 6,
+      "total_points": 202,
+      "avg_points": 33.7,
       "high_score": 44,
-      "low_score": 31,
-      "last_3_avg": 43.3,
-      "last_5_avg": 39.6,
+      "low_score": 4,
+      "last_3_avg": 30.3,
+      "last_5_avg": 33,
       "selections": 1011,
       "selections_info": {
         "c": 0,
@@ -12602,9 +12628,9 @@
         "6": 38.7124,
         "7": 39.3676
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 38.4615,
+      "rd_tog": 11,
+      "tog": 69,
+      "career_avg": 37.6,
       "career_avg_vs": {
         "500023": 47.3333,
         "500022": 44.2,
@@ -12620,7 +12646,8 @@
         "500001": 33,
         "500032": 17.5,
         "500028": 29.5,
-        "500014": 26
+        "500014": 26,
+        "500013": 4
       },
       "last_3_proj_avg": 0
     },
@@ -12632,7 +12659,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504098,
@@ -12667,7 +12694,7 @@
         "3": 38,
         "1": 7
       },
-      "season_rank": 42,
+      "season_rank": 37,
       "games_played": 6,
       "total_points": 298,
       "avg_points": 49.7,
@@ -12758,7 +12785,7 @@
         "2": 40,
         "1": 49
       },
-      "season_rank": 104,
+      "season_rank": 96,
       "games_played": 6,
       "total_points": 220,
       "avg_points": 36.7,
@@ -12852,7 +12879,7 @@
         "2": 30,
         "1": 24
       },
-      "season_rank": 59,
+      "season_rank": 55,
       "games_played": 6,
       "total_points": 276,
       "avg_points": 46,
@@ -13036,7 +13063,7 @@
         "2": 43,
         "1": 43
       },
-      "season_rank": 76,
+      "season_rank": 72,
       "games_played": 6,
       "total_points": 251,
       "avg_points": 41.8,
@@ -13130,7 +13157,7 @@
         "3": 59,
         "1": 43
       },
-      "season_rank": 175,
+      "season_rank": 171,
       "games_played": 6,
       "total_points": 140,
       "avg_points": 23.3,
@@ -13221,7 +13248,7 @@
         "4": 4,
         "3": 21
       },
-      "season_rank": 29,
+      "season_rank": 23,
       "games_played": 4,
       "total_points": 213,
       "avg_points": 53.3,
@@ -13302,7 +13329,7 @@
         "2": 30,
         "1": 38
       },
-      "season_rank": 126,
+      "season_rank": 120,
       "games_played": 4,
       "total_points": 130,
       "avg_points": 32.5,
@@ -13386,7 +13413,7 @@
         "3": 33,
         "2": 58
       },
-      "season_rank": 127,
+      "season_rank": 121,
       "games_played": 5,
       "total_points": 162,
       "avg_points": 32.4,
@@ -13474,7 +13501,7 @@
         "5": 56,
         "4": 44
       },
-      "season_rank": 164,
+      "season_rank": 156,
       "games_played": 3,
       "total_points": 78,
       "avg_points": 26,
@@ -13565,7 +13592,7 @@
         "2": 14,
         "1": 49
       },
-      "season_rank": 97,
+      "season_rank": 90,
       "games_played": 6,
       "total_points": 228,
       "avg_points": 38,
@@ -13658,7 +13685,7 @@
         "2": 48,
         "1": 46
       },
-      "season_rank": 183,
+      "season_rank": 180,
       "games_played": 6,
       "total_points": 127,
       "avg_points": 21.2,
@@ -13736,6 +13763,7 @@
         "7": 471000
       },
       "scores": {
+        "7": 7,
         "6": 35,
         "5": 25,
         "4": 34,
@@ -13743,20 +13771,21 @@
         "2": 32
       },
       "ranks": {
+        "7": 64,
         "6": 39,
         "5": 51,
         "4": 39,
         "3": 31,
         "2": 47
       },
-      "season_rank": 116,
-      "games_played": 5,
-      "total_points": 170,
-      "avg_points": 34,
+      "season_rank": 139,
+      "games_played": 6,
+      "total_points": 177,
+      "avg_points": 29.5,
       "high_score": 44,
-      "low_score": 25,
-      "last_3_avg": 31.3,
-      "last_5_avg": 34,
+      "low_score": 7,
+      "last_3_avg": 22.3,
+      "last_5_avg": 29,
       "selections": 621,
       "selections_info": {
         "c": 0,
@@ -13777,9 +13806,9 @@
         "6": 36.5938,
         "7": 35.7287
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 34.5872,
+      "rd_tog": 11,
+      "tog": 69,
+      "career_avg": 34.4277,
       "career_avg_vs": {
         "500031": 39.3,
         "500005": 40.1111,
@@ -13788,7 +13817,7 @@
         "500001": 31.4,
         "500022": 26.4167,
         "500021": 32.4615,
-        "500013": 32,
+        "500013": 30.0769,
         "500011": 36.8182,
         "500004": 26.3333,
         "500003": 35.3571,
@@ -13808,7 +13837,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 506513,
@@ -13828,25 +13857,27 @@
         "7": 703000
       },
       "scores": {
+        "7": 10,
         "5": 61,
         "4": 42,
         "3": 39,
         "2": 75
       },
       "ranks": {
+        "7": 61,
         "5": 16,
         "4": 31,
         "3": 35,
         "2": 5
       },
-      "season_rank": 24,
-      "games_played": 4,
-      "total_points": 217,
-      "avg_points": 54.3,
+      "season_rank": 59,
+      "games_played": 5,
+      "total_points": 227,
+      "avg_points": 45.4,
       "high_score": 75,
-      "low_score": 39,
-      "last_3_avg": 47.3,
-      "last_5_avg": 54.3,
+      "low_score": 10,
+      "last_3_avg": 37.7,
+      "last_5_avg": 45.4,
       "selections": 10385,
       "selections_info": {
         "c": 0.22,
@@ -13867,9 +13898,9 @@
         "6": 53.1883,
         "7": 53.2941
       },
-      "rd_tog": "",
-      "tog": 59,
-      "career_avg": 55.64,
+      "rd_tog": 11,
+      "tog": 49,
+      "career_avg": 53.8846,
       "career_avg_vs": {
         "500023": 49,
         "500022": 57.3333,
@@ -13882,7 +13913,7 @@
         "500003": 46,
         "500010": 62,
         "500005": 72,
-        "500013": 71,
+        "500013": 40.5,
         "500028": 79,
         "500014": 55,
         "500001": 42
@@ -13896,7 +13927,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500408,
@@ -13925,7 +13956,7 @@
         "2": 22,
         "1": 21
       },
-      "season_rank": 31,
+      "season_rank": 25,
       "games_played": 3,
       "total_points": 159,
       "avg_points": 53,
@@ -14017,7 +14048,7 @@
         "2": 60,
         "1": 43
       },
-      "season_rank": 161,
+      "season_rank": 153,
       "games_played": 5,
       "total_points": 134,
       "avg_points": 26.8,
@@ -14111,7 +14142,7 @@
         "2": 53,
         "1": 34
       },
-      "season_rank": 114,
+      "season_rank": 107,
       "games_played": 6,
       "total_points": 206,
       "avg_points": 34.3,
@@ -14198,7 +14229,7 @@
         "2": 39,
         "1": 38
       },
-      "season_rank": 89,
+      "season_rank": 84,
       "games_played": 3,
       "total_points": 117,
       "avg_points": 39,
@@ -14293,7 +14324,7 @@
         "3": 33,
         "1": 28
       },
-      "season_rank": 89,
+      "season_rank": 84,
       "games_played": 6,
       "total_points": 234,
       "avg_points": 39,
@@ -14389,7 +14420,7 @@
         "2": 55,
         "1": 11
       },
-      "season_rank": 96,
+      "season_rank": 89,
       "games_played": 7,
       "total_points": 267,
       "avg_points": 38.1,
@@ -14482,7 +14513,7 @@
         "2": 54,
         "1": 34
       },
-      "season_rank": 108,
+      "season_rank": 101,
       "games_played": 6,
       "total_points": 214,
       "avg_points": 35.7,
@@ -14558,6 +14589,7 @@
         "7": 535000
       },
       "scores": {
+        "7": -2,
         "6": 39,
         "5": 38,
         "4": 32,
@@ -14566,6 +14598,7 @@
         "1": 65
       },
       "ranks": {
+        "7": 73,
         "6": 35,
         "5": 38,
         "4": 41,
@@ -14573,14 +14606,14 @@
         "2": 23,
         "1": 12
       },
-      "season_rank": 71,
-      "games_played": 6,
-      "total_points": 257,
-      "avg_points": 42.8,
+      "season_rank": 98,
+      "games_played": 7,
+      "total_points": 255,
+      "avg_points": 36.4,
       "high_score": 65,
-      "low_score": 27,
-      "last_3_avg": 36.3,
-      "last_5_avg": 38.4,
+      "low_score": -2,
+      "last_3_avg": 25,
+      "last_5_avg": 26.8,
       "selections": 5099,
       "selections_info": {
         "c": 0,
@@ -14601,9 +14634,9 @@
         "6": 41.8427,
         "7": 40.5987
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 41.2037,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 40.4182,
       "career_avg_vs": {
         "500012": 32.5,
         "500723": 42,
@@ -14619,7 +14652,7 @@
         "500023": 36.75,
         "500032": 51,
         "500001": 36.3333,
-        "500004": 41.5,
+        "500004": 27,
         "500021": 20
       },
       "last_3_proj_avg": 0
@@ -14631,7 +14664,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500023,
@@ -14652,7 +14685,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -14711,7 +14744,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 505701,
@@ -14732,7 +14765,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -14818,7 +14851,7 @@
         "3": 51,
         "2": 46
       },
-      "season_rank": 136,
+      "season_rank": 130,
       "games_played": 5,
       "total_points": 155,
       "avg_points": 31,
@@ -14905,7 +14938,7 @@
         "2": 28,
         "1": 38
       },
-      "season_rank": 53,
+      "season_rank": 49,
       "games_played": 3,
       "total_points": 141,
       "avg_points": 47,
@@ -15001,7 +15034,7 @@
         "2": 22,
         "1": 37
       },
-      "season_rank": 70,
+      "season_rank": 66,
       "games_played": 7,
       "total_points": 301,
       "avg_points": 43,
@@ -15096,7 +15129,7 @@
         "2": 43,
         "1": 40
       },
-      "season_rank": 135,
+      "season_rank": 129,
       "games_played": 6,
       "total_points": 188,
       "avg_points": 31.3,
@@ -15191,7 +15224,7 @@
         "2": 37,
         "1": 21
       },
-      "season_rank": 75,
+      "season_rank": 71,
       "games_played": 6,
       "total_points": 252,
       "avg_points": 42,
@@ -15281,7 +15314,7 @@
         "5": 53,
         "1": 65
       },
-      "season_rank": 155,
+      "season_rank": 147,
       "games_played": 4,
       "total_points": 112,
       "avg_points": 28,
@@ -15359,7 +15392,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -15437,6 +15470,7 @@
         "7": 510000
       },
       "scores": {
+        "7": 10,
         "6": 34,
         "5": 32,
         "4": 38,
@@ -15445,6 +15479,7 @@
         "1": 41
       },
       "ranks": {
+        "7": 62,
         "6": 40,
         "5": 44,
         "4": 35,
@@ -15452,14 +15487,14 @@
         "2": 29,
         "1": 35
       },
-      "season_rank": 89,
-      "games_played": 6,
-      "total_points": 234,
-      "avg_points": 39,
+      "season_rank": 105,
+      "games_played": 7,
+      "total_points": 243,
+      "avg_points": 34.7,
       "high_score": 50,
-      "low_score": 32,
-      "last_3_avg": 34.7,
-      "last_5_avg": 38.6,
+      "low_score": 9,
+      "last_3_avg": 25,
+      "last_5_avg": 30.4,
       "selections": 6227,
       "selections_info": {
         "c": 0.01,
@@ -15480,12 +15515,12 @@
         "6": 39.5598,
         "7": 38.6698
       },
-      "rd_tog": "",
-      "tog": 40,
-      "career_avg": 45.9692,
+      "rd_tog": 11,
+      "tog": 36,
+      "career_avg": 45.8276,
       "career_avg_vs": {
         "500014": 44,
-        "500004": 45.2941,
+        "500004": 43.2778,
         "500022": 42.4706,
         "500003": 46,
         "500001": 45.7692,
@@ -15510,7 +15545,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 508443,
@@ -15545,7 +15580,7 @@
         "2": 57,
         "1": 67
       },
-      "season_rank": 111,
+      "season_rank": 104,
       "games_played": 6,
       "total_points": 209,
       "avg_points": 34.8,
@@ -15634,7 +15669,7 @@
         "5": 59,
         "4": 30
       },
-      "season_rank": 101,
+      "season_rank": 94,
       "games_played": 4,
       "total_points": 150,
       "avg_points": 37.5,
@@ -15712,25 +15747,27 @@
         "7": 499000
       },
       "scores": {
+        "7": 7,
         "6": 34,
         "4": 45,
         "3": 35,
         "2": 39
       },
       "ranks": {
+        "7": 64,
         "6": 40,
         "4": 28,
         "3": 39,
         "2": 40
       },
-      "season_rank": 94,
-      "games_played": 4,
-      "total_points": 153,
-      "avg_points": 38.3,
+      "season_rank": 124,
+      "games_played": 5,
+      "total_points": 160,
+      "avg_points": 32,
       "high_score": 45,
-      "low_score": 34,
-      "last_3_avg": 38,
-      "last_5_avg": 38.3,
+      "low_score": 7,
+      "last_3_avg": 28.7,
+      "last_5_avg": 32,
       "selections": 546,
       "selections_info": {
         "c": 0,
@@ -15751,15 +15788,15 @@
         "6": 37.7827,
         "7": 37.8501
       },
-      "rd_tog": "",
-      "tog": 71,
-      "career_avg": 38.1282,
+      "rd_tog": 11,
+      "tog": 59,
+      "career_avg": 37.35,
       "career_avg_vs": {
         "500023": 40,
         "500022": 37.75,
         "500005": 25.5,
         "500011": 39.3333,
-        "500013": 34.5,
+        "500013": 25.3333,
         "500723": 45.6667,
         "500031": 38.5,
         "500001": 40.6667,
@@ -15781,7 +15818,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 506460,
@@ -15802,7 +15839,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -15897,7 +15934,7 @@
         "2": 57,
         "1": 47
       },
-      "season_rank": 162,
+      "season_rank": 154,
       "games_played": 7,
       "total_points": 187,
       "avg_points": 26.7,
@@ -15989,7 +16026,7 @@
         "2": 35,
         "1": 43
       },
-      "season_rank": 50,
+      "season_rank": 46,
       "games_played": 6,
       "total_points": 286,
       "avg_points": 47.7,
@@ -16079,7 +16116,7 @@
         "2": 45,
         "1": 42
       },
-      "season_rank": 104,
+      "season_rank": 96,
       "games_played": 6,
       "total_points": 220,
       "avg_points": 36.7,
@@ -16175,7 +16212,7 @@
         "2": 46,
         "1": 27
       },
-      "season_rank": 92,
+      "season_rank": 87,
       "games_played": 7,
       "total_points": 270,
       "avg_points": 38.6,
@@ -16266,7 +16303,7 @@
         "4": 61,
         "2": 20
       },
-      "season_rank": 113,
+      "season_rank": 106,
       "games_played": 5,
       "total_points": 172,
       "avg_points": 34.4,
@@ -16359,7 +16396,7 @@
         "2": 40,
         "1": 55
       },
-      "season_rank": 129,
+      "season_rank": 123,
       "games_played": 6,
       "total_points": 193,
       "avg_points": 32.2,
@@ -16438,7 +16475,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -16531,7 +16568,7 @@
         "2": 43,
         "1": 57
       },
-      "season_rank": 143,
+      "season_rank": 136,
       "games_played": 6,
       "total_points": 181,
       "avg_points": 30.2,
@@ -16619,7 +16656,7 @@
         "4": 28,
         "1": 46
       },
-      "season_rank": 118,
+      "season_rank": 111,
       "games_played": 3,
       "total_points": 101,
       "avg_points": 33.7,
@@ -16697,6 +16734,7 @@
         "7": 445000
       },
       "scores": {
+        "7": 0,
         "6": 33,
         "5": 27,
         "4": 41,
@@ -16704,20 +16742,21 @@
         "2": 31
       },
       "ranks": {
+        "7": 71,
         "6": 41,
         "5": 49,
         "4": 32,
         "3": 45,
         "2": 48
       },
-      "season_rank": 129,
-      "games_played": 5,
+      "season_rank": 153,
+      "games_played": 6,
       "total_points": 161,
-      "avg_points": 32.2,
+      "avg_points": 26.8,
       "high_score": 41,
-      "low_score": 27,
-      "last_3_avg": 33.7,
-      "last_5_avg": 32.2,
+      "low_score": 0,
+      "last_3_avg": 20,
+      "last_5_avg": 26,
       "selections": 1054,
       "selections_info": {
         "c": 0,
@@ -16738,9 +16777,9 @@
         "6": 34.2713,
         "7": 33.7868
       },
-      "rd_tog": "",
-      "tog": 62,
-      "career_avg": 33.7619,
+      "rd_tog": 0,
+      "tog": 52,
+      "career_avg": 32.9767,
       "career_avg_vs": {
         "500002": 16.6667,
         "500031": 27.3333,
@@ -16756,7 +16795,7 @@
         "500014": 49,
         "500021": 47,
         "500022": 44.3333,
-        "500013": 43,
+        "500013": 21.5,
         "500011": 21
       },
       "last_3_proj_avg": 0
@@ -16769,7 +16808,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501183,
@@ -16802,7 +16841,7 @@
         "2": 37,
         "1": 43
       },
-      "season_rank": 80,
+      "season_rank": 76,
       "games_played": 5,
       "total_points": 206,
       "avg_points": 41.2,
@@ -16890,7 +16929,7 @@
         "2": 17,
         "1": 36
       },
-      "season_rank": 85,
+      "season_rank": 81,
       "games_played": 3,
       "total_points": 119,
       "avg_points": 39.7,
@@ -16985,7 +17024,7 @@
         "2": 52,
         "1": 46
       },
-      "season_rank": 125,
+      "season_rank": 119,
       "games_played": 7,
       "total_points": 229,
       "avg_points": 32.7,
@@ -17063,23 +17102,25 @@
         "7": 462000
       },
       "scores": {
+        "7": 11,
         "4": 17,
         "3": 35,
         "2": 40
       },
       "ranks": {
+        "7": 60,
         "4": 56,
         "3": 39,
         "2": 39
       },
-      "season_rank": 138,
-      "games_played": 3,
-      "total_points": 92,
-      "avg_points": 30.7,
+      "season_rank": 157,
+      "games_played": 4,
+      "total_points": 103,
+      "avg_points": 25.8,
       "high_score": 40,
-      "low_score": 17,
-      "last_3_avg": 30.7,
-      "last_5_avg": 30.7,
+      "low_score": 11,
+      "last_3_avg": 21,
+      "last_5_avg": 25.8,
       "selections": 1165,
       "selections_info": {
         "c": 0,
@@ -17100,9 +17141,9 @@
         "6": 35.0015,
         "7": 35.0711
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 33.3333,
+      "rd_tog": 11,
+      "tog": 63,
+      "career_avg": 32.7297,
       "career_avg_vs": {
         "500023": 46,
         "500022": 32.5,
@@ -17112,7 +17153,7 @@
         "500003": 42.5,
         "500010": 29,
         "500005": 30,
-        "500013": 29.5,
+        "500013": 23.3333,
         "500001": 16.6667,
         "500012": 39.3333,
         "500021": 27.5,
@@ -17131,7 +17172,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500327,
@@ -17166,7 +17207,7 @@
         "3": 52,
         "2": 42
       },
-      "season_rank": 149,
+      "season_rank": 142,
       "games_played": 6,
       "total_points": 175,
       "avg_points": 29.2,
@@ -17259,7 +17300,7 @@
         "2": 38,
         "1": 43
       },
-      "season_rank": 57,
+      "season_rank": 53,
       "games_played": 6,
       "total_points": 279,
       "avg_points": 46.5,
@@ -17338,6 +17379,7 @@
         "7": 487000
       },
       "scores": {
+        "7": 6,
         "6": 59,
         "5": 44,
         "4": 49,
@@ -17345,20 +17387,21 @@
         "2": 32
       },
       "ranks": {
+        "7": 66,
         "6": 15,
         "5": 32,
         "4": 24,
         "3": 60,
         "2": 47
       },
-      "season_rank": 87,
-      "games_played": 5,
-      "total_points": 197,
-      "avg_points": 39.4,
+      "season_rank": 111,
+      "games_played": 6,
+      "total_points": 202,
+      "avg_points": 33.7,
       "high_score": 59,
-      "low_score": 13,
-      "last_3_avg": 50.7,
-      "last_5_avg": 39.4,
+      "low_score": 5,
+      "last_3_avg": 36,
+      "last_5_avg": 34,
       "selections": 17309,
       "selections_info": {
         "c": 0.01,
@@ -17379,9 +17422,9 @@
         "6": 34.2387,
         "7": 36.9457
       },
-      "rd_tog": "",
-      "tog": 79,
-      "career_avg": 38.1563,
+      "rd_tog": 11,
+      "tog": 68,
+      "career_avg": 37.1515,
       "career_avg_vs": {
         "500023": 54,
         "500022": 31.5,
@@ -17390,7 +17433,7 @@
         "500723": 43.6667,
         "500002": 28.5,
         "500011": 34,
-        "500013": 44.5,
+        "500013": 31.3333,
         "500001": 39.3333,
         "500014": 53,
         "500010": 32.6667,
@@ -17409,7 +17452,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100006524,
@@ -17429,6 +17472,7 @@
         "7": 384000
       },
       "scores": {
+        "7": 5,
         "6": 61,
         "5": 23,
         "4": 29,
@@ -17437,6 +17481,7 @@
         "1": 37
       },
       "ranks": {
+        "7": 66,
         "6": 13,
         "5": 53,
         "4": 44,
@@ -17444,14 +17489,14 @@
         "2": 69,
         "1": 39
       },
-      "season_rank": 149,
-      "games_played": 6,
-      "total_points": 175,
-      "avg_points": 29.2,
+      "season_rank": 158,
+      "games_played": 7,
+      "total_points": 180,
+      "avg_points": 25.7,
       "high_score": 61,
-      "low_score": 10,
-      "last_3_avg": 37.7,
-      "last_5_avg": 27.6,
+      "low_score": 5,
+      "last_3_avg": 29.7,
+      "last_5_avg": 26.6,
       "selections": 4860,
       "selections_info": {
         "c": 0.01,
@@ -17472,9 +17517,9 @@
         "6": 27.1558,
         "7": 29.1002
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 33.6429,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 32.6552,
       "career_avg_vs": {
         "500021": 25,
         "500003": 39,
@@ -17482,7 +17527,7 @@
         "500032": 25.3333,
         "500028": 24.6667,
         "500031": 53.5,
-        "500004": 50,
+        "500004": 27.5,
         "500011": 22.5,
         "500002": 30.3333,
         "500010": 45,
@@ -17501,7 +17546,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504325,
@@ -17534,7 +17579,7 @@
         "2": 9,
         "1": 24
       },
-      "season_rank": 68,
+      "season_rank": 64,
       "games_played": 5,
       "total_points": 219,
       "avg_points": 43.8,
@@ -17627,7 +17672,7 @@
         "2": 32,
         "1": 54
       },
-      "season_rank": 112,
+      "season_rank": 105,
       "games_played": 6,
       "total_points": 208,
       "avg_points": 34.7,
@@ -17702,7 +17747,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -17796,7 +17841,7 @@
         "2": 37,
         "1": 47
       },
-      "season_rank": 81,
+      "season_rank": 77,
       "games_played": 6,
       "total_points": 245,
       "avg_points": 40.8,
@@ -17876,7 +17921,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -17960,7 +18005,7 @@
         "2": 62,
         "1": 52
       },
-      "season_rank": 187,
+      "season_rank": 184,
       "games_played": 2,
       "total_points": 41,
       "avg_points": 20.5,
@@ -18049,7 +18094,7 @@
         "2": 34,
         "1": 26
       },
-      "season_rank": 97,
+      "season_rank": 90,
       "games_played": 3,
       "total_points": 114,
       "avg_points": 38,
@@ -18138,7 +18183,7 @@
         "4": 40,
         "3": 52
       },
-      "season_rank": 152,
+      "season_rank": 145,
       "games_played": 4,
       "total_points": 114,
       "avg_points": 28.5,
@@ -18230,7 +18275,7 @@
         "2": 29,
         "1": 33
       },
-      "season_rank": 105,
+      "season_rank": 97,
       "games_played": 5,
       "total_points": 183,
       "avg_points": 36.6,
@@ -18307,9 +18352,9 @@
         "7": 8
       },
       "ranks": {
-        "7": 62
+        "7": 63
       },
-      "season_rank": 215,
+      "season_rank": 212,
       "games_played": 1,
       "total_points": 8,
       "avg_points": 8,
@@ -18375,7 +18420,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -18461,7 +18506,7 @@
         "7": 51,
         "6": 54
       },
-      "season_rank": 189,
+      "season_rank": 186,
       "games_played": 2,
       "total_points": 40,
       "avg_points": 20,
@@ -18555,7 +18600,7 @@
         "2": 35,
         "1": 57
       },
-      "season_rank": 83,
+      "season_rank": 79,
       "games_played": 6,
       "total_points": 241,
       "avg_points": 40.2,
@@ -18650,7 +18695,7 @@
         "2": 51,
         "1": 57
       },
-      "season_rank": 117,
+      "season_rank": 110,
       "games_played": 7,
       "total_points": 237,
       "avg_points": 33.9,
@@ -18741,7 +18786,7 @@
         "4": 57,
         "3": 21
       },
-      "season_rank": 143,
+      "season_rank": 136,
       "games_played": 5,
       "total_points": 151,
       "avg_points": 30.2,
@@ -18835,7 +18880,7 @@
         "2": 54,
         "1": 34
       },
-      "season_rank": 104,
+      "season_rank": 96,
       "games_played": 6,
       "total_points": 220,
       "avg_points": 36.7,
@@ -18930,7 +18975,7 @@
         "2": 40,
         "1": 37
       },
-      "season_rank": 102,
+      "season_rank": 95,
       "games_played": 7,
       "total_points": 259,
       "avg_points": 37,
@@ -19018,7 +19063,7 @@
         "5": 26,
         "3": 5
       },
-      "season_rank": 9,
+      "season_rank": 7,
       "games_played": 3,
       "total_points": 182,
       "avg_points": 60.7,
@@ -19095,7 +19140,7 @@
         "6": 37,
         "3": 39
       },
-      "season_rank": 135,
+      "season_rank": 129,
       "games_played": 3,
       "total_points": 94,
       "avg_points": 31.3,
@@ -19172,7 +19217,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -19265,7 +19310,7 @@
         "2": 53,
         "1": 51
       },
-      "season_rank": 145,
+      "season_rank": 138,
       "games_played": 6,
       "total_points": 180,
       "avg_points": 30,
@@ -19358,7 +19403,7 @@
         "2": 20,
         "1": 42
       },
-      "season_rank": 98,
+      "season_rank": 91,
       "games_played": 6,
       "total_points": 227,
       "avg_points": 37.8,
@@ -19444,7 +19489,7 @@
         "6": 39,
         "5": 13
       },
-      "season_rank": 41,
+      "season_rank": 36,
       "games_played": 2,
       "total_points": 100,
       "avg_points": 50,
@@ -19512,7 +19557,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -19556,7 +19601,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 502695,
@@ -19587,7 +19632,7 @@
         "2": 50,
         "1": 44
       },
-      "season_rank": 136,
+      "season_rank": 130,
       "games_played": 4,
       "total_points": 124,
       "avg_points": 31,
@@ -19670,7 +19715,7 @@
       "ranks": {
         "7": 47
       },
-      "season_rank": 172,
+      "season_rank": 168,
       "games_played": 1,
       "total_points": 24,
       "avg_points": 24,
@@ -19765,7 +19810,7 @@
         "2": 60,
         "1": 32
       },
-      "season_rank": 133,
+      "season_rank": 127,
       "games_played": 7,
       "total_points": 221,
       "avg_points": 31.6,
@@ -19858,7 +19903,7 @@
         "2": 52,
         "1": 47
       },
-      "season_rank": 110,
+      "season_rank": 103,
       "games_played": 6,
       "total_points": 210,
       "avg_points": 35,
@@ -19937,7 +19982,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -19995,7 +20040,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100001634,
@@ -20030,7 +20075,7 @@
         "3": 41,
         "1": 27
       },
-      "season_rank": 99,
+      "season_rank": 92,
       "games_played": 6,
       "total_points": 226,
       "avg_points": 37.7,
@@ -20125,7 +20170,7 @@
         "2": 37,
         "1": 34
       },
-      "season_rank": 47,
+      "season_rank": 42,
       "games_played": 7,
       "total_points": 339,
       "avg_points": 48.4,
@@ -20205,7 +20250,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -20294,7 +20339,7 @@
         "2": 67,
         "1": 64
       },
-      "season_rank": 205,
+      "season_rank": 202,
       "games_played": 6,
       "total_points": 98,
       "avg_points": 16.3,
@@ -20387,7 +20432,7 @@
         "2": 41,
         "1": 71
       },
-      "season_rank": 122,
+      "season_rank": 115,
       "games_played": 6,
       "total_points": 199,
       "avg_points": 33.2,
@@ -20470,7 +20515,7 @@
         "4": 39,
         "3": 32
       },
-      "season_rank": 148,
+      "season_rank": 141,
       "games_played": 4,
       "total_points": 117,
       "avg_points": 29.3,
@@ -20557,7 +20602,7 @@
         "2": 53,
         "1": 49
       },
-      "season_rank": 91,
+      "season_rank": 86,
       "games_played": 6,
       "total_points": 232,
       "avg_points": 38.7,
@@ -20636,7 +20681,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -20725,7 +20770,7 @@
         "2": 15,
         "1": 52
       },
-      "season_rank": 76,
+      "season_rank": 72,
       "games_played": 6,
       "total_points": 251,
       "avg_points": 41.8,
@@ -20816,7 +20861,7 @@
         "2": 34,
         "1": 48
       },
-      "season_rank": 121,
+      "season_rank": 114,
       "games_played": 6,
       "total_points": 200,
       "avg_points": 33.3,
@@ -20899,7 +20944,7 @@
       "ranks": {
         "6": 47
       },
-      "season_rank": 160,
+      "season_rank": 152,
       "games_played": 1,
       "total_points": 27,
       "avg_points": 27,
@@ -20972,7 +21017,7 @@
       "ranks": {
         "6": 37
       },
-      "season_rank": 102,
+      "season_rank": 95,
       "games_played": 1,
       "total_points": 37,
       "avg_points": 37,
@@ -21060,7 +21105,7 @@
         "5": 58,
         "4": 46
       },
-      "season_rank": 168,
+      "season_rank": 163,
       "games_played": 4,
       "total_points": 99,
       "avg_points": 24.8,
@@ -21156,7 +21201,7 @@
         "2": 62,
         "1": 48
       },
-      "season_rank": 144,
+      "season_rank": 137,
       "games_played": 7,
       "total_points": 211,
       "avg_points": 30.1,
@@ -21250,7 +21295,7 @@
         "2": 45,
         "1": 64
       },
-      "season_rank": 132,
+      "season_rank": 126,
       "games_played": 6,
       "total_points": 190,
       "avg_points": 31.7,
@@ -21330,7 +21375,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -21426,7 +21471,7 @@
         "2": 46,
         "1": 62
       },
-      "season_rank": 132,
+      "season_rank": 126,
       "games_played": 7,
       "total_points": 222,
       "avg_points": 31.7,
@@ -21511,7 +21556,7 @@
         "4": 41,
         "1": 41
       },
-      "season_rank": 120,
+      "season_rank": 113,
       "games_played": 2,
       "total_points": 67,
       "avg_points": 33.5,
@@ -21594,7 +21639,7 @@
       "ranks": {
         "6": 35
       },
-      "season_rank": 89,
+      "season_rank": 84,
       "games_played": 1,
       "total_points": 39,
       "avg_points": 39,
@@ -21672,7 +21717,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -21755,7 +21800,7 @@
         "2": 50,
         "1": 43
       },
-      "season_rank": 156,
+      "season_rank": 148,
       "games_played": 6,
       "total_points": 166,
       "avg_points": 27.7,
@@ -21839,7 +21884,7 @@
       "ranks": {
         "2": 43
       },
-      "season_rank": 107,
+      "season_rank": 100,
       "games_played": 1,
       "total_points": 36,
       "avg_points": 36,
@@ -21897,7 +21942,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504196,
@@ -21918,7 +21963,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -22013,7 +22058,7 @@
         "2": 66,
         "1": 47
       },
-      "season_rank": 177,
+      "season_rank": 173,
       "games_played": 7,
       "total_points": 161,
       "avg_points": 23,
@@ -22107,7 +22152,7 @@
         "3": 54,
         "1": 65
       },
-      "season_rank": 107,
+      "season_rank": 100,
       "games_played": 6,
       "total_points": 216,
       "avg_points": 36,
@@ -22201,7 +22246,7 @@
         "3": 49,
         "1": 17
       },
-      "season_rank": 114,
+      "season_rank": 107,
       "games_played": 6,
       "total_points": 206,
       "avg_points": 34.3,
@@ -22289,7 +22334,7 @@
         "2": 55,
         "1": 22
       },
-      "season_rank": 143,
+      "season_rank": 136,
       "games_played": 5,
       "total_points": 151,
       "avg_points": 30.2,
@@ -22368,7 +22413,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -22461,7 +22506,7 @@
         "2": 47,
         "1": 46
       },
-      "season_rank": 123,
+      "season_rank": 116,
       "games_played": 6,
       "total_points": 198,
       "avg_points": 33,
@@ -22554,7 +22599,7 @@
         "2": 23,
         "1": 23
       },
-      "season_rank": 124,
+      "season_rank": 118,
       "games_played": 6,
       "total_points": 197,
       "avg_points": 32.8,
@@ -22637,7 +22682,7 @@
       "ranks": {
         "4": 55
       },
-      "season_rank": 199,
+      "season_rank": 196,
       "games_played": 1,
       "total_points": 18,
       "avg_points": 18,
@@ -22717,7 +22762,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -22800,7 +22845,7 @@
       "ranks": {
         "1": 58
       },
-      "season_rank": 199,
+      "season_rank": 196,
       "games_played": 1,
       "total_points": 18,
       "avg_points": 18,
@@ -22891,7 +22936,7 @@
         "2": 22,
         "1": 5
       },
-      "season_rank": 49,
+      "season_rank": 45,
       "games_played": 5,
       "total_points": 239,
       "avg_points": 47.8,
@@ -22979,7 +23024,7 @@
         "5": 62,
         "2": 56
       },
-      "season_rank": 168,
+      "season_rank": 163,
       "games_played": 4,
       "total_points": 99,
       "avg_points": 24.8,
@@ -23072,7 +23117,7 @@
         "2": 45,
         "1": 25
       },
-      "season_rank": 82,
+      "season_rank": 78,
       "games_played": 6,
       "total_points": 244,
       "avg_points": 40.7,
@@ -23152,7 +23197,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -23236,7 +23281,7 @@
         "2": 35,
         "1": 45
       },
-      "season_rank": 82,
+      "season_rank": 78,
       "games_played": 7,
       "total_points": 285,
       "avg_points": 40.7,
@@ -23332,7 +23377,7 @@
         "2": 28,
         "1": 33
       },
-      "season_rank": 32,
+      "season_rank": 27,
       "games_played": 7,
       "total_points": 363,
       "avg_points": 51.9,
@@ -23427,7 +23472,7 @@
         "2": 48,
         "1": 40
       },
-      "season_rank": 115,
+      "season_rank": 108,
       "games_played": 7,
       "total_points": 239,
       "avg_points": 34.1,
@@ -23505,23 +23550,25 @@
         "7": 279000
       },
       "scores": {
+        "7": 0,
         "6": 28,
         "5": 19,
         "4": 14
       },
       "ranks": {
+        "7": 71,
         "6": 46,
         "5": 57,
         "4": 59
       },
-      "season_rank": 188,
-      "games_played": 3,
+      "season_rank": 205,
+      "games_played": 4,
       "total_points": 61,
-      "avg_points": 20.3,
+      "avg_points": 15.3,
       "high_score": 28,
-      "low_score": 14,
-      "last_3_avg": 20.3,
-      "last_5_avg": 20.3,
+      "low_score": 0,
+      "last_3_avg": 15.7,
+      "last_5_avg": 15.3,
       "selections": 7839,
       "selections_info": {
         "c": 0,
@@ -23542,14 +23589,15 @@
         "6": 21.0882,
         "7": 21.1706
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 23,
+      "rd_tog": 11,
+      "tog": 63,
+      "career_avg": 18.4,
       "career_avg_vs": {
         "500003": 31,
         "500001": 14,
         "500723": 19,
-        "500022": 28
+        "500022": 28,
+        "500013": 0
       },
       "last_3_proj_avg": 0
     },
@@ -23560,7 +23608,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100007515,
@@ -23593,7 +23641,7 @@
         "4": 35,
         "3": 36
       },
-      "season_rank": 129,
+      "season_rank": 123,
       "games_played": 5,
       "total_points": 161,
       "avg_points": 32.2,
@@ -23682,7 +23730,7 @@
         "5": 61,
         "4": 38
       },
-      "season_rank": 179,
+      "season_rank": 176,
       "games_played": 4,
       "total_points": 88,
       "avg_points": 22,
@@ -23777,7 +23825,7 @@
         "2": 54,
         "1": 59
       },
-      "season_rank": 167,
+      "season_rank": 162,
       "games_played": 7,
       "total_points": 175,
       "avg_points": 25,
@@ -23872,7 +23920,7 @@
         "3": 42,
         "2": 66
       },
-      "season_rank": 137,
+      "season_rank": 131,
       "games_played": 6,
       "total_points": 185,
       "avg_points": 30.8,
@@ -23950,6 +23998,7 @@
         "7": 574000
       },
       "scores": {
+        "7": 3,
         "6": 48,
         "5": 44,
         "4": 41,
@@ -23958,6 +24007,7 @@
         "1": 51
       },
       "ranks": {
+        "7": 68,
         "6": 26,
         "5": 32,
         "4": 32,
@@ -23965,14 +24015,14 @@
         "2": 19,
         "1": 25
       },
-      "season_rank": 50,
-      "games_played": 6,
-      "total_points": 286,
-      "avg_points": 47.7,
+      "season_rank": 75,
+      "games_played": 7,
+      "total_points": 289,
+      "avg_points": 41.3,
       "high_score": 60,
-      "low_score": 41,
-      "last_3_avg": 44.3,
-      "last_5_avg": 47,
+      "low_score": 3,
+      "last_3_avg": 31.7,
+      "last_5_avg": 35.6,
       "selections": 12832,
       "selections_info": {
         "c": 0.02,
@@ -23993,9 +24043,9 @@
         "6": 42.8426,
         "7": 43.5153
       },
-      "rd_tog": "",
-      "tog": 60,
-      "career_avg": 31.6667,
+      "rd_tog": 11,
+      "tog": 53,
+      "career_avg": 31.1154,
       "career_avg_vs": {
         "500012": 38.25,
         "500723": 37.3333,
@@ -24011,7 +24061,7 @@
         "500023": 13,
         "500032": 37.6,
         "500001": 26.6667,
-        "500004": 29,
+        "500004": 20.3333,
         "500021": 53
       },
       "last_3_proj_avg": 0
@@ -24023,7 +24073,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504148,
@@ -24043,6 +24093,7 @@
         "7": 453000
       },
       "scores": {
+        "7": 1,
         "6": 53,
         "5": 33,
         "4": 17,
@@ -24051,6 +24102,7 @@
         "1": 50
       },
       "ranks": {
+        "7": 70,
         "6": 21,
         "5": 43,
         "4": 56,
@@ -24058,14 +24110,14 @@
         "2": 22,
         "1": 26
       },
-      "season_rank": 95,
-      "games_played": 6,
-      "total_points": 229,
-      "avg_points": 38.2,
+      "season_rank": 117,
+      "games_played": 7,
+      "total_points": 230,
+      "avg_points": 32.9,
       "high_score": 57,
-      "low_score": 17,
-      "last_3_avg": 34.3,
-      "last_5_avg": 35.8,
+      "low_score": 1,
+      "last_3_avg": 29,
+      "last_5_avg": 24.6,
       "selections": 7192,
       "selections_info": {
         "c": 0,
@@ -24086,9 +24138,9 @@
         "6": 33.781,
         "7": 34.3857
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 30.766,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 30.1458,
       "career_avg_vs": {
         "500012": 24.75,
         "500723": 36.3333,
@@ -24103,7 +24155,7 @@
         "500005": 24,
         "500032": 34.5,
         "500001": 25.6667,
-        "500004": 28,
+        "500004": 19,
         "500023": 38.3333
       },
       "last_3_proj_avg": 0
@@ -24116,7 +24168,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 506604,
@@ -24135,10 +24187,14 @@
         "6": 409000,
         "7": 409000
       },
-      "scores": {},
-      "ranks": {},
-      "season_rank": 221,
-      "games_played": 0,
+      "scores": {
+        "7": 0
+      },
+      "ranks": {
+        "7": 71
+      },
+      "season_rank": 218,
+      "games_played": 1,
       "total_points": 0,
       "avg_points": 0,
       "high_score": 0,
@@ -24165,9 +24221,9 @@
         "6": 30.9405,
         "7": 31.0021
       },
-      "rd_tog": "",
+      "rd_tog": 0,
       "tog": 0,
-      "career_avg": 27.9,
+      "career_avg": 25.3636,
       "career_avg_vs": {
         "500723": 60,
         "500014": 25,
@@ -24177,7 +24233,8 @@
         "500005": 23,
         "500023": 28,
         "500032": 38,
-        "500028": 34
+        "500028": 34,
+        "500013": 0
       },
       "last_3_proj_avg": 0
     },
@@ -24188,7 +24245,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501290,
@@ -24209,7 +24266,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -24305,7 +24362,7 @@
         "2": 58,
         "1": 34
       },
-      "season_rank": 104,
+      "season_rank": 96,
       "games_played": 7,
       "total_points": 257,
       "avg_points": 36.7,
@@ -24396,7 +24453,7 @@
         "2": 71,
         "1": 68
       },
-      "season_rank": 198,
+      "season_rank": 195,
       "games_played": 5,
       "total_points": 91,
       "avg_points": 18.2,
@@ -24475,6 +24532,7 @@
         "7": 384000
       },
       "scores": {
+        "7": 0,
         "6": 27,
         "5": 24,
         "4": 43,
@@ -24483,6 +24541,7 @@
         "1": 24
       },
       "ranks": {
+        "7": 71,
         "6": 47,
         "5": 52,
         "4": 30,
@@ -24490,14 +24549,14 @@
         "2": 57,
         "1": 52
       },
-      "season_rank": 154,
-      "games_played": 6,
+      "season_rank": 167,
+      "games_played": 7,
       "total_points": 169,
-      "avg_points": 28.2,
+      "avg_points": 24.1,
       "high_score": 43,
-      "low_score": 22,
-      "last_3_avg": 31.3,
-      "last_5_avg": 29,
+      "low_score": 0,
+      "last_3_avg": 17,
+      "last_5_avg": 24.6,
       "selections": 2589,
       "selections_info": {
         "c": 0,
@@ -24518,9 +24577,9 @@
         "6": 29.0972,
         "7": 29.1562
       },
-      "rd_tog": "",
-      "tog": 31,
-      "career_avg": 26.6591,
+      "rd_tog": 0,
+      "tog": 26,
+      "career_avg": 26.0667,
       "career_avg_vs": {
         "500012": 28,
         "500723": 54,
@@ -24528,7 +24587,7 @@
         "500002": 27.25,
         "500005": 31,
         "500023": 17.75,
-        "500004": 44,
+        "500004": 29.3333,
         "500022": 28.5,
         "500032": 21.3333,
         "500003": 26.6667,
@@ -24549,7 +24608,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 503533,
@@ -24582,7 +24641,7 @@
         "2": 56,
         "1": 44
       },
-      "season_rank": 113,
+      "season_rank": 106,
       "games_played": 5,
       "total_points": 172,
       "avg_points": 34.4,
@@ -24674,7 +24733,7 @@
         "2": 65,
         "1": 54
       },
-      "season_rank": 202,
+      "season_rank": 199,
       "games_played": 5,
       "total_points": 84,
       "avg_points": 16.8,
@@ -24754,7 +24813,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -24827,7 +24886,7 @@
       "ranks": {
         "2": 70
       },
-      "season_rank": 214,
+      "season_rank": 211,
       "games_played": 1,
       "total_points": 9,
       "avg_points": 9,
@@ -24885,7 +24944,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 507645,
@@ -24916,7 +24975,7 @@
         "2": 62,
         "1": 26
       },
-      "season_rank": 88,
+      "season_rank": 83,
       "games_played": 4,
       "total_points": 157,
       "avg_points": 39.3,
@@ -25006,7 +25065,7 @@
         "4": 38,
         "3": 48
       },
-      "season_rank": 83,
+      "season_rank": 79,
       "games_played": 5,
       "total_points": 201,
       "avg_points": 40.2,
@@ -25089,7 +25148,7 @@
       "ranks": {
         "6": 60
       },
-      "season_rank": 209,
+      "season_rank": 207,
       "games_played": 1,
       "total_points": 14,
       "avg_points": 14,
@@ -25175,7 +25234,7 @@
         "7": 57,
         "1": 56
       },
-      "season_rank": 201,
+      "season_rank": 198,
       "games_played": 2,
       "total_points": 34,
       "avg_points": 17,
@@ -25253,6 +25312,7 @@
         "7": 438000
       },
       "scores": {
+        "7": 1,
         "6": 21,
         "5": 41,
         "4": 50,
@@ -25261,6 +25321,7 @@
         "1": 49
       },
       "ranks": {
+        "7": 69,
         "6": 53,
         "5": 35,
         "4": 23,
@@ -25268,14 +25329,14 @@
         "2": 37,
         "1": 27
       },
-      "season_rank": 103,
-      "games_played": 6,
-      "total_points": 221,
-      "avg_points": 36.8,
+      "season_rank": 125,
+      "games_played": 7,
+      "total_points": 223,
+      "avg_points": 31.9,
       "high_score": 50,
-      "low_score": 18,
-      "last_3_avg": 37.3,
-      "last_5_avg": 34.4,
+      "low_score": 2,
+      "last_3_avg": 21.3,
+      "last_5_avg": 26.4,
       "selections": 69218,
       "selections_info": {
         "c": 0.01,
@@ -25296,9 +25357,9 @@
         "6": 33.2826,
         "7": 33.2453
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 35.8571,
+      "rd_tog": 11,
+      "tog": 70,
+      "career_avg": 31.625,
       "career_avg_vs": {
         "500013": 30,
         "500032": 49,
@@ -25306,7 +25367,8 @@
         "500002": 18,
         "500012": 50,
         "500028": 41,
-        "500031": 21
+        "500031": 21,
+        "500004": 2
       },
       "last_3_proj_avg": 0
     },
@@ -25318,7 +25380,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 502409,
@@ -25345,7 +25407,7 @@
         "2": 54,
         "1": 62
       },
-      "season_rank": 191,
+      "season_rank": 188,
       "games_played": 2,
       "total_points": 39,
       "avg_points": 19.5,
@@ -25425,7 +25487,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -25513,7 +25575,7 @@
         "2": 65,
         "1": 73
       },
-      "season_rank": 211,
+      "season_rank": 209,
       "games_played": 5,
       "total_points": 57,
       "avg_points": 11.4,
@@ -25602,7 +25664,7 @@
         "4": 44,
         "3": 38
       },
-      "season_rank": 114,
+      "season_rank": 107,
       "games_played": 4,
       "total_points": 137,
       "avg_points": 34.3,
@@ -25687,7 +25749,7 @@
         "6": 36,
         "5": 57
       },
-      "season_rank": 152,
+      "season_rank": 145,
       "games_played": 2,
       "total_points": 57,
       "avg_points": 28.5,
@@ -25777,7 +25839,7 @@
         "3": 47,
         "1": 37
       },
-      "season_rank": 124,
+      "season_rank": 118,
       "games_played": 6,
       "total_points": 197,
       "avg_points": 32.8,
@@ -25872,7 +25934,7 @@
         "2": 39,
         "1": 23
       },
-      "season_rank": 82,
+      "season_rank": 78,
       "games_played": 7,
       "total_points": 285,
       "avg_points": 40.7,
@@ -25952,7 +26014,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -26036,7 +26098,7 @@
         "3": 46,
         "1": 49
       },
-      "season_rank": 145,
+      "season_rank": 138,
       "games_played": 6,
       "total_points": 180,
       "avg_points": 30,
@@ -26130,7 +26192,7 @@
         "2": 15,
         "1": 48
       },
-      "season_rank": 107,
+      "season_rank": 100,
       "games_played": 7,
       "total_points": 252,
       "avg_points": 36,
@@ -26210,7 +26272,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -26295,7 +26357,7 @@
         "2": 61,
         "1": 66
       },
-      "season_rank": 210,
+      "season_rank": 208,
       "games_played": 2,
       "total_points": 27,
       "avg_points": 13.5,
@@ -26374,7 +26436,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -26467,7 +26529,7 @@
         "2": 33,
         "1": 36
       },
-      "season_rank": 112,
+      "season_rank": 105,
       "games_played": 6,
       "total_points": 208,
       "avg_points": 34.7,
@@ -26558,7 +26620,7 @@
         "2": 45,
         "1": 40
       },
-      "season_rank": 98,
+      "season_rank": 91,
       "games_played": 5,
       "total_points": 189,
       "avg_points": 37.8,
@@ -26647,7 +26709,7 @@
         "2": 56,
         "1": 52
       },
-      "season_rank": 173,
+      "season_rank": 169,
       "games_played": 4,
       "total_points": 95,
       "avg_points": 23.8,
@@ -26738,7 +26800,7 @@
         "2": 65,
         "1": 64
       },
-      "season_rank": 188,
+      "season_rank": 185,
       "games_played": 6,
       "total_points": 122,
       "avg_points": 20.3,
@@ -26792,7 +26854,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 505578,
@@ -26813,7 +26875,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -26890,7 +26952,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -26961,7 +27023,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -27051,7 +27113,7 @@
         "3": 44,
         "2": 54
       },
-      "season_rank": 146,
+      "season_rank": 139,
       "games_played": 4,
       "total_points": 118,
       "avg_points": 29.5,
@@ -27135,7 +27197,7 @@
       "ranks": {
         "3": 66
       },
-      "season_rank": 217,
+      "season_rank": 214,
       "games_played": 1,
       "total_points": 5,
       "avg_points": 5,
@@ -27227,7 +27289,7 @@
         "2": 41,
         "1": 36
       },
-      "season_rank": 92,
+      "season_rank": 87,
       "games_played": 5,
       "total_points": 193,
       "avg_points": 38.6,
@@ -27310,11 +27372,11 @@
         "5": 23
       },
       "ranks": {
-        "7": 62,
+        "7": 63,
         "6": 25,
         "5": 53
       },
-      "season_rank": 162,
+      "season_rank": 154,
       "games_played": 3,
       "total_points": 80,
       "avg_points": 26.7,
@@ -27389,7 +27451,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -27469,7 +27531,7 @@
         "2": 28,
         "1": 29
       },
-      "season_rank": 75,
+      "season_rank": 71,
       "games_played": 3,
       "total_points": 126,
       "avg_points": 42,
@@ -27558,7 +27620,7 @@
         "4": 50,
         "1": 49
       },
-      "season_rank": 174,
+      "season_rank": 170,
       "games_played": 4,
       "total_points": 94,
       "avg_points": 23.5,
@@ -27626,6 +27688,7 @@
         "7": 415000
       },
       "scores": {
+        "7": -1,
         "6": 30,
         "5": 17,
         "4": 42,
@@ -27633,20 +27696,21 @@
         "1": 69
       },
       "ranks": {
+        "7": 72,
         "6": 44,
         "5": 59,
         "4": 31,
         "3": 64,
         "1": 8
       },
-      "season_rank": 122,
-      "games_played": 5,
-      "total_points": 166,
-      "avg_points": 33.2,
+      "season_rank": 149,
+      "games_played": 6,
+      "total_points": 165,
+      "avg_points": 27.5,
       "high_score": 69,
-      "low_score": 8,
-      "last_3_avg": 29.7,
-      "last_5_avg": 33.2,
+      "low_score": -1,
+      "last_3_avg": 15.3,
+      "last_5_avg": 19.2,
       "selections": 12595,
       "selections_info": {
         "c": 0.01,
@@ -27667,9 +27731,9 @@
         "6": 32.4366,
         "7": 31.4774
       },
-      "rd_tog": "",
-      "tog": 80,
-      "career_avg": 28.8667,
+      "rd_tog": 11,
+      "tog": 69,
+      "career_avg": 27.9032,
       "career_avg_vs": {
         "500010": 25.3333,
         "500003": 20.5,
@@ -27677,7 +27741,7 @@
         "500032": 45.3333,
         "500028": 21.6667,
         "500031": 43.5,
-        "500004": 27,
+        "500004": 13,
         "500011": 40,
         "500002": 15.6667,
         "500001": 30.5,
@@ -27697,7 +27761,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 504079,
@@ -27716,10 +27780,14 @@
         "6": 377000,
         "7": 377000
       },
-      "scores": {},
-      "ranks": {},
-      "season_rank": 221,
-      "games_played": 0,
+      "scores": {
+        "7": 0
+      },
+      "ranks": {
+        "7": 71
+      },
+      "season_rank": 218,
+      "games_played": 1,
       "total_points": 0,
       "avg_points": 0,
       "high_score": 0,
@@ -27746,9 +27814,9 @@
         "6": 28.5197,
         "7": 28.5764
       },
-      "rd_tog": "",
-      "tog": 31,
-      "career_avg": 25.8621,
+      "rd_tog": 0,
+      "tog": 0,
+      "career_avg": 25,
       "career_avg_vs": {
         "500012": 34,
         "500723": 30.5,
@@ -27764,7 +27832,7 @@
         "500023": 27,
         "500032": 22,
         "500001": 46,
-        "500004": 20,
+        "500004": 13.3333,
         "500021": 18
       },
       "last_3_proj_avg": 0
@@ -27776,7 +27844,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500576,
@@ -27797,7 +27865,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -27878,7 +27946,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -27962,7 +28030,7 @@
         "4": 50,
         "3": 54
       },
-      "season_rank": 203,
+      "season_rank": 200,
       "games_played": 3,
       "total_points": 50,
       "avg_points": 16.7,
@@ -28041,7 +28109,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -28121,14 +28189,14 @@
         "1": 29
       },
       "ranks": {
-        "7": 62,
+        "7": 63,
         "6": 48,
         "5": 62,
         "4": 49,
         "3": 36,
         "1": 47
       },
-      "season_rank": 176,
+      "season_rank": 172,
       "games_played": 6,
       "total_points": 139,
       "avg_points": 23.2,
@@ -28219,7 +28287,7 @@
         "2": 46,
         "1": 11
       },
-      "season_rank": 89,
+      "season_rank": 84,
       "games_played": 5,
       "total_points": 195,
       "avg_points": 39,
@@ -28309,7 +28377,7 @@
         "2": 39,
         "1": 39
       },
-      "season_rank": 120,
+      "season_rank": 113,
       "games_played": 4,
       "total_points": 134,
       "avg_points": 33.5,
@@ -28404,7 +28472,7 @@
         "2": 57,
         "1": 40
       },
-      "season_rank": 114,
+      "season_rank": 107,
       "games_played": 7,
       "total_points": 240,
       "avg_points": 34.3,
@@ -28497,7 +28565,7 @@
         "2": 63,
         "1": 60
       },
-      "season_rank": 142,
+      "season_rank": 135,
       "games_played": 6,
       "total_points": 182,
       "avg_points": 30.3,
@@ -28587,7 +28655,7 @@
         "5": 58,
         "4": 63
       },
-      "season_rank": 189,
+      "season_rank": 186,
       "games_played": 4,
       "total_points": 80,
       "avg_points": 20,
@@ -28680,7 +28748,7 @@
         "2": 55,
         "1": 28
       },
-      "season_rank": 166,
+      "season_rank": 160,
       "games_played": 6,
       "total_points": 151,
       "avg_points": 25.2,
@@ -28772,7 +28840,7 @@
         "2": 49,
         "1": 50
       },
-      "season_rank": 164,
+      "season_rank": 156,
       "games_played": 6,
       "total_points": 156,
       "avg_points": 26,
@@ -28859,7 +28927,7 @@
         "2": 60,
         "1": 54
       },
-      "season_rank": 187,
+      "season_rank": 184,
       "games_played": 2,
       "total_points": 41,
       "avg_points": 20.5,
@@ -28944,7 +29012,7 @@
         "4": 52,
         "3": 12
       },
-      "season_rank": 73,
+      "season_rank": 69,
       "games_played": 2,
       "total_points": 85,
       "avg_points": 42.5,
@@ -29000,7 +29068,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500108,
@@ -29027,7 +29095,7 @@
         "6": 60,
         "4": 42
       },
-      "season_rank": 178,
+      "season_rank": 175,
       "games_played": 2,
       "total_points": 45,
       "avg_points": 22.5,
@@ -29120,7 +29188,7 @@
         "2": 56,
         "1": 49
       },
-      "season_rank": 165,
+      "season_rank": 159,
       "games_played": 6,
       "total_points": 152,
       "avg_points": 25.3,
@@ -29203,7 +29271,7 @@
       "ranks": {
         "1": 72
       },
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 1,
       "total_points": 0,
       "avg_points": 0,
@@ -29281,7 +29349,7 @@
         "4": 39,
         "3": 38
       },
-      "season_rank": 110,
+      "season_rank": 103,
       "games_played": 2,
       "total_points": 70,
       "avg_points": 35,
@@ -29371,7 +29439,7 @@
         "2": 32,
         "1": 42
       },
-      "season_rank": 134,
+      "season_rank": 128,
       "games_played": 6,
       "total_points": 189,
       "avg_points": 31.5,
@@ -29465,7 +29533,7 @@
         "2": 29,
         "1": 38
       },
-      "season_rank": 67,
+      "season_rank": 63,
       "games_played": 6,
       "total_points": 266,
       "avg_points": 44.3,
@@ -29545,7 +29613,7 @@
       "ranks": {
         "1": 38
       },
-      "season_rank": 97,
+      "season_rank": 90,
       "games_played": 1,
       "total_points": 38,
       "avg_points": 38,
@@ -29633,7 +29701,7 @@
         "2": 52,
         "1": 70
       },
-      "season_rank": 186,
+      "season_rank": 183,
       "games_played": 5,
       "total_points": 104,
       "avg_points": 20.8,
@@ -29719,7 +29787,7 @@
         "3": 66,
         "2": 48
       },
-      "season_rank": 199,
+      "season_rank": 196,
       "games_played": 2,
       "total_points": 36,
       "avg_points": 18,
@@ -29790,7 +29858,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -29835,7 +29903,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 503322,
@@ -29864,7 +29932,7 @@
         "2": 60,
         "1": 56
       },
-      "season_rank": 190,
+      "season_rank": 187,
       "games_played": 3,
       "total_points": 59,
       "avg_points": 19.7,
@@ -29955,7 +30023,7 @@
         "2": 24,
         "1": 23
       },
-      "season_rank": 109,
+      "season_rank": 102,
       "games_played": 7,
       "total_points": 248,
       "avg_points": 35.4,
@@ -30035,7 +30103,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -30086,7 +30154,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100004373,
@@ -30123,7 +30191,7 @@
         "2": 24,
         "1": 38
       },
-      "season_rank": 33,
+      "season_rank": 28,
       "games_played": 7,
       "total_points": 361,
       "avg_points": 51.6,
@@ -30207,7 +30275,7 @@
         "3": 51,
         "1": 63
       },
-      "season_rank": 194,
+      "season_rank": 191,
       "games_played": 3,
       "total_points": 56,
       "avg_points": 18.7,
@@ -30300,7 +30368,7 @@
         "2": 57,
         "1": 42
       },
-      "season_rank": 159,
+      "season_rank": 151,
       "games_played": 7,
       "total_points": 191,
       "avg_points": 27.3,
@@ -30381,7 +30449,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -30456,7 +30524,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -30527,7 +30595,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -30605,7 +30673,7 @@
         "7": 51,
         "4": 38
       },
-      "season_rank": 157,
+      "season_rank": 149,
       "games_played": 2,
       "total_points": 55,
       "avg_points": 27.5,
@@ -30683,7 +30751,7 @@
       "ranks": {
         "1": 46
       },
-      "season_rank": 145,
+      "season_rank": 138,
       "games_played": 1,
       "total_points": 30,
       "avg_points": 30,
@@ -30767,7 +30835,7 @@
         "2": 70,
         "1": 46
       },
-      "season_rank": 199,
+      "season_rank": 196,
       "games_played": 6,
       "total_points": 108,
       "avg_points": 18,
@@ -30842,7 +30910,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -30930,7 +30998,7 @@
         "2": 55,
         "1": 53
       },
-      "season_rank": 192,
+      "season_rank": 189,
       "games_played": 4,
       "total_points": 77,
       "avg_points": 19.3,
@@ -31015,13 +31083,13 @@
         "2": 9
       },
       "ranks": {
-        "7": 63,
+        "7": 65,
         "6": 21,
         "5": 33,
         "3": 62,
         "2": 70
       },
-      "season_rank": 171,
+      "season_rank": 166,
       "games_played": 5,
       "total_points": 121,
       "avg_points": 24.2,
@@ -31092,7 +31160,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -31184,7 +31252,7 @@
         "2": 40,
         "1": 49
       },
-      "season_rank": 106,
+      "season_rank": 99,
       "games_played": 6,
       "total_points": 217,
       "avg_points": 36.2,
@@ -31280,7 +31348,7 @@
         "2": 20,
         "1": 41
       },
-      "season_rank": 48,
+      "season_rank": 44,
       "games_played": 7,
       "total_points": 336,
       "avg_points": 48,
@@ -31359,7 +31427,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -31438,7 +31506,7 @@
       "ranks": {
         "5": 72
       },
-      "season_rank": 220,
+      "season_rank": 217,
       "games_played": 1,
       "total_points": 1,
       "avg_points": 1,
@@ -31515,7 +31583,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -31574,7 +31642,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100006630,
@@ -31595,7 +31663,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -31665,7 +31733,7 @@
       "ranks": {
         "3": 55
       },
-      "season_rank": 193,
+      "season_rank": 190,
       "games_played": 1,
       "total_points": 19,
       "avg_points": 19,
@@ -31751,7 +31819,7 @@
         "2": 63,
         "1": 48
       },
-      "season_rank": 185,
+      "season_rank": 182,
       "games_played": 3,
       "total_points": 63,
       "avg_points": 21,
@@ -31830,7 +31898,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -31920,7 +31988,7 @@
         "2": 68,
         "1": 64
       },
-      "season_rank": 172,
+      "season_rank": 168,
       "games_played": 6,
       "total_points": 144,
       "avg_points": 24,
@@ -32009,7 +32077,7 @@
         "2": 58,
         "1": 45
       },
-      "season_rank": 184,
+      "season_rank": 181,
       "games_played": 7,
       "total_points": 148,
       "avg_points": 21.1,
@@ -32093,7 +32161,7 @@
       "ranks": {
         "1": 50
       },
-      "season_rank": 164,
+      "season_rank": 156,
       "games_played": 1,
       "total_points": 26,
       "avg_points": 26,
@@ -32166,7 +32234,7 @@
       "ranks": {
         "1": 60
       },
-      "season_rank": 206,
+      "season_rank": 203,
       "games_played": 1,
       "total_points": 16,
       "avg_points": 16,
@@ -32233,7 +32301,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -32302,7 +32370,7 @@
       "ranks": {
         "5": 55
       },
-      "season_rank": 185,
+      "season_rank": 182,
       "games_played": 1,
       "total_points": 21,
       "avg_points": 21,
@@ -32378,7 +32446,7 @@
         "6": 42,
         "4": 43
       },
-      "season_rank": 164,
+      "season_rank": 156,
       "games_played": 3,
       "total_points": 78,
       "avg_points": 26,
@@ -32461,7 +32529,7 @@
       "ranks": {
         "7": 57
       },
-      "season_rank": 209,
+      "season_rank": 207,
       "games_played": 1,
       "total_points": 14,
       "avg_points": 14,
@@ -32531,7 +32599,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -32586,7 +32654,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501235,
@@ -32607,7 +32675,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -32688,7 +32756,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -32761,7 +32829,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -32839,7 +32907,7 @@
       "ranks": {
         "7": 56
       },
-      "season_rank": 208,
+      "season_rank": 206,
       "games_played": 1,
       "total_points": 15,
       "avg_points": 15,
@@ -32916,7 +32984,7 @@
       "ranks": {
         "5": 34
       },
-      "season_rank": 75,
+      "season_rank": 71,
       "games_played": 1,
       "total_points": 42,
       "avg_points": 42,
@@ -32989,7 +33057,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -33076,7 +33144,7 @@
         "2": 26,
         "1": 47
       },
-      "season_rank": 131,
+      "season_rank": 125,
       "games_played": 7,
       "total_points": 223,
       "avg_points": 31.9,
@@ -33160,7 +33228,7 @@
         "2": 61,
         "1": 61
       },
-      "season_rank": 193,
+      "season_rank": 190,
       "games_played": 6,
       "total_points": 114,
       "avg_points": 19,
@@ -33239,7 +33307,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -33329,7 +33397,7 @@
         "4": 20,
         "3": 49
       },
-      "season_rank": 119,
+      "season_rank": 112,
       "games_played": 5,
       "total_points": 168,
       "avg_points": 33.6,
@@ -33413,7 +33481,7 @@
         "3": 53,
         "2": 57
       },
-      "season_rank": 186,
+      "season_rank": 183,
       "games_played": 4,
       "total_points": 83,
       "avg_points": 20.8,
@@ -33502,7 +33570,7 @@
         "2": 56,
         "1": 38
       },
-      "season_rank": 153,
+      "season_rank": 146,
       "games_played": 7,
       "total_points": 199,
       "avg_points": 28.4,
@@ -33577,7 +33645,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -33647,7 +33715,7 @@
         "5": 65,
         "4": 44
       },
-      "season_rank": 189,
+      "season_rank": 186,
       "games_played": 2,
       "total_points": 40,
       "avg_points": 20,
@@ -33719,7 +33787,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -33811,7 +33879,7 @@
         "2": 59,
         "1": 59
       },
-      "season_rank": 129,
+      "season_rank": 123,
       "games_played": 6,
       "total_points": 193,
       "avg_points": 32.2,
@@ -33894,7 +33962,7 @@
         "2": 30,
         "1": 42
       },
-      "season_rank": 90,
+      "season_rank": 85,
       "games_played": 5,
       "total_points": 194,
       "avg_points": 38.8,
@@ -33964,7 +34032,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34029,7 +34097,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34093,7 +34161,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34167,7 +34235,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34232,7 +34300,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34300,7 +34368,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34380,7 +34448,7 @@
         "2": 32,
         "1": 32
       },
-      "season_rank": 105,
+      "season_rank": 97,
       "games_played": 7,
       "total_points": 256,
       "avg_points": 36.6,
@@ -34471,7 +34539,7 @@
         "2": 67,
         "1": 33
       },
-      "season_rank": 166,
+      "season_rank": 160,
       "games_played": 6,
       "total_points": 151,
       "avg_points": 25.2,
@@ -34559,7 +34627,7 @@
         "2": 44,
         "1": 63
       },
-      "season_rank": 177,
+      "season_rank": 173,
       "games_played": 3,
       "total_points": 69,
       "avg_points": 23,
@@ -34648,7 +34716,7 @@
         "2": 57,
         "1": 61
       },
-      "season_rank": 73,
+      "season_rank": 69,
       "games_played": 6,
       "total_points": 255,
       "avg_points": 42.5,
@@ -34725,7 +34793,7 @@
       "ranks": {
         "6": 57
       },
-      "season_rank": 201,
+      "season_rank": 198,
       "games_played": 1,
       "total_points": 17,
       "avg_points": 17,
@@ -34792,7 +34860,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34872,7 +34940,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -34916,7 +34984,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100007144,
@@ -34937,7 +35005,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35002,7 +35070,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35066,7 +35134,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35125,7 +35193,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 507849,
@@ -35146,7 +35214,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35221,7 +35289,7 @@
         "4": 50,
         "3": 66
       },
-      "season_rank": 207,
+      "season_rank": 204,
       "games_played": 4,
       "total_points": 62,
       "avg_points": 15.5,
@@ -35269,7 +35337,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100007930,
@@ -35289,19 +35357,21 @@
         "7": 232000
       },
       "scores": {
+        "7": 0,
         "3": 3
       },
       "ranks": {
+        "7": 71,
         "3": 67
       },
-      "season_rank": 218,
-      "games_played": 1,
+      "season_rank": 216,
+      "games_played": 2,
       "total_points": 3,
-      "avg_points": 3,
+      "avg_points": 1.5,
       "high_score": 3,
-      "low_score": 3,
-      "last_3_avg": 3,
-      "last_5_avg": 3,
+      "low_score": 0,
+      "last_3_avg": 1.5,
+      "last_5_avg": 1.5,
       "selections": 4810,
       "selections_info": {
         "c": 0,
@@ -35322,9 +35392,9 @@
         "6": 17.5502,
         "7": 17.5851
       },
-      "rd_tog": "",
-      "tog": 7,
-      "career_avg": 19.6667,
+      "rd_tog": 0,
+      "tog": 4,
+      "career_avg": 18.4375,
       "career_avg_vs": {
         "500021": 19,
         "500012": 28.5,
@@ -35336,7 +35406,8 @@
         "500723": 19,
         "500001": 14,
         "500032": 13.5,
-        "500010": 20
+        "500010": 20,
+        "500013": 0
       },
       "last_3_proj_avg": 0
     },
@@ -35347,7 +35418,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500150,
@@ -35368,7 +35439,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35434,7 +35505,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35514,7 +35585,7 @@
         "3": 41,
         "2": 23
       },
-      "season_rank": 46,
+      "season_rank": 41,
       "games_played": 5,
       "total_points": 243,
       "avg_points": 48.6,
@@ -35604,7 +35675,7 @@
         "3": 36,
         "2": 55
       },
-      "season_rank": 78,
+      "season_rank": 74,
       "games_played": 5,
       "total_points": 207,
       "avg_points": 41.4,
@@ -35675,7 +35746,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35749,7 +35820,7 @@
       "ranks": {
         "5": 49
       },
-      "season_rank": 160,
+      "season_rank": 152,
       "games_played": 1,
       "total_points": 27,
       "avg_points": 27,
@@ -35814,7 +35885,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -35857,7 +35928,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501462,
@@ -35882,7 +35953,7 @@
       "ranks": {
         "4": 67
       },
-      "season_rank": 220,
+      "season_rank": 217,
       "games_played": 1,
       "total_points": 1,
       "avg_points": 1,
@@ -35960,7 +36031,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -36035,7 +36106,7 @@
         "3": 63,
         "2": 66
       },
-      "season_rank": 195,
+      "season_rank": 192,
       "games_played": 5,
       "total_points": 93,
       "avg_points": 18.6,
@@ -36083,7 +36154,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 500405,
@@ -36118,7 +36189,7 @@
         "2": 32,
         "1": 39
       },
-      "season_rank": 162,
+      "season_rank": 154,
       "games_played": 6,
       "total_points": 160,
       "avg_points": 26.7,
@@ -36198,7 +36269,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -36285,7 +36356,7 @@
         "2": 35,
         "1": 56
       },
-      "season_rank": 128,
+      "season_rank": 122,
       "games_played": 6,
       "total_points": 194,
       "avg_points": 32.3,
@@ -36364,7 +36435,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -36422,7 +36493,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 501179,
@@ -36457,7 +36528,7 @@
         "3": 35,
         "1": 60
       },
-      "season_rank": 114,
+      "season_rank": 107,
       "games_played": 6,
       "total_points": 206,
       "avg_points": 34.3,
@@ -36540,7 +36611,7 @@
         "3": 51,
         "2": 65
       },
-      "season_rank": 196,
+      "season_rank": 193,
       "games_played": 2,
       "total_points": 37,
       "avg_points": 18.5,
@@ -36620,7 +36691,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -36761,7 +36832,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -36841,7 +36912,7 @@
         "2": 48,
         "1": 42
       },
-      "season_rank": 123,
+      "season_rank": 116,
       "games_played": 4,
       "total_points": 132,
       "avg_points": 33,
@@ -36934,7 +37005,7 @@
         "2": 62,
         "1": 22
       },
-      "season_rank": 97,
+      "season_rank": 90,
       "games_played": 7,
       "total_points": 266,
       "avg_points": 38,
@@ -37011,7 +37082,7 @@
       "ranks": {
         "1": 59
       },
-      "season_rank": 201,
+      "season_rank": 198,
       "games_played": 1,
       "total_points": 17,
       "avg_points": 17,
@@ -37077,7 +37148,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -37155,7 +37226,7 @@
         "3": 47,
         "1": 57
       },
-      "season_rank": 193,
+      "season_rank": 190,
       "games_played": 4,
       "total_points": 76,
       "avg_points": 19,
@@ -37233,7 +37304,7 @@
       "ranks": {
         "1": 50
       },
-      "season_rank": 164,
+      "season_rank": 156,
       "games_played": 1,
       "total_points": 26,
       "avg_points": 26,
@@ -37308,7 +37379,7 @@
       "ranks": {
         "4": 38
       },
-      "season_rank": 110,
+      "season_rank": 103,
       "games_played": 1,
       "total_points": 35,
       "avg_points": 35,
@@ -37382,7 +37453,7 @@
       "ranks": {
         "2": 63
       },
-      "season_rank": 206,
+      "season_rank": 203,
       "games_played": 1,
       "total_points": 16,
       "avg_points": 16,
@@ -37447,7 +37518,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -37524,7 +37595,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -37611,7 +37682,7 @@
         "2": 36,
         "1": 12
       },
-      "season_rank": 79,
+      "season_rank": 75,
       "games_played": 6,
       "total_points": 248,
       "avg_points": 41.3,
@@ -37693,7 +37764,7 @@
         "4": 49,
         "1": 51
       },
-      "season_rank": 170,
+      "season_rank": 165,
       "games_played": 2,
       "total_points": 49,
       "avg_points": 24.5,
@@ -37771,7 +37842,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -37837,7 +37908,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -37884,7 +37955,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 506492,
@@ -37921,7 +37992,7 @@
         "2": 36,
         "1": 43
       },
-      "season_rank": 87,
+      "season_rank": 82,
       "games_played": 7,
       "total_points": 276,
       "avg_points": 39.4,
@@ -38011,7 +38082,7 @@
         "3": 51,
         "2": 42
       },
-      "season_rank": 158,
+      "season_rank": 150,
       "games_played": 5,
       "total_points": 137,
       "avg_points": 27.4,
@@ -38079,7 +38150,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -38139,7 +38210,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -38208,7 +38279,7 @@
       "ranks": {
         "7": 40
       },
-      "season_rank": 136,
+      "season_rank": 130,
       "games_played": 1,
       "total_points": 31,
       "avg_points": 31,
@@ -38277,7 +38348,7 @@
       "ranks": {
         "5": 68
       },
-      "season_rank": 215,
+      "season_rank": 212,
       "games_played": 1,
       "total_points": 8,
       "avg_points": 8,
@@ -38318,7 +38389,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 508341,
@@ -38340,7 +38411,7 @@
       "ranks": {
         "4": 51
       },
-      "season_rank": 179,
+      "season_rank": 176,
       "games_played": 1,
       "total_points": 22,
       "avg_points": 22,
@@ -38416,7 +38487,7 @@
         "6": 26,
         "5": 38
       },
-      "season_rank": 70,
+      "season_rank": 66,
       "games_played": 2,
       "total_points": 86,
       "avg_points": 43,
@@ -38507,7 +38578,7 @@
         "2": 73,
         "1": 64
       },
-      "season_rank": 180,
+      "season_rank": 177,
       "games_played": 6,
       "total_points": 131,
       "avg_points": 21.8,
@@ -38647,7 +38718,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -38707,7 +38778,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -38776,7 +38847,7 @@
         "3": 48,
         "2": 39
       },
-      "season_rank": 123,
+      "season_rank": 116,
       "games_played": 2,
       "total_points": 66,
       "avg_points": 33,
@@ -39038,7 +39109,7 @@
         "3": 56,
         "2": 72
       },
-      "season_rank": 200,
+      "season_rank": 197,
       "games_played": 5,
       "total_points": 88,
       "avg_points": 17.6,
@@ -39228,7 +39299,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -39339,7 +39410,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100000336,
@@ -39368,7 +39439,7 @@
         "2": 64,
         "1": 54
       },
-      "season_rank": 193,
+      "season_rank": 190,
       "games_played": 3,
       "total_points": 57,
       "avg_points": 19,
@@ -39441,7 +39512,7 @@
         "2": 56,
         "1": 41
       },
-      "season_rank": 150,
+      "season_rank": 143,
       "games_played": 2,
       "total_points": 58,
       "avg_points": 29,
@@ -39511,7 +39582,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -39570,19 +39641,21 @@
         "7": 230000
       },
       "scores": {
+        "7": 4,
         "6": 6
       },
       "ranks": {
+        "7": 67,
         "6": 65
       },
-      "season_rank": 216,
-      "games_played": 1,
-      "total_points": 6,
-      "avg_points": 6,
+      "season_rank": 214,
+      "games_played": 2,
+      "total_points": 10,
+      "avg_points": 5,
       "high_score": 6,
-      "low_score": 6,
-      "last_3_avg": 6,
-      "last_5_avg": 6,
+      "low_score": 4,
+      "last_3_avg": 5,
+      "last_5_avg": 5,
       "selections": 1202,
       "selections_info": {
         "c": 0,
@@ -39598,11 +39671,12 @@
         "6": 17.3999,
         "7": 16.4499
       },
-      "rd_tog": "",
-      "tog": 33,
-      "career_avg": 6,
+      "rd_tog": 11,
+      "tog": 22,
+      "career_avg": 5,
       "career_avg_vs": {
-        "500022": 6
+        "500022": 6,
+        "500013": 4
       },
       "last_3_proj_avg": 0
     },
@@ -39615,7 +39689,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100003896,
@@ -39648,7 +39722,7 @@
         "2": 60,
         "1": 47
       },
-      "season_rank": 122,
+      "season_rank": 115,
       "games_played": 5,
       "total_points": 166,
       "avg_points": 33.2,
@@ -39735,7 +39809,7 @@
         "2": 49,
         "1": 55
       },
-      "season_rank": 155,
+      "season_rank": 147,
       "games_played": 6,
       "total_points": 168,
       "avg_points": 28,
@@ -39810,7 +39884,7 @@
       "ranks": {
         "2": 65
       },
-      "season_rank": 209,
+      "season_rank": 207,
       "games_played": 1,
       "total_points": 14,
       "avg_points": 14,
@@ -39924,7 +39998,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100004256,
@@ -40110,7 +40184,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100006112,
@@ -40269,7 +40343,7 @@
         "2": 35,
         "1": 34
       },
-      "season_rank": 123,
+      "season_rank": 116,
       "games_played": 6,
       "total_points": 198,
       "avg_points": 33,
@@ -40348,7 +40422,7 @@
         "5": 30,
         "4": 27
       },
-      "season_rank": 23,
+      "season_rank": 19,
       "games_played": 4,
       "total_points": 218,
       "avg_points": 54.5,
@@ -40489,7 +40563,7 @@
         "2": 66,
         "1": 62
       },
-      "season_rank": 204,
+      "season_rank": 201,
       "games_played": 5,
       "total_points": 82,
       "avg_points": 16.4,
@@ -40598,7 +40672,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100006510,
@@ -40743,7 +40817,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -40813,7 +40887,7 @@
       "ranks": {
         "1": 52
       },
-      "season_rank": 172,
+      "season_rank": 168,
       "games_played": 1,
       "total_points": 24,
       "avg_points": 24,
@@ -40898,7 +40972,7 @@
         "2": 46,
         "1": 27
       },
-      "season_rank": 80,
+      "season_rank": 76,
       "games_played": 5,
       "total_points": 206,
       "avg_points": 41.2,
@@ -40969,16 +41043,20 @@
         "6": 450000,
         "7": 450000
       },
-      "scores": {},
-      "ranks": {},
-      "season_rank": 221,
-      "games_played": 0,
-      "total_points": 0,
-      "avg_points": 0,
-      "high_score": 0,
-      "low_score": 0,
-      "last_3_avg": 0,
-      "last_5_avg": 0,
+      "scores": {
+        "7": 16
+      },
+      "ranks": {
+        "7": 55
+      },
+      "season_rank": 203,
+      "games_played": 1,
+      "total_points": 16,
+      "avg_points": 16,
+      "high_score": 16,
+      "low_score": 16,
+      "last_3_avg": 16,
+      "last_5_avg": 16,
       "selections": 23,
       "selections_info": {
         "c": 0,
@@ -40996,16 +41074,17 @@
         "6": 34.0423,
         "7": 34.11
       },
-      "rd_tog": "",
-      "tog": 0,
-      "career_avg": 32.6667,
+      "rd_tog": 11,
+      "tog": 11,
+      "career_avg": 30.2857,
       "career_avg_vs": {
         "500014": 31,
         "500021": 43,
         "500010": 22,
         "500022": 39,
         "500003": 36,
-        "500011": 25
+        "500011": 25,
+        "500013": 16
       },
       "last_3_proj_avg": 0
     },
@@ -41018,7 +41097,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100006888,
@@ -41047,7 +41126,7 @@
         "5": 37,
         "4": 59
       },
-      "season_rank": 181,
+      "season_rank": 178,
       "games_played": 3,
       "total_points": 65,
       "avg_points": 21.7,
@@ -41177,7 +41256,7 @@
       "ranks": {
         "6": 49
       },
-      "season_rank": 167,
+      "season_rank": 162,
       "games_played": 1,
       "total_points": 25,
       "avg_points": 25,
@@ -41337,7 +41416,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100007686,
@@ -41368,7 +41447,7 @@
         "4": 44,
         "3": 54
       },
-      "season_rank": 174,
+      "season_rank": 170,
       "games_played": 4,
       "total_points": 94,
       "avg_points": 23.5,
@@ -41442,7 +41521,7 @@
         "2": 54,
         "1": 37
       },
-      "season_rank": 130,
+      "season_rank": 124,
       "games_played": 2,
       "total_points": 64,
       "avg_points": 32,
@@ -41507,7 +41586,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -41577,7 +41656,7 @@
       "ranks": {
         "7": 60
       },
-      "season_rank": 212,
+      "season_rank": 210,
       "games_played": 1,
       "total_points": 11,
       "avg_points": 11,
@@ -41653,7 +41732,7 @@
         "2": 64,
         "1": 35
       },
-      "season_rank": 143,
+      "season_rank": 136,
       "games_played": 5,
       "total_points": 151,
       "avg_points": 30.2,
@@ -41729,7 +41808,7 @@
         "5": 29,
         "3": 55
       },
-      "season_rank": 165,
+      "season_rank": 159,
       "games_played": 3,
       "total_points": 76,
       "avg_points": 25.3,
@@ -41811,7 +41890,7 @@
         "2": 41,
         "1": 16
       },
-      "season_rank": 88,
+      "season_rank": 83,
       "games_played": 7,
       "total_points": 275,
       "avg_points": 39.3,
@@ -41879,7 +41958,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -42011,7 +42090,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -42145,7 +42224,7 @@
         "4": 33,
         "3": 46
       },
-      "season_rank": 145,
+      "season_rank": 138,
       "games_played": 3,
       "total_points": 90,
       "avg_points": 30,
@@ -42217,6 +42296,7 @@
         "7": 271000
       },
       "scores": {
+        "7": 0,
         "6": 5,
         "5": 35,
         "4": 16,
@@ -42225,6 +42305,7 @@
         "1": 19
       },
       "ranks": {
+        "7": 71,
         "6": 66,
         "5": 41,
         "4": 57,
@@ -42232,14 +42313,14 @@
         "2": 68,
         "1": 57
       },
-      "season_rank": 187,
-      "games_played": 6,
+      "season_rank": 197,
+      "games_played": 7,
       "total_points": 123,
-      "avg_points": 20.5,
+      "avg_points": 17.6,
       "high_score": 37,
-      "low_score": 5,
-      "last_3_avg": 18.7,
-      "last_5_avg": 20.8,
+      "low_score": 0,
+      "last_3_avg": 13.3,
+      "last_5_avg": 18.6,
       "selections": 44277,
       "selections_info": {
         "c": 0,
@@ -42260,16 +42341,17 @@
         "6": 20.752,
         "7": 20.5307
       },
-      "rd_tog": "",
-      "tog": 22,
-      "career_avg": 20.5,
+      "rd_tog": 0,
+      "tog": 19,
+      "career_avg": 17.5714,
       "career_avg_vs": {
         "500032": 19,
         "500011": 11,
         "500002": 37,
         "500012": 16,
         "500028": 35,
-        "500031": 5
+        "500031": 5,
+        "500004": 0
       },
       "last_3_proj_avg": 0
     },
@@ -42282,7 +42364,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100009453,
@@ -42300,21 +42382,23 @@
         "7": 230000
       },
       "scores": {
+        "7": 0,
         "6": 10,
         "5": 11
       },
       "ranks": {
+        "7": 71,
         "6": 62,
         "5": 65
       },
       "season_rank": 213,
-      "games_played": 2,
+      "games_played": 3,
       "total_points": 21,
-      "avg_points": 10.5,
+      "avg_points": 7,
       "high_score": 11,
-      "low_score": 10,
-      "last_3_avg": 10.5,
-      "last_5_avg": 10.5,
+      "low_score": 0,
+      "last_3_avg": 7,
+      "last_5_avg": 7,
       "selections": 842,
       "selections_info": {
         "c": 0,
@@ -42333,13 +42417,14 @@
         "6": 18.2376,
         "7": 17.0686
       },
-      "rd_tog": "",
-      "tog": 11,
-      "career_avg": 11,
+      "rd_tog": 0,
+      "tog": 7,
+      "career_avg": 8.25,
       "career_avg_vs": {
         "500014": 12,
         "500723": 11,
-        "500022": 10
+        "500022": 10,
+        "500013": 0
       },
       "last_3_proj_avg": 0
     },
@@ -42352,7 +42437,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100010520,
@@ -42372,7 +42457,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -42436,6 +42521,7 @@
         "7": 655000
       },
       "scores": {
+        "7": 11,
         "6": 48,
         "5": 74,
         "4": 42,
@@ -42443,20 +42529,21 @@
         "2": 82
       },
       "ranks": {
+        "7": 60,
         "6": 26,
         "5": 7,
         "4": 31,
         "3": 28,
         "2": 3
       },
-      "season_rank": 13,
-      "games_played": 5,
-      "total_points": 293,
-      "avg_points": 58.6,
+      "season_rank": 31,
+      "games_played": 6,
+      "total_points": 304,
+      "avg_points": 50.7,
       "high_score": 82,
-      "low_score": 42,
-      "last_3_avg": 54.7,
-      "last_5_avg": 58.6,
+      "low_score": 11,
+      "last_3_avg": 44.3,
+      "last_5_avg": 44.4,
       "selections": 35205,
       "selections_info": {
         "c": 0.09,
@@ -42477,15 +42564,16 @@
         "6": 47.6583,
         "7": 49.7104
       },
-      "rd_tog": "",
-      "tog": 74,
-      "career_avg": 58.6,
+      "rd_tog": 11,
+      "tog": 63,
+      "career_avg": 50.6667,
       "career_avg_vs": {
         "500011": 82,
         "500002": 47,
         "500012": 42,
         "500028": 74,
-        "500031": 48
+        "500031": 48,
+        "500004": 11
       },
       "last_3_proj_avg": 0
     },
@@ -42496,7 +42584,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100011191,
@@ -42533,7 +42621,7 @@
         "2": 30,
         "1": 41
       },
-      "season_rank": 74,
+      "season_rank": 70,
       "games_played": 7,
       "total_points": 296,
       "avg_points": 42.3,
@@ -42733,7 +42821,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -43163,7 +43251,7 @@
       },
       "scores": {},
       "ranks": {},
-      "season_rank": 221,
+      "season_rank": 218,
       "games_played": 0,
       "total_points": 0,
       "avg_points": 0,
@@ -43263,7 +43351,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100013671,
@@ -43565,7 +43653,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100015584,
@@ -43689,7 +43777,7 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
-    "locked": 0
+    "locked": 1
   },
   {
     "id": 100018538,
@@ -43771,7 +43859,7 @@
       "ranks": {
         "6": 53
       },
-      "season_rank": 185,
+      "season_rank": 182,
       "games_played": 1,
       "total_points": 21,
       "avg_points": 21,
@@ -43838,7 +43926,7 @@
         "6": 43,
         "5": 71
       },
-      "season_rank": 199,
+      "season_rank": 196,
       "games_played": 2,
       "total_points": 36,
       "avg_points": 18,
