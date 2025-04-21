@@ -10159,7 +10159,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 540000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 567000,
@@ -33261,7 +33261,7 @@
     "last_name": "Hunt",
     "squad_id": 500023,
     "cost": 248000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 275000,
@@ -35860,7 +35860,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 259000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
