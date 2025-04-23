@@ -12009,7 +12009,7 @@
         "res": 6.08
       },
       "owned_by": 20.18,
-      "adp": 106,
+      "adp": 107,
       "proj_avg": 40.6,
       "wpr": 51.0965,
       "round_wpr": {
@@ -12250,7 +12250,7 @@
     "last_name": "Riki",
     "squad_id": 500011,
     "cost": 605000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 541000,
@@ -15149,7 +15149,7 @@
     "last_name": "Madden",
     "squad_id": 500011,
     "cost": 450000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -20233,7 +20233,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 441000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -27391,7 +27391,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -32186,7 +32186,7 @@
         "res": 13.3
       },
       "owned_by": 41,
-      "adp": 148,
+      "adp": 147,
       "proj_avg": 23.9,
       "wpr": 42.7161,
       "round_wpr": {
@@ -33133,7 +33133,7 @@
     "last_name": "Te Kura",
     "squad_id": 500011,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -39210,7 +39210,7 @@
     "last_name": "Hopoi",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -42280,7 +42280,7 @@
     "last_name": "Smith",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -43031,7 +43031,7 @@
         "res": 8.58
       },
       "owned_by": 42.93,
-      "adp": 147,
+      "adp": 148,
       "proj_avg": 0,
       "wpr": 33.7743,
       "round_wpr": {
@@ -43695,7 +43695,7 @@
         "res": 1.89
       },
       "owned_by": 13.98,
-      "adp": 107,
+      "adp": 106,
       "proj_avg": 0,
       "wpr": 50.4495,
       "round_wpr": {
