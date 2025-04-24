@@ -15794,7 +15794,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 493000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 502000,
@@ -20142,7 +20142,7 @@
     "last_name": "Cogger",
     "squad_id": 500003,
     "cost": 426000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 453000,
@@ -21348,7 +21348,7 @@
         "res": 3.95
       },
       "owned_by": 16,
-      "adp": 147,
+      "adp": 148,
       "proj_avg": 33,
       "wpr": 39.5955,
       "round_wpr": {
@@ -24672,7 +24672,7 @@
         "res": 1.19
       },
       "owned_by": 4.83,
-      "adp": 221,
+      "adp": 222,
       "proj_avg": 30.7,
       "wpr": 43.0198,
       "round_wpr": {
@@ -26013,7 +26013,7 @@
         "res": 3.44
       },
       "owned_by": 28.49,
-      "adp": 222,
+      "adp": 221,
       "proj_avg": 30,
       "wpr": 34.934,
       "round_wpr": {
@@ -41263,7 +41263,7 @@
     "last_name": "Bryan",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -43031,7 +43031,7 @@
         "res": 8.76
       },
       "owned_by": 42.74,
-      "adp": 148,
+      "adp": 147,
       "proj_avg": 0,
       "wpr": 33.7743,
       "round_wpr": {
