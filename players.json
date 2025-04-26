@@ -3034,7 +3034,7 @@
     "last_name": "Plath",
     "squad_id": 500723,
     "cost": 652000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 695000,
@@ -3569,7 +3569,7 @@
         "res": 0.35
       },
       "owned_by": 2.51,
-      "adp": 43,
+      "adp": 42,
       "proj_avg": 51,
       "wpr": 34.2593,
       "round_wpr": {
@@ -5037,7 +5037,7 @@
         "res": 0.22
       },
       "owned_by": 1.97,
-      "adp": 42,
+      "adp": 43,
       "proj_avg": 48.9,
       "wpr": 52.8881,
       "round_wpr": {
@@ -23463,7 +23463,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 404000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -28714,7 +28714,7 @@
     "last_name": "Saulo",
     "squad_id": 500013,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 377000,
@@ -29883,7 +29883,7 @@
     "last_name": "Tupou",
     "squad_id": 500723,
     "cost": 341000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 362000,
@@ -29970,7 +29970,7 @@
     "last_name": "Mooney",
     "squad_id": 500013,
     "cost": 419000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 361000,
@@ -30593,7 +30593,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 453000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -32637,7 +32637,7 @@
     "last_name": "Levi",
     "squad_id": 500013,
     "cost": 314000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 314000,
@@ -34682,7 +34682,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 347000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
