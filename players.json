@@ -7394,7 +7394,7 @@
     "last_name": "Wilton",
     "squad_id": 500028,
     "cost": 597000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 598000,
@@ -10241,7 +10241,7 @@
         "res": 0.14
       },
       "owned_by": 2.34,
-      "adp": 104,
+      "adp": 105,
       "proj_avg": 42.6,
       "wpr": 47.4076,
       "round_wpr": {
@@ -14190,7 +14190,7 @@
         "res": 0.22
       },
       "owned_by": 0.91,
-      "adp": 168,
+      "adp": 169,
       "proj_avg": 38.6,
       "wpr": 26.1443,
       "round_wpr": {
@@ -21256,7 +21256,7 @@
         "res": 0.03
       },
       "owned_by": 0.12,
-      "adp": 272,
+      "adp": 273,
       "proj_avg": 33.3,
       "wpr": 31.9207,
       "round_wpr": {
@@ -21875,7 +21875,7 @@
         "res": 0.08
       },
       "owned_by": 0.22,
-      "adp": 268,
+      "adp": 269,
       "proj_avg": 32.9,
       "wpr": 28.469,
       "round_wpr": {
@@ -22427,7 +22427,7 @@
         "res": 0.05
       },
       "owned_by": 0.36,
-      "adp": 273,
+      "adp": 272,
       "proj_avg": 32.3,
       "wpr": 34.6005,
       "round_wpr": {
@@ -24965,7 +24965,7 @@
         "res": 0.36
       },
       "owned_by": 3.06,
-      "adp": 269,
+      "adp": 268,
       "proj_avg": 30.7,
       "wpr": 35.5226,
       "round_wpr": {
@@ -31225,7 +31225,7 @@
         "res": 3.54
       },
       "owned_by": 13.22,
-      "adp": 169,
+      "adp": 168,
       "proj_avg": 25.8,
       "wpr": 47.911,
       "round_wpr": {
@@ -32871,7 +32871,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 296000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 303000,
@@ -34091,7 +34091,7 @@
     "last_name": "Burns",
     "squad_id": 500028,
     "cost": 321000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -35175,7 +35175,7 @@
     "last_name": "Laulilii",
     "squad_id": 500023,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -37013,7 +37013,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 259000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38314,7 +38314,7 @@
     "last_name": "Hope",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -39420,7 +39420,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43990,7 +43990,7 @@
         "res": 2.02
       },
       "owned_by": 13.79,
-      "adp": 105,
+      "adp": 104,
       "proj_avg": 0,
       "wpr": 50.4495,
       "round_wpr": {
@@ -45191,6 +45191,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100017017,
+    "first_name": "Tevita",
+    "last_name": "Naufahu",
+    "squad_id": 500723,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "8": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.4109,
+      "round_wpr": {
+        "8": 17.4109
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100018435,
