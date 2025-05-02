@@ -11832,7 +11832,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 403000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -16864,7 +16864,7 @@
     "last_name": "Boyd",
     "squad_id": 500032,
     "cost": 497000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 497000,
@@ -27039,7 +27039,7 @@
     "last_name": "Lawton",
     "squad_id": 500012,
     "cost": 362000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -32541,7 +32541,7 @@
     "last_name": "Mikaele",
     "squad_id": 500012,
     "cost": 336000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 336000,
@@ -32617,7 +32617,7 @@
     "last_name": "Kosi",
     "squad_id": 500032,
     "cost": 318000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -40494,7 +40494,7 @@
     "last_name": "O'Donnell",
     "squad_id": 500012,
     "cost": 317000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -46478,7 +46478,7 @@
     "last_name": "Ieremia-Toeava",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
