@@ -32590,7 +32590,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500723,
     "cost": 435000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 450000,
@@ -32782,7 +32782,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 298000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 347000,
@@ -41736,7 +41736,7 @@
     "last_name": "Graham",
     "squad_id": 500723,
     "cost": 350000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -43343,7 +43343,7 @@
     "last_name": "Mataele",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
