@@ -10506,7 +10506,7 @@
     "last_name": "Martin",
     "squad_id": 500032,
     "cost": 531000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 576000,
@@ -15706,7 +15706,7 @@
     "last_name": "Tuivasa-Sheck",
     "squad_id": 500032,
     "cost": 509000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 510000,
@@ -34440,7 +34440,7 @@
     "last_name": "Ilias",
     "squad_id": 500022,
     "cost": 452000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -43120,7 +43120,7 @@
     "last_name": "Healey",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -47706,7 +47706,7 @@
     "last_name": "Latu",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -48110,7 +48110,7 @@
     "last_name": "Stowers-Smith",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "7": 230000,
@@ -48851,7 +48851,7 @@
     "last_name": "Lawson",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "9": 230000,
