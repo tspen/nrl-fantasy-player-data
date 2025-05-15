@@ -17573,7 +17573,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 493000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 502000,
@@ -22403,7 +22403,7 @@
     "last_name": "Cogger",
     "squad_id": 500003,
     "cost": 485000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 453000,
@@ -23403,7 +23403,7 @@
     "last_name": "Hawkins",
     "squad_id": 500031,
     "cost": 421000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 444000,
@@ -30036,7 +30036,7 @@
     "last_name": "Hands",
     "squad_id": 500031,
     "cost": 337000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 389000,
@@ -39612,7 +39612,7 @@
     "last_name": "Arthur",
     "squad_id": 500003,
     "cost": 247000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -42524,7 +42524,7 @@
     "last_name": "Tago",
     "squad_id": 500031,
     "cost": 274000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 268000,
@@ -47270,7 +47270,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 347000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 350000,
