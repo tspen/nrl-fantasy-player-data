@@ -10226,7 +10226,7 @@
     "last_name": "Best",
     "squad_id": 500003,
     "cost": 598000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 582000,
@@ -11559,7 +11559,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 540000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 567000,
@@ -35269,7 +35269,7 @@
     "last_name": "Hetherington",
     "squad_id": 500003,
     "cost": 295000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 328000,
@@ -39414,7 +39414,7 @@
     "last_name": "Doorey",
     "squad_id": 500031,
     "cost": 256000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
