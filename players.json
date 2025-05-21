@@ -9312,7 +9312,7 @@
         "res": 0.06
       },
       "owned_by": 0.55,
-      "adp": 98,
+      "adp": 99,
       "proj_avg": 44.2,
       "wpr": 48.135,
       "round_wpr": {
@@ -12507,7 +12507,7 @@
         "res": 0.44
       },
       "owned_by": 9.27,
-      "adp": 99,
+      "adp": 98,
       "proj_avg": 41.4,
       "wpr": 52.2092,
       "round_wpr": {
@@ -26736,7 +26736,7 @@
     "last_name": "Bromwich",
     "squad_id": 500723,
     "cost": 368000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -41217,7 +41217,7 @@
     "last_name": "Maiu'u",
     "squad_id": 500010,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -42627,7 +42627,7 @@
     "last_name": "Hutchison",
     "squad_id": 500010,
     "cost": 438000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "9": 438000,
@@ -50892,7 +50892,7 @@
     "last_name": "Woods",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -52053,7 +52053,7 @@
     "last_name": "Naufahu",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
