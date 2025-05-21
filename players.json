@@ -42781,6 +42781,71 @@
     "locked": 0
   },
   {
+    "id": 500600,
+    "first_name": "Matthew",
+    "last_name": "Lodge",
+    "squad_id": 500002,
+    "cost": 350000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "12": 350000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 258,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 27.1369,
+      "round_wpr": {
+        "12": 27.1369
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 39.1207,
+      "career_avg_vs": {
+        "500014": 49.25,
+        "500010": 39.875,
+        "500013": 36.5,
+        "500028": 40.5455,
+        "500004": 39.9,
+        "500001": 32.5,
+        "500003": 41,
+        "500012": 49.625,
+        "500005": 38.5455,
+        "500002": 36.4286,
+        "500022": 32,
+        "500023": 40.5,
+        "500032": 45.4,
+        "500021": 34.1429,
+        "500031": 35.4286,
+        "500011": 31,
+        "500723": 29.5
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500889,
     "first_name": "Zach",
     "last_name": "Dockar-Clay",
@@ -50172,6 +50237,53 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 100009111,
+    "first_name": "Jack",
+    "last_name": "Underhill",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "12": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8328,
+      "round_wpr": {
+        "12": 17.8328
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
