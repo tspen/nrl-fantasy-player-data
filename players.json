@@ -32824,7 +32824,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500002,
     "cost": 375000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 375000,
@@ -40756,7 +40756,7 @@
     "last_name": "Doorey",
     "squad_id": 500031,
     "cost": 256000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -46847,7 +46847,7 @@
     "last_name": "Volkman",
     "squad_id": 500031,
     "cost": 378000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 374000,
@@ -47574,7 +47574,7 @@
     "last_name": "Papalii",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
