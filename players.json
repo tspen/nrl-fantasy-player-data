@@ -1852,7 +1852,7 @@
     "last_name": "Luke",
     "squad_id": 500014,
     "cost": 350000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 350000,
@@ -27441,7 +27441,7 @@
     "last_name": "Trbojevic",
     "squad_id": 500002,
     "cost": 546000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 415000,
@@ -32824,7 +32824,7 @@
     "last_name": "Chee Kam",
     "squad_id": 500002,
     "cost": 375000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 375000,
@@ -45859,7 +45859,7 @@
     "last_name": "Navale",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "5": 230000,
