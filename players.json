@@ -13137,7 +13137,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 403000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -20877,7 +20877,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 404000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -32783,7 +32783,7 @@
     "last_name": "Saulo",
     "squad_id": 500013,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 377000,
@@ -34201,7 +34201,7 @@
     "last_name": "Mooney",
     "squad_id": 500013,
     "cost": 419000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 361000,
@@ -35200,7 +35200,7 @@
     "last_name": "Stewart",
     "squad_id": 500013,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -39275,7 +39275,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 256000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 256000,
@@ -46222,7 +46222,7 @@
     "last_name": "Healey",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -51947,7 +51947,7 @@
     "last_name": "Stowers-Smith",
     "squad_id": 500032,
     "cost": 237000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "7": 230000,
