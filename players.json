@@ -12368,7 +12368,7 @@
     "last_name": "Thompson",
     "squad_id": 500003,
     "cost": 618000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 554000,
@@ -45510,7 +45510,7 @@
     "last_name": "Dias",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 250000
@@ -47151,7 +47151,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 377000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47848,7 +47848,7 @@
     "last_name": "Bryan",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -48251,7 +48251,7 @@
     "last_name": "Hassett",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -48688,7 +48688,7 @@
     "last_name": "McLean",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
