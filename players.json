@@ -2096,7 +2096,7 @@
     "last_name": "Grant",
     "squad_id": 500021,
     "cost": 625000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 730000,
@@ -21024,7 +21024,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 535000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 482000,
@@ -24263,7 +24263,7 @@
     "last_name": "Coates",
     "squad_id": 500021,
     "cost": 531000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -26898,7 +26898,7 @@
     "last_name": "Howarth",
     "squad_id": 500021,
     "cost": 453000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -28459,7 +28459,7 @@
     "last_name": "De Groot",
     "squad_id": 500004,
     "cost": 320000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 300000,
@@ -38775,7 +38775,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 284000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 291000,
@@ -39701,7 +39701,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 265000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -42668,7 +42668,7 @@
     "last_name": "Fa'asuamaleaui",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43394,7 +43394,7 @@
     "last_name": "Seve",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -46440,7 +46440,7 @@
     "last_name": "Mullany",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -50176,7 +50176,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 420000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "4": 450000,
@@ -52270,7 +52270,7 @@
     "last_name": "Patston",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "11": 230000,
