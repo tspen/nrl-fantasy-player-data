@@ -27000,7 +27000,7 @@
     "last_name": "Sipley",
     "squad_id": 500002,
     "cost": 399000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 423000,
@@ -27313,7 +27313,7 @@
     "last_name": "Saab",
     "squad_id": 500002,
     "cost": 368000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 422000,
@@ -30790,7 +30790,7 @@
     "last_name": "Baker",
     "squad_id": 500011,
     "cost": 364000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 398000,
@@ -33051,7 +33051,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 311000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 382000,
@@ -36817,7 +36817,7 @@
     "last_name": "Mozer",
     "squad_id": 500011,
     "cost": 337000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 337000,
@@ -37481,7 +37481,7 @@
     "last_name": "Faulalo",
     "squad_id": 500002,
     "cost": 332000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -47022,7 +47022,7 @@
     "last_name": "Navale",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -48868,6 +48868,53 @@
       6
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100004674,
+    "first_name": "Charlie",
+    "last_name": "Murray",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "13": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.9487,
+      "round_wpr": {
+        "13": 17.9487
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
