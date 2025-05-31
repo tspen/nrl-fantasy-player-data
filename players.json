@@ -4010,7 +4010,7 @@
     "last_name": "Galvin",
     "squad_id": 500010,
     "cost": 592000,
-    "status": "not-playing",
+    "status": "uncertain",
     "stats": {
       "prices": {
         "1": 695000,
@@ -4113,7 +4113,7 @@
     "original_positions": [],
     "original_squad_id": 500023,
     "transfer_round": 13,
-    "is_bye": 0,
+    "is_bye": 1,
     "locked": 0
   },
   {
