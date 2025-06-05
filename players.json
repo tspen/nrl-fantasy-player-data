@@ -21884,7 +21884,7 @@
     "last_name": "Marzhew",
     "squad_id": 500003,
     "cost": 620000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -49160,7 +49160,7 @@
     "last_name": "Arthur",
     "squad_id": 500002,
     "cost": 312000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -51984,7 +51984,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 359000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 350000,
