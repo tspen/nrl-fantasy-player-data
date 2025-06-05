@@ -16509,7 +16509,7 @@
     "last_name": "Clifford",
     "squad_id": 500012,
     "cost": 550000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -31609,7 +31609,7 @@
     "last_name": "Lawton",
     "squad_id": 500012,
     "cost": 362000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -32459,7 +32459,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 410000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -40881,7 +40881,7 @@
     "last_name": "Chan",
     "squad_id": 500021,
     "cost": 240000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -47463,7 +47463,7 @@
     "last_name": "O'Donnell",
     "squad_id": 500012,
     "cost": 249000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47730,7 +47730,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 263000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 250000,
@@ -54673,7 +54673,7 @@
     "last_name": "Lahrs",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
