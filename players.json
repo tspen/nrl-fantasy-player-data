@@ -4354,7 +4354,7 @@
     "last_name": "Lisati",
     "squad_id": 500021,
     "cost": 350000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -8087,7 +8087,7 @@
     "last_name": "Burns",
     "squad_id": 500012,
     "cost": 494000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -25783,7 +25783,7 @@
     "last_name": "Faalogo",
     "squad_id": 500021,
     "cost": 451000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 443000,
@@ -35640,7 +35640,7 @@
     "last_name": "Garlick",
     "squad_id": 500021,
     "cost": 401000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 350000,
