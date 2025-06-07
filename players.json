@@ -13211,7 +13211,7 @@
     "last_name": "Egan",
     "squad_id": 500032,
     "cost": 620000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 553000,
@@ -41588,7 +41588,7 @@
     "last_name": "Ale",
     "squad_id": 500032,
     "cost": 256000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 256000,
@@ -48981,7 +48981,7 @@
     "last_name": "Healey",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
