@@ -13802,7 +13802,7 @@
     "last_name": "Garner",
     "squad_id": 500014,
     "cost": 431000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 547000,
@@ -18813,7 +18813,7 @@
     "last_name": "Alamoti",
     "squad_id": 500014,
     "cost": 498000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 505000,
@@ -25367,7 +25367,7 @@
         "res": 0.01
       },
       "owned_by": 0.05,
-      "adp": 262,
+      "adp": 261,
       "proj_avg": 33.6,
       "wpr": 35.3014,
       "round_wpr": {
@@ -28625,7 +28625,7 @@
         "res": 0.2
       },
       "owned_by": 0.79,
-      "adp": 261,
+      "adp": 262,
       "proj_avg": 31.4,
       "wpr": 30.8479,
       "round_wpr": {
@@ -31229,7 +31229,7 @@
     "last_name": "Laurie",
     "squad_id": 500014,
     "cost": 461000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 402000,
@@ -38559,7 +38559,7 @@
     "last_name": "Staines",
     "squad_id": 500023,
     "cost": 410000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 330000,
@@ -40767,7 +40767,7 @@
     "last_name": "Naden",
     "squad_id": 500023,
     "cost": 255000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 277000,
@@ -48134,7 +48134,7 @@
     "last_name": "Toelau",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "4": 250000,
