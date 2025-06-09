@@ -12766,7 +12766,7 @@
     "last_name": "Matterson",
     "squad_id": 500031,
     "cost": 455000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 567000,
@@ -33593,7 +33593,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 331000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -50774,7 +50774,7 @@
     "last_name": "Papalii",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
