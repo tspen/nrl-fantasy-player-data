@@ -45762,9 +45762,9 @@
     "id": 100003904,
     "first_name": "Mason",
     "last_name": "Teague",
-    "squad_id": 500723,
+    "squad_id": 500003,
     "cost": 250000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -45839,8 +45839,8 @@
       2
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500723,
+    "transfer_round": 7,
     "is_bye": 0,
     "locked": 0
   },
@@ -46123,7 +46123,7 @@
     "id": 100015074,
     "first_name": "Sebastian",
     "last_name": "Su'a",
-    "squad_id": 500003,
+    "squad_id": 500723,
     "cost": 250000,
     "status": "not-playing",
     "stats": {
@@ -46194,8 +46194,8 @@
       2
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500003,
+    "transfer_round": 7,
     "is_bye": 0,
     "locked": 0
   },
