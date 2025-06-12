@@ -17335,7 +17335,7 @@
     "last_name": "Rudolf",
     "squad_id": 500028,
     "cost": 419000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 525000,
@@ -26087,7 +26087,7 @@
     "last_name": "Atkinson",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 449000,
@@ -39964,7 +39964,7 @@
     "last_name": "Ilias",
     "squad_id": 500022,
     "cost": 452000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -48975,7 +48975,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
