@@ -28716,7 +28716,7 @@
     "last_name": "Sipley",
     "squad_id": 500002,
     "cost": 408000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 423000,
@@ -36477,7 +36477,7 @@
     "last_name": "Simpkin",
     "squad_id": 500002,
     "cost": 515000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 371000,
@@ -53535,7 +53535,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 399000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "4": 450000,
