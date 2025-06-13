@@ -6991,7 +6991,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 619000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 638000,
@@ -12341,7 +12341,7 @@
     "last_name": "Walker",
     "squad_id": 500001,
     "cost": 573000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 573000,
@@ -14065,7 +14065,7 @@
     "last_name": "Sharpe",
     "squad_id": 500003,
     "cost": 729000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 550000,
@@ -44067,7 +44067,7 @@
     "last_name": "Va'a",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -44601,7 +44601,7 @@
     "last_name": "Arthur",
     "squad_id": 500003,
     "cost": 247000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47070,7 +47070,7 @@
     "last_name": "Makatoa",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 250000,
@@ -50821,6 +50821,53 @@
     "locked": 0
   },
   {
+    "id": 509804,
+    "first_name": "Brock",
+    "last_name": "Greacen",
+    "squad_id": 500003,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.1669,
+      "round_wpr": {
+        "15": 18.1669
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 510558,
     "first_name": "Myles",
     "last_name": "Martin",
@@ -50968,7 +51015,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 252000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -51842,6 +51889,53 @@
       1
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100004271,
+    "first_name": "Tom",
+    "last_name": "Rodwell",
+    "squad_id": 500001,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.1669,
+      "round_wpr": {
+        "15": 18.1669
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -53711,7 +53805,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 359000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 350000,
