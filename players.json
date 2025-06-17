@@ -11350,7 +11350,7 @@
         "res": 0.05
       },
       "owned_by": 0.19,
-      "adp": 118,
+      "adp": 117,
       "proj_avg": 43.8,
       "wpr": 26.0054,
       "round_wpr": {
@@ -18035,7 +18035,7 @@
         "res": 0.19
       },
       "owned_by": 0.76,
-      "adp": 169,
+      "adp": 168,
       "proj_avg": 38.6,
       "wpr": 25.2296,
       "round_wpr": {
@@ -18759,7 +18759,7 @@
         "res": 0.37
       },
       "owned_by": 3.98,
-      "adp": 117,
+      "adp": 118,
       "proj_avg": 38.2,
       "wpr": 40.6959,
       "round_wpr": {
@@ -20258,7 +20258,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 481000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 502000,
@@ -21016,7 +21016,7 @@
         "res": 0.49
       },
       "owned_by": 2.74,
-      "adp": 168,
+      "adp": 169,
       "proj_avg": 37.2,
       "wpr": 32.8462,
       "round_wpr": {
@@ -21733,7 +21733,7 @@
         "res": 0.07
       },
       "owned_by": 0.55,
-      "adp": 209,
+      "adp": 208,
       "proj_avg": 36.8,
       "wpr": 40.6662,
       "round_wpr": {
@@ -23280,7 +23280,7 @@
         "res": 0.22
       },
       "owned_by": 1.06,
-      "adp": 208,
+      "adp": 209,
       "proj_avg": 35.8,
       "wpr": 32.2855,
       "round_wpr": {
@@ -25667,7 +25667,7 @@
         "res": 0.37
       },
       "owned_by": 2.51,
-      "adp": 242,
+      "adp": 241,
       "proj_avg": 34,
       "wpr": 31.3737,
       "round_wpr": {
@@ -30192,7 +30192,7 @@
         "res": 0.15
       },
       "owned_by": 0.9,
-      "adp": 241,
+      "adp": 242,
       "proj_avg": 31.3,
       "wpr": 39.5153,
       "round_wpr": {
@@ -33821,7 +33821,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 393000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 392000,
@@ -52120,6 +52120,57 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 510488,
+    "first_name": "Moala",
+    "last_name": "Graham-Taufa",
+    "squad_id": 500032,
+    "cost": 400000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "16": 400000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 278,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 31.9283,
+      "round_wpr": {
+        "16": 31.9283
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 33.6667,
+      "career_avg_vs": {
+        "500723": 32,
+        "500023": 38,
+        "500031": 31
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
