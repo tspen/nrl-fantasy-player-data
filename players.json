@@ -5523,7 +5523,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 665000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 665000,
@@ -14973,7 +14973,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 456000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -23101,7 +23101,7 @@
     "last_name": "Marzhew",
     "squad_id": 500003,
     "cost": 566000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -32384,7 +32384,7 @@
     "last_name": "Kerr",
     "squad_id": 500723,
     "cost": 399000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 403000,
@@ -36661,7 +36661,7 @@
     "last_name": "Feagai",
     "squad_id": 500723,
     "cost": 378000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 375000,
@@ -40613,7 +40613,7 @@
     "last_name": "Hetherington",
     "squad_id": 500003,
     "cost": 264000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 328000,
@@ -45822,7 +45822,7 @@
     "last_name": "Hola",
     "squad_id": 500013,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -55264,7 +55264,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 379000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 350000,
