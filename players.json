@@ -4094,7 +4094,7 @@
     "last_name": "Koloamatangi",
     "squad_id": 500005,
     "cost": 832000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 692000,
@@ -4591,7 +4591,7 @@
     "last_name": "Lisati",
     "squad_id": 500021,
     "cost": 327000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -17981,7 +17981,7 @@
     "last_name": "Walker",
     "squad_id": 500005,
     "cost": 315000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 515000,
@@ -26381,7 +26381,7 @@
     "last_name": "Coates",
     "squad_id": 500021,
     "cost": 508000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -27177,7 +27177,7 @@
     "last_name": "Faalogo",
     "squad_id": 500021,
     "cost": 451000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 443000,
@@ -34277,7 +34277,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 410000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -37560,7 +37560,7 @@
     "last_name": "Garlick",
     "squad_id": 500021,
     "cost": 401000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 350000,
@@ -42128,7 +42128,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 284000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 291000,
@@ -48533,7 +48533,7 @@
     "last_name": "Graham",
     "squad_id": 500005,
     "cost": 465000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 580000,
@@ -50410,7 +50410,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 263000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 250000,
@@ -55358,7 +55358,7 @@
     "last_name": "Ataata",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -55874,7 +55874,7 @@
     "last_name": "Dodd",
     "squad_id": 500005,
     "cost": 402000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 550000,
