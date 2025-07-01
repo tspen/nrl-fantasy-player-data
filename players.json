@@ -40010,9 +40010,9 @@
     "id": 507765,
     "first_name": "Junior",
     "last_name": "Tupou",
-    "squad_id": 500723,
+    "squad_id": 500001,
     "cost": 341000,
-    "status": "uncertain",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 362000,
@@ -40108,9 +40108,9 @@
       6
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 1,
+    "original_squad_id": 500723,
+    "transfer_round": 18,
+    "is_bye": 0,
     "locked": 0
   },
   {
@@ -42626,9 +42626,9 @@
     "id": 100006658,
     "first_name": "Tallyn",
     "last_name": "Da Silva",
-    "squad_id": 500023,
+    "squad_id": 500031,
     "cost": 230000,
-    "status": "not-playing",
+    "status": "uncertain",
     "stats": {
       "prices": {
         "1": 332000,
@@ -42738,9 +42738,9 @@
       1
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 0,
+    "original_squad_id": 500023,
+    "transfer_round": 18,
+    "is_bye": 1,
     "locked": 0
   },
   {
@@ -54846,9 +54846,9 @@
     "id": 509765,
     "first_name": "Jake",
     "last_name": "Arthur",
-    "squad_id": 500002,
+    "squad_id": 500003,
     "cost": 312000,
-    "status": "not-playing",
+    "status": "uncertain",
     "stats": {
       "prices": {
         "1": 300000,
@@ -54933,9 +54933,9 @@
       4
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 0,
+    "original_squad_id": 500002,
+    "transfer_round": 18,
+    "is_bye": 1,
     "locked": 0
   },
   {
@@ -55000,6 +55000,53 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 510244,
+    "first_name": "Temple",
+    "last_name": "Kalepo",
+    "squad_id": 500012,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
@@ -56020,6 +56067,53 @@
     "locked": 0
   },
   {
+    "id": 100004096,
+    "first_name": "Max",
+    "last_name": "McCathie",
+    "squad_id": 500001,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100004119,
     "first_name": "Michael",
     "last_name": "Asomua",
@@ -56631,9 +56725,9 @@
     "id": 100006112,
     "first_name": "Paul",
     "last_name": "Bryan",
-    "squad_id": 500003,
+    "squad_id": 500002,
     "cost": 238000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -56712,9 +56806,9 @@
       2
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
-    "is_bye": 1,
+    "original_squad_id": 500003,
+    "transfer_round": 18,
+    "is_bye": 0,
     "locked": 0
   },
   {
