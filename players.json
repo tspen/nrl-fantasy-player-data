@@ -32198,7 +32198,7 @@
     "last_name": "Rogers",
     "squad_id": 500011,
     "cost": 416000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 416000,
@@ -37019,7 +37019,7 @@
     "last_name": "Wilson",
     "squad_id": 500010,
     "cost": 316000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 384000,
@@ -48232,7 +48232,7 @@
     "last_name": "Turpin",
     "squad_id": 500010,
     "cost": 248000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53135,7 +53135,7 @@
     "last_name": "Hopoi",
     "squad_id": 500010,
     "cost": 299000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -58284,7 +58284,7 @@
     "last_name": "Todd",
     "squad_id": 500010,
     "cost": 254000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
