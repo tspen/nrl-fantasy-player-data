@@ -8996,7 +8996,7 @@
     "last_name": "Burns",
     "squad_id": 500012,
     "cost": 465000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -17623,7 +17623,7 @@
     "last_name": "Papenhuyzen",
     "squad_id": 500021,
     "cost": 594000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 530000,
@@ -21655,7 +21655,7 @@
     "last_name": "Taulagi",
     "squad_id": 500012,
     "cost": 495000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 501000,
@@ -45076,7 +45076,7 @@
     "last_name": "Pahulu",
     "squad_id": 500021,
     "cost": 295000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 279000,
@@ -47192,7 +47192,7 @@
     "last_name": "Shibasaki",
     "squad_id": 500012,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
