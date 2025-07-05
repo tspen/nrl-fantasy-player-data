@@ -19457,7 +19457,7 @@
         "res": 0.52
       },
       "owned_by": 6.08,
-      "adp": 145,
+      "adp": 144,
       "proj_avg": 38.3,
       "wpr": 53.1902,
       "round_wpr": {
@@ -23414,7 +23414,7 @@
     "last_name": "Townsend",
     "squad_id": 500001,
     "cost": 517000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -28924,7 +28924,7 @@
         "res": 2.57
       },
       "owned_by": 13.28,
-      "adp": 144,
+      "adp": 145,
       "proj_avg": 33,
       "wpr": 56.4661,
       "round_wpr": {
@@ -46016,7 +46016,7 @@
     "last_name": "Hunt",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 275000,
@@ -52573,7 +52573,7 @@
     "last_name": "Faataape",
     "squad_id": 500023,
     "cost": 293000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 287000,
@@ -53720,7 +53720,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 405000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -56339,7 +56339,7 @@
     "last_name": "Moriarty",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -60562,7 +60562,7 @@
     "last_name": "King",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 230000,
