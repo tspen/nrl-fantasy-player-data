@@ -38528,7 +38528,7 @@
     "last_name": "Saulo",
     "squad_id": 500013,
     "cost": 377000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 377000,
@@ -56788,6 +56788,53 @@
     "locked": 0
   },
   {
+    "id": 100005067,
+    "first_name": "Ben",
+    "last_name": "Johnson",
+    "squad_id": 500001,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006105,
     "first_name": "Xavier",
     "last_name": "Va'a",
@@ -58360,6 +58407,55 @@
     "locked": 0
   },
   {
+    "id": 100006877,
+    "first_name": "Keagan",
+    "last_name": "Russell-Smith",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 268,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 24,
+      "career_avg_vs": {
+        "500012": 24
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006888,
     "first_name": "Jack",
     "last_name": "Todd",
@@ -58882,6 +58978,53 @@
     ],
     "original_positions": [
       1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100007675,
+    "first_name": "Coby",
+    "last_name": "Williamson",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
@@ -61128,6 +61271,53 @@
     "locked": 1
   },
   {
+    "id": 100011324,
+    "first_name": "Siulagi",
+    "last_name": "Tuimalatu-Brown",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100011328,
     "first_name": "Jonathan",
     "last_name": "Sua",
@@ -61374,6 +61564,53 @@
       4
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011655,
+    "first_name": "Jacob",
+    "last_name": "Halangahu",
+    "squad_id": 500022,
+    "cost": 230000,
+    "status": "not-playing",
+    "stats": {
+      "prices": {
+        "18": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.5233,
+      "round_wpr": {
+        "18": 18.5233
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
