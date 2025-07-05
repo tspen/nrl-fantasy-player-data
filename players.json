@@ -3551,7 +3551,7 @@
     "last_name": "Aitken",
     "squad_id": 500005,
     "cost": 628000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 700000,
@@ -19014,7 +19014,7 @@
     "last_name": "Walker",
     "squad_id": 500005,
     "cost": 322000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 515000,
@@ -25610,7 +25610,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 465000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 465000,
@@ -37495,7 +37495,7 @@
     "last_name": "Host",
     "squad_id": 500005,
     "cost": 381000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 381000,
@@ -43027,7 +43027,7 @@
     "last_name": "Faulalo",
     "squad_id": 500002,
     "cost": 384000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -43369,7 +43369,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 558000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 319000,
@@ -47336,7 +47336,7 @@
     "last_name": "Chan Kum Tong",
     "squad_id": 500002,
     "cost": 248000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52074,7 +52074,7 @@
     "last_name": "Gray",
     "squad_id": 500005,
     "cost": 256000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "15": 230000,
@@ -59206,7 +59206,7 @@
     "last_name": "Dodd",
     "squad_id": 500005,
     "cost": 402000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 550000,
@@ -61301,7 +61301,7 @@
     "last_name": "Walsh",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
