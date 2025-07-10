@@ -5953,7 +5953,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 665000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 665000,
@@ -11769,7 +11769,7 @@
     "last_name": "Tabuai-Fidow",
     "squad_id": 500723,
     "cost": 661000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 589000,
@@ -49432,7 +49432,7 @@
     "last_name": "Hola",
     "squad_id": 500723,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -50124,7 +50124,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -55151,7 +55151,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -62513,7 +62513,7 @@
     "last_name": "Gabrael",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
