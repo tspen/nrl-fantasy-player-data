@@ -5953,7 +5953,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 665000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 665000,
@@ -28803,7 +28803,7 @@
     "last_name": "Atkinson",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 449000,
@@ -46629,7 +46629,7 @@
     "last_name": "Burns",
     "squad_id": 500028,
     "cost": 408000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -54278,7 +54278,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 246000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -64226,7 +64226,7 @@
     "last_name": "Naufahu",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "8": 230000,
