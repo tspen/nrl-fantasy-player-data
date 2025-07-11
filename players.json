@@ -10212,7 +10212,7 @@
     "last_name": "Loiero",
     "squad_id": 500021,
     "cost": 625000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -11378,7 +11378,7 @@
     "last_name": "Munster",
     "squad_id": 500021,
     "cost": 627000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 589000,
@@ -17989,7 +17989,7 @@
     "last_name": "Papenhuyzen",
     "squad_id": 500021,
     "cost": 594000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 530000,
@@ -21854,7 +21854,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 481000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 502000,
@@ -31545,7 +31545,7 @@
     "last_name": "Howarth",
     "squad_id": 500021,
     "cost": 412000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -43809,7 +43809,7 @@
     "last_name": "Hetherington",
     "squad_id": 500003,
     "cost": 264000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 328000,
@@ -45426,7 +45426,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 272000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 291000,
@@ -54470,7 +54470,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 271000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 250000,
@@ -59726,7 +59726,7 @@
     "last_name": "Russell-Smith",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "18": 230000,
@@ -59978,7 +59978,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 379000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 350000,
@@ -62685,7 +62685,7 @@
     "last_name": "Tuimalatu-Brown",
     "squad_id": 500021,
     "cost": 240000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "18": 230000,
@@ -64562,7 +64562,7 @@
     "last_name": "Leo",
     "squad_id": 500021,
     "cost": 315000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
