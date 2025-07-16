@@ -31216,7 +31216,7 @@
     "last_name": "Moale",
     "squad_id": 500005,
     "cost": 330000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 432000,
@@ -55622,6 +55622,62 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 507807,
+    "first_name": "Taylan",
+    "last_name": "May",
+    "squad_id": 500023,
+    "cost": 480000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "20": 480000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 287,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 38.9533,
+      "round_wpr": {
+        "20": 38.9533
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 36.625,
+      "career_avg_vs": {
+        "500021": 66,
+        "500031": 34,
+        "500011": 28,
+        "500001": 29,
+        "500002": 34,
+        "500012": 27,
+        "500005": 51,
+        "500010": 24
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
