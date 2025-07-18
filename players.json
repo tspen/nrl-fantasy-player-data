@@ -7146,7 +7146,7 @@
     "last_name": "Holmes",
     "squad_id": 500022,
     "cost": 643000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 652000,
@@ -23347,7 +23347,7 @@
     "last_name": "Sexton",
     "squad_id": 500010,
     "cost": 531000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 497000,
@@ -36700,7 +36700,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 364000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 401000,
@@ -38419,7 +38419,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 326000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 389000,
@@ -41028,7 +41028,7 @@
     "last_name": "Tupouniua",
     "squad_id": 500010,
     "cost": 430000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -45313,7 +45313,7 @@
     "last_name": "Ilias",
     "squad_id": 500022,
     "cost": 452000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 400000,
@@ -54267,7 +54267,7 @@
     "last_name": "Suluka-Fifita",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -54879,7 +54879,7 @@
     "last_name": "Allan",
     "squad_id": 500022,
     "cost": 342000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
