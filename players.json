@@ -27919,7 +27919,7 @@
     "last_name": "Cant",
     "squad_id": 500003,
     "cost": 425000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 458000,
@@ -44157,7 +44157,7 @@
     "last_name": "Jones",
     "squad_id": 500003,
     "cost": 412000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 343000,
@@ -66141,7 +66141,7 @@
     "last_name": "Salesa-Leaumoana",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "14": 230000,
