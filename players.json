@@ -54298,6 +54298,71 @@
     "locked": 0
   },
   {
+    "id": 500657,
+    "first_name": "Ben",
+    "last_name": "Murdoch-Masila",
+    "squad_id": 500022,
+    "cost": 300000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "21": 300000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 282,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 24.3294,
+      "round_wpr": {
+        "21": 24.3294
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 21.8989,
+      "career_avg_vs": {
+        "500003": 24,
+        "500014": 21.3333,
+        "500031": 31.5,
+        "500002": 19.1667,
+        "500021": 20.3333,
+        "500022": 23.8333,
+        "500011": 13.6,
+        "500010": 19,
+        "500028": 19.375,
+        "500005": 17.8333,
+        "500013": 29,
+        "500032": 22.4,
+        "500004": 16.1667,
+        "500001": 25.8333,
+        "500012": 28.1667,
+        "500023": 15.2,
+        "500723": 34
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500889,
     "first_name": "Zach",
     "last_name": "Dockar-Clay",
