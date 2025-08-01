@@ -434,7 +434,7 @@
     "last_name": "Haas",
     "squad_id": 500011,
     "cost": 850000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 825000,
@@ -23052,7 +23052,7 @@
     "last_name": "Alamoti",
     "squad_id": 500014,
     "cost": 493000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 505000,
@@ -30217,7 +30217,7 @@
     "last_name": "Smoothy",
     "squad_id": 500011,
     "cost": 368000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -33522,7 +33522,7 @@
     "last_name": "Khan-Pereira",
     "squad_id": 500004,
     "cost": 394000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 429000,
@@ -41786,7 +41786,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 269000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 382000,
@@ -45604,7 +45604,7 @@
     "last_name": "Eisenhuth",
     "squad_id": 500014,
     "cost": 287000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 346000,
@@ -49910,7 +49910,7 @@
     "last_name": "Geyer",
     "squad_id": 500014,
     "cost": 256000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 275000,
@@ -53797,7 +53797,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 247000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -65197,7 +65197,7 @@
     "last_name": "Foran",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
