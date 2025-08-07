@@ -40790,7 +40790,7 @@
     "last_name": "MacDonald",
     "squad_id": 500021,
     "cost": 361000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -46766,7 +46766,7 @@
     "last_name": "Arthars",
     "squad_id": 500011,
     "cost": 297000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 346000,
@@ -60268,7 +60268,7 @@
     "last_name": "Bradley",
     "squad_id": 500021,
     "cost": 294000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 250000,
