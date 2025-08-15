@@ -8854,7 +8854,7 @@
     "last_name": "Kini",
     "squad_id": 500004,
     "cost": 618000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 654000,
@@ -26923,7 +26923,7 @@
     "last_name": "Haas",
     "squad_id": 500004,
     "cost": 424000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 488000,
@@ -27496,7 +27496,7 @@
     "last_name": "Fifita",
     "squad_id": 500004,
     "cost": 461000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 483000,
@@ -38828,7 +38828,7 @@
     "last_name": "Alick-Wiencke",
     "squad_id": 500004,
     "cost": 270000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 409000,
@@ -56628,7 +56628,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -62600,7 +62600,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -64598,7 +64598,7 @@
     "last_name": "Fitzgibbon",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -65038,7 +65038,7 @@
     "last_name": "Vea'ila",
     "squad_id": 500028,
     "cost": 271000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "10": 230000,
