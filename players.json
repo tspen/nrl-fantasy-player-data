@@ -32714,7 +32714,7 @@
     "last_name": "Atkinson",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 449000,
@@ -56736,7 +56736,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -61638,7 +61638,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -67988,7 +67988,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 396000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "4": 450000,
