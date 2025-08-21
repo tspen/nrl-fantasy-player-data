@@ -26793,7 +26793,7 @@
     "last_name": "Sloan",
     "squad_id": 500022,
     "cost": 332000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 496000,
@@ -29579,7 +29579,7 @@
     "last_name": "Faitala-Mariner",
     "squad_id": 500022,
     "cost": 400000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 472000,
@@ -66560,7 +66560,7 @@
     "last_name": "Myers",
     "squad_id": 500005,
     "cost": 293000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -75489,7 +75489,7 @@
     "last_name": "Lawson",
     "squad_id": 500022,
     "cost": 268000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "9": 230000,
