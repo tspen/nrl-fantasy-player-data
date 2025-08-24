@@ -18839,7 +18839,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 493000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -29075,7 +29075,7 @@
     "last_name": "Marzhew",
     "squad_id": 500003,
     "cost": 446000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -59704,7 +59704,7 @@
     "last_name": "Hoeter",
     "squad_id": 500011,
     "cost": 429000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 437000,
@@ -71592,7 +71592,7 @@
     "last_name": "Hunt",
     "squad_id": 500003,
     "cost": 295000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "11": 230000,
@@ -73173,7 +73173,7 @@
     "last_name": "Votano",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "24": 230000,
