@@ -8418,7 +8418,7 @@
     "last_name": "Brown",
     "squad_id": 500031,
     "cost": 405000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 651000,
@@ -49599,7 +49599,7 @@
     "last_name": "Russell",
     "squad_id": 500031,
     "cost": 395000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -61999,7 +61999,7 @@
     "last_name": "Going",
     "squad_id": 500032,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "26": 250000
