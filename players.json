@@ -19254,7 +19254,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 494000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 500000,
@@ -29708,7 +29708,7 @@
     "last_name": "Marzhew",
     "squad_id": 500003,
     "cost": 446000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -56203,7 +56203,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 243000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -75052,7 +75052,7 @@
     "last_name": "Votano",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "24": 230000,
