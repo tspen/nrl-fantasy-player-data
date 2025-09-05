@@ -63341,7 +63341,7 @@
     "last_name": "Going",
     "squad_id": 500032,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "26": 250000,
@@ -76393,6 +76393,53 @@
     ],
     "original_positions": [
       6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011203,
+    "first_name": "Simione",
+    "last_name": "Laiafi",
+    "squad_id": 500002,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "27": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.3761,
+      "round_wpr": {
+        "27": 18.3761
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
