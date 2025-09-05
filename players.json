@@ -21649,7 +21649,7 @@
     "last_name": "Sami",
     "squad_id": 500004,
     "cost": 531000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 533000,
@@ -40380,7 +40380,7 @@
     "last_name": "De Groot",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -66309,7 +66309,7 @@
     "last_name": "Mullany",
     "squad_id": 500004,
     "cost": 238000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -72803,7 +72803,7 @@
     "last_name": "Weaver",
     "squad_id": 500004,
     "cost": 396000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "4": 450000,
