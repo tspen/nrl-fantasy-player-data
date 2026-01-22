@@ -27037,6 +27037,71 @@
     "locked": 0
   },
   {
+    "id": 500128,
+    "first_name": "Adam",
+    "last_name": "Elliott",
+    "squad_id": 500005,
+    "cost": 538000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 538000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 7,
+      "total_points": 296,
+      "avg_points": 42.3,
+      "high_score": 65,
+      "low_score": 27,
+      "last_3_avg": 28,
+      "last_5_avg": 38.2,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 41.2211,
+      "round_wpr": {
+        "1": 41.2211
+      },
+      "rd_tog": "",
+      "tog": 47,
+      "career_avg": 38.8047,
+      "career_avg_vs": {
+        "500002": 26.5,
+        "500031": 29.7692,
+        "500005": 35.8462,
+        "500013": 38.4444,
+        "500032": 34.8182,
+        "500028": 39.4545,
+        "500021": 33.6667,
+        "500001": 43.5556,
+        "500011": 37,
+        "500003": 41.6667,
+        "500023": 40.9,
+        "500012": 48.6667,
+        "500014": 34.5385,
+        "500022": 44.6154,
+        "500004": 38.8182,
+        "500010": 54,
+        "500723": 61.75
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 500150,
     "first_name": "Jayden",
     "last_name": "Berrell",
@@ -30209,6 +30274,59 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100015584,
+    "first_name": "Eddie",
+    "last_name": "Ieremia-Toeava",
+    "squad_id": 500032,
+    "cost": 350000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 350000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 5,
+      "total_points": 172,
+      "avg_points": 34.4,
+      "high_score": 52,
+      "low_score": 18,
+      "last_3_avg": 42.3,
+      "last_5_avg": 34.4,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 26.8167,
+      "round_wpr": {
+        "1": 26.8167
+      },
+      "rd_tog": "",
+      "tog": 34,
+      "career_avg": 34.4,
+      "career_avg_vs": {
+        "500723": 27,
+        "500022": 18,
+        "500004": 52,
+        "500031": 33,
+        "500002": 42
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
