@@ -2869,7 +2869,7 @@
     "last_name": "Fale",
     "squad_id": 500022,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -5950,7 +5950,7 @@
         "res": 0.56
       },
       "owned_by": 6.79,
-      "adp": 62,
+      "adp": 61,
       "proj_avg": 44.8,
       "wpr": 43.6729,
       "round_wpr": {
@@ -6485,7 +6485,7 @@
         "res": 0.15
       },
       "owned_by": 1.78,
-      "adp": 90,
+      "adp": 91,
       "proj_avg": 43.9,
       "wpr": 42.8301,
       "round_wpr": {
@@ -6882,7 +6882,7 @@
         "res": 0.08
       },
       "owned_by": 1.18,
-      "adp": 91,
+      "adp": 90,
       "proj_avg": 43.3,
       "wpr": 42.2172,
       "round_wpr": {
@@ -8584,7 +8584,7 @@
     "last_name": "Halangahu",
     "squad_id": 500022,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000
@@ -10785,7 +10785,7 @@
         "res": 0.18
       },
       "owned_by": 0.69,
-      "adp": 194,
+      "adp": 195,
       "proj_avg": 38.9,
       "wpr": 37.9265,
       "round_wpr": {
@@ -11392,7 +11392,7 @@
         "res": 0.12
       },
       "owned_by": 0.82,
-      "adp": 175,
+      "adp": 174,
       "proj_avg": 38.2,
       "wpr": 37.2369,
       "round_wpr": {
@@ -11594,7 +11594,7 @@
         "res": 0.09
       },
       "owned_by": 0.4,
-      "adp": 206,
+      "adp": 207,
       "proj_avg": 38,
       "wpr": 38.3096,
       "round_wpr": {
@@ -11729,7 +11729,7 @@
         "res": 0.16
       },
       "owned_by": 1.35,
-      "adp": 174,
+      "adp": 175,
       "proj_avg": 37.8,
       "wpr": 36.8538,
       "round_wpr": {
@@ -11797,7 +11797,7 @@
         "res": 0.46
       },
       "owned_by": 5.32,
-      "adp": 144,
+      "adp": 143,
       "proj_avg": 37.8,
       "wpr": 36.8538,
       "round_wpr": {
@@ -12178,7 +12178,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 477000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 477000
@@ -13053,7 +13053,7 @@
         "res": 0.16
       },
       "owned_by": 1.47,
-      "adp": 203,
+      "adp": 202,
       "proj_avg": 36.6,
       "wpr": 35.7045,
       "round_wpr": {
@@ -13523,7 +13523,7 @@
         "res": 0.05
       },
       "owned_by": 0.16,
-      "adp": 247,
+      "adp": 246,
       "proj_avg": 36.3,
       "wpr": 35.3981,
       "round_wpr": {
@@ -13658,7 +13658,7 @@
         "res": 0.01
       },
       "owned_by": 0.03,
-      "adp": 250,
+      "adp": 249,
       "proj_avg": 36.3,
       "wpr": 35.3981,
       "round_wpr": {
@@ -13789,7 +13789,7 @@
         "res": 0.09
       },
       "owned_by": 0.42,
-      "adp": 240,
+      "adp": 239,
       "proj_avg": 36,
       "wpr": 35.0916,
       "round_wpr": {
@@ -14444,7 +14444,7 @@
         "res": 0.06
       },
       "owned_by": 0.47,
-      "adp": 230,
+      "adp": 229,
       "proj_avg": 35.4,
       "wpr": 34.5552,
       "round_wpr": {
@@ -14579,7 +14579,7 @@
         "res": 0.36
       },
       "owned_by": 0.82,
-      "adp": 229,
+      "adp": 230,
       "proj_avg": 35.2,
       "wpr": 34.3254,
       "round_wpr": {
@@ -14714,7 +14714,7 @@
         "res": 0.17
       },
       "owned_by": 0.55,
-      "adp": 249,
+      "adp": 250,
       "proj_avg": 35,
       "wpr": 34.0955,
       "round_wpr": {
@@ -15782,7 +15782,7 @@
         "res": 0.63
       },
       "owned_by": 1.92,
-      "adp": 239,
+      "adp": 240,
       "proj_avg": 34.2,
       "wpr": 33.3293,
       "round_wpr": {
@@ -16310,7 +16310,7 @@
         "res": 0.42
       },
       "owned_by": 2.52,
-      "adp": 246,
+      "adp": 247,
       "proj_avg": 33.4,
       "wpr": 32.5631,
       "round_wpr": {
@@ -17375,7 +17375,7 @@
         "res": 1.07
       },
       "owned_by": 3.77,
-      "adp": 223,
+      "adp": 222,
       "proj_avg": 32.5,
       "wpr": 31.7203,
       "round_wpr": {
@@ -18963,7 +18963,7 @@
         "res": 17.61
       },
       "owned_by": 33.99,
-      "adp": 202,
+      "adp": 203,
       "proj_avg": 30,
       "wpr": 26.8167,
       "round_wpr": {
@@ -19403,7 +19403,7 @@
         "res": 9.63
       },
       "owned_by": 19.44,
-      "adp": 195,
+      "adp": 194,
       "proj_avg": 29.5,
       "wpr": 28.7322,
       "round_wpr": {
@@ -21420,7 +21420,7 @@
         "res": 9.81
       },
       "owned_by": 17.26,
-      "adp": 207,
+      "adp": 206,
       "proj_avg": 27.3,
       "wpr": 26.5868,
       "round_wpr": {
@@ -23760,7 +23760,7 @@
         "res": 5.82
       },
       "owned_by": 24.83,
-      "adp": 222,
+      "adp": 223,
       "proj_avg": 22.8,
       "wpr": 19.1548,
       "round_wpr": {
@@ -25800,7 +25800,7 @@
         "res": 0.16
       },
       "owned_by": 2.64,
-      "adp": 61,
+      "adp": 62,
       "proj_avg": 17,
       "wpr": 55.5489,
       "round_wpr": {
@@ -27508,7 +27508,7 @@
         "res": 0.63
       },
       "owned_by": 2.75,
-      "adp": 143,
+      "adp": 144,
       "proj_avg": 0,
       "wpr": 38.3096,
       "round_wpr": {
@@ -29898,7 +29898,7 @@
     "last_name": "Sua",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
