@@ -3394,7 +3394,7 @@
     "last_name": "Bateman",
     "squad_id": 500012,
     "cost": 625000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 625000
@@ -3485,7 +3485,7 @@
         "res": 0.11
       },
       "owned_by": 0.65,
-      "adp": 70,
+      "adp": 71,
       "proj_avg": 49.1,
       "wpr": 47.887,
       "round_wpr": {
@@ -6553,7 +6553,7 @@
         "res": 8.99
       },
       "owned_by": 16.58,
-      "adp": 71,
+      "adp": 70,
       "proj_avg": 43.8,
       "wpr": 42.6769,
       "round_wpr": {
@@ -7689,7 +7689,7 @@
         "res": 0.04
       },
       "owned_by": 0.12,
-      "adp": 144,
+      "adp": 145,
       "proj_avg": 41.8,
       "wpr": 40.7614,
       "round_wpr": {
@@ -7890,7 +7890,7 @@
         "res": 0.15
       },
       "owned_by": 0.71,
-      "adp": 140,
+      "adp": 141,
       "proj_avg": 41.6,
       "wpr": 34.4786,
       "round_wpr": {
@@ -8997,7 +8997,7 @@
         "res": 0.06
       },
       "owned_by": 0.47,
-      "adp": 168,
+      "adp": 169,
       "proj_avg": 40.1,
       "wpr": 39.0758,
       "round_wpr": {
@@ -11797,7 +11797,7 @@
         "res": 0.46
       },
       "owned_by": 5.32,
-      "adp": 145,
+      "adp": 144,
       "proj_avg": 37.8,
       "wpr": 36.8538,
       "round_wpr": {
@@ -12268,7 +12268,7 @@
         "res": 0.15
       },
       "owned_by": 0.4,
-      "adp": 224,
+      "adp": 225,
       "proj_avg": 37.3,
       "wpr": 36.3941,
       "round_wpr": {
@@ -12789,7 +12789,7 @@
         "res": 1.46
       },
       "owned_by": 11.09,
-      "adp": 141,
+      "adp": 140,
       "proj_avg": 36.8,
       "wpr": 35.8578,
       "round_wpr": {
@@ -12922,7 +12922,7 @@
         "res": 0.75
       },
       "owned_by": 7.48,
-      "adp": 154,
+      "adp": 155,
       "proj_avg": 36.7,
       "wpr": 35.7811,
       "round_wpr": {
@@ -13523,7 +13523,7 @@
         "res": 0.05
       },
       "owned_by": 0.16,
-      "adp": 246,
+      "adp": 247,
       "proj_avg": 36.3,
       "wpr": 35.3981,
       "round_wpr": {
@@ -14311,7 +14311,7 @@
         "res": 0.23
       },
       "owned_by": 1.47,
-      "adp": 225,
+      "adp": 224,
       "proj_avg": 35.5,
       "wpr": 34.6319,
       "round_wpr": {
@@ -14377,7 +14377,7 @@
         "res": 0.13
       },
       "owned_by": 0.47,
-      "adp": 256,
+      "adp": 257,
       "proj_avg": 35.4,
       "wpr": 34.5552,
       "round_wpr": {
@@ -14444,7 +14444,7 @@
         "res": 0.06
       },
       "owned_by": 0.47,
-      "adp": 229,
+      "adp": 230,
       "proj_avg": 35.4,
       "wpr": 34.5552,
       "round_wpr": {
@@ -14579,7 +14579,7 @@
         "res": 0.36
       },
       "owned_by": 0.82,
-      "adp": 230,
+      "adp": 229,
       "proj_avg": 35.2,
       "wpr": 34.3254,
       "round_wpr": {
@@ -14624,7 +14624,7 @@
     "last_name": "Edwards",
     "squad_id": 500012,
     "cost": 447000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 447000
@@ -14983,7 +14983,7 @@
         "res": 12.03
       },
       "owned_by": 28.04,
-      "adp": 169,
+      "adp": 168,
       "proj_avg": 34.7,
       "wpr": 33.8657,
       "round_wpr": {
@@ -16310,7 +16310,7 @@
         "res": 0.42
       },
       "owned_by": 2.52,
-      "adp": 247,
+      "adp": 246,
       "proj_avg": 33.4,
       "wpr": 32.5631,
       "round_wpr": {
@@ -16581,7 +16581,7 @@
         "res": 0.4
       },
       "owned_by": 1.06,
-      "adp": 257,
+      "adp": 256,
       "proj_avg": 33.2,
       "wpr": 32.4099,
       "round_wpr": {
@@ -16758,7 +16758,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 421000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000
@@ -17375,7 +17375,7 @@
         "res": 1.07
       },
       "owned_by": 3.77,
-      "adp": 222,
+      "adp": 223,
       "proj_avg": 32.5,
       "wpr": 31.7203,
       "round_wpr": {
@@ -18083,7 +18083,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 403000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 403000
@@ -18874,7 +18874,7 @@
     "last_name": "Derby",
     "squad_id": 500012,
     "cost": 384000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 384000
@@ -19183,7 +19183,7 @@
     "last_name": "Lodge",
     "squad_id": 500012,
     "cost": 378000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 378000
@@ -23760,7 +23760,7 @@
         "res": 5.82
       },
       "owned_by": 24.83,
-      "adp": 223,
+      "adp": 222,
       "proj_avg": 22.8,
       "wpr": 19.1548,
       "round_wpr": {
@@ -28362,7 +28362,7 @@
         "res": 14.67
       },
       "owned_by": 40.27,
-      "adp": 155,
+      "adp": 154,
       "proj_avg": 0,
       "wpr": 22.9857,
       "round_wpr": {
