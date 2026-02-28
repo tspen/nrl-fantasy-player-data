@@ -28451,6 +28451,53 @@
     "locked": 0
   },
   {
+    "id": 100004077,
+    "first_name": "Liam",
+    "last_name": "Sutton",
+    "squad_id": 500012,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100004781,
     "first_name": "Tom",
     "last_name": "Chester",
@@ -29219,6 +29266,64 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100008414,
+    "first_name": "Fletcher",
+    "last_name": "Hunt",
+    "squad_id": 500003,
+    "cost": 280000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 280000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 12,
+      "total_points": 264,
+      "avg_points": 22,
+      "high_score": 36,
+      "low_score": 5,
+      "last_3_avg": 21.7,
+      "last_5_avg": 21.6,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 21.4534,
+      "round_wpr": {
+        "1": 21.4534
+      },
+      "rd_tog": "",
+      "tog": 76,
+      "career_avg": 22,
+      "career_avg_vs": {
+        "500031": 8.5,
+        "500014": 14.5,
+        "500022": 13,
+        "500002": 32,
+        "500001": 29,
+        "500021": 24,
+        "500032": 31,
+        "500013": 29,
+        "500011": 36,
+        "500028": 24
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
