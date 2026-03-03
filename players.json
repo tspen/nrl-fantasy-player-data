@@ -7809,7 +7809,8 @@
       "last_3_proj_avg": 0
     },
     "positions": [
-      2
+      2,
+      3
     ],
     "original_positions": [],
     "original_squad_id": 0,
@@ -7947,7 +7948,8 @@
       "last_3_proj_avg": 0
     },
     "positions": [
-      5
+      5,
+      6
     ],
     "original_positions": [],
     "original_squad_id": 0,
@@ -25630,7 +25632,8 @@
       "last_3_proj_avg": 0
     },
     "positions": [
-      6
+      6,
+      5
     ],
     "original_positions": [],
     "original_squad_id": 0,
@@ -27739,6 +27742,66 @@
     "locked": 0
   },
   {
+    "id": 504307,
+    "first_name": "Brandon",
+    "last_name": "Wakeham",
+    "squad_id": 500002,
+    "cost": 350000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 350000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 43,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 26.8167,
+      "round_wpr": {
+        "1": 26.8167
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 41.8667,
+      "career_avg_vs": {
+        "500010": 30,
+        "500021": 40,
+        "500011": 33,
+        "500002": 30,
+        "500014": 35,
+        "500022": 47,
+        "500005": 33,
+        "500012": 49.5,
+        "500013": 53,
+        "500004": 44,
+        "500028": 45,
+        "500003": 52
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 504315,
     "first_name": "Thomas",
     "last_name": "Flegler",
@@ -27798,6 +27861,61 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 504573,
+    "first_name": "Ben",
+    "last_name": "Talty",
+    "squad_id": 500011,
+    "cost": 320000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 320000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 43,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 24.5181,
+      "round_wpr": {
+        "1": 24.5181
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 24.875,
+      "career_avg_vs": {
+        "500010": 16,
+        "500004": 47,
+        "500005": 35,
+        "500021": 17.5,
+        "500723": 23,
+        "500003": 18,
+        "500012": 25
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -28103,6 +28221,53 @@
       6
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 506618,
+    "first_name": "Brent",
+    "last_name": "Woolf",
+    "squad_id": 500723,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -28670,6 +28835,56 @@
     "locked": 1
   },
   {
+    "id": 100003968,
+    "first_name": "Chris",
+    "last_name": "Vea'ila",
+    "squad_id": 500028,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 43,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.1548,
+      "round_wpr": {
+        "1": 19.1548
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 31.5,
+      "career_avg_vs": {
+        "500001": 42,
+        "500005": 21
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100003974,
     "first_name": "Lachlan",
     "last_name": "Crouch",
@@ -28881,6 +29096,60 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006239,
+    "first_name": "Ashton",
+    "last_name": "Ward",
+    "squad_id": 500005,
+    "cost": 400000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 400000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 43,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 30.6477,
+      "round_wpr": {
+        "1": 30.6477
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 34,
+      "career_avg_vs": {
+        "500028": 14,
+        "500011": 42,
+        "500004": 15,
+        "500031": 28,
+        "500022": 73,
+        "500001": 32
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -29335,6 +29604,53 @@
       6
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006928,
+    "first_name": "Preston",
+    "last_name": "Conn",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -30832,6 +31148,100 @@
       4
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100013815,
+    "first_name": "Cooper",
+    "last_name": "Clarke",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100014118,
+    "first_name": "Sialetili",
+    "last_name": "Faeamani",
+    "squad_id": 500004,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
