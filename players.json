@@ -9426,7 +9426,7 @@
         "res": 0.02
       },
       "owned_by": 0.07,
-      "adp": 170,
+      "adp": 171,
       "proj_avg": 40.1,
       "wpr": 39.0758,
       "round_wpr": {
@@ -9905,7 +9905,7 @@
         "res": 0.13
       },
       "owned_by": 0.8,
-      "adp": 171,
+      "adp": 172,
       "proj_avg": 39.7,
       "wpr": 38.6927,
       "round_wpr": {
@@ -11849,7 +11849,7 @@
         "res": 0.14
       },
       "owned_by": 0.92,
-      "adp": 172,
+      "adp": 170,
       "proj_avg": 38.2,
       "wpr": 37.2369,
       "round_wpr": {
@@ -18976,7 +18976,7 @@
         "res": 0.15
       },
       "owned_by": 0.73,
-      "adp": 275,
+      "adp": 276,
       "proj_avg": 31.5,
       "wpr": 30.7243,
       "round_wpr": {
@@ -20899,7 +20899,7 @@
         "res": 0.31
       },
       "owned_by": 0.73,
-      "adp": 276,
+      "adp": 275,
       "proj_avg": 28.8,
       "wpr": 28.1192,
       "round_wpr": {
@@ -31051,6 +31051,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100009673,
+    "first_name": "Lewis",
+    "last_name": "Symonds",
+    "squad_id": 500723,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "1": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6224,
+      "round_wpr": {
+        "1": 17.6224
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100010840,
