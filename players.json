@@ -6605,7 +6605,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 560000
@@ -9533,7 +9533,7 @@
         "res": 0.13
       },
       "owned_by": 0.9,
-      "adp": 155,
+      "adp": 154,
       "proj_avg": 39.9,
       "wpr": 38.9225,
       "round_wpr": {
@@ -10300,7 +10300,7 @@
         "res": 0.17
       },
       "owned_by": 1.28,
-      "adp": 154,
+      "adp": 155,
       "proj_avg": 39.4,
       "wpr": 38.3862,
       "round_wpr": {
@@ -19546,7 +19546,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -25414,7 +25414,7 @@
     "last_name": "De Groot",
     "squad_id": 500004,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -25657,7 +25657,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -27767,7 +27767,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000
@@ -31421,7 +31421,7 @@
     "last_name": "Pouniu",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000
