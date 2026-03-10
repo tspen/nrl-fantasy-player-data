@@ -30365,6 +30365,53 @@
     "locked": 0
   },
   {
+    "id": 510485,
+    "first_name": "Latrell",
+    "last_name": "Siegwalt",
+    "squad_id": 500005,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.6438,
+      "round_wpr": {
+        "2": 17.6438
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 510558,
     "first_name": "Myles",
     "last_name": "Martin",
@@ -30780,6 +30827,55 @@
     "locked": 0
   },
   {
+    "id": 100006112,
+    "first_name": "Paul",
+    "last_name": "Bryan",
+    "squad_id": 500002,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 73,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.1781,
+      "round_wpr": {
+        "2": 19.1781
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 27,
+      "career_avg_vs": {
+        "500014": 27
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100006237,
     "first_name": "James",
     "last_name": "Walsh",
@@ -31156,6 +31252,57 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006630,
+    "first_name": "Josh",
+    "last_name": "Feledy",
+    "squad_id": 500002,
+    "cost": 285000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 285000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 73,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 21.863,
+      "round_wpr": {
+        "2": 21.863
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 22.6667,
+      "career_avg_vs": {
+        "500002": 21,
+        "500012": 24,
+        "500031": 23
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -32148,6 +32295,57 @@
     ],
     "original_positions": [
       3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100010520,
+    "first_name": "Ethan",
+    "last_name": "King",
+    "squad_id": 500012,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "2": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 73,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.1781,
+      "round_wpr": {
+        "2": 19.1781
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 22.6667,
+      "career_avg_vs": {
+        "500022": 5,
+        "500023": 35,
+        "500021": 28
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
