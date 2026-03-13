@@ -15781,7 +15781,7 @@
     "last_name": "Edwards",
     "squad_id": 500012,
     "cost": 447000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 447000,
@@ -20344,7 +20344,7 @@
     "last_name": "Derby",
     "squad_id": 500012,
     "cost": 384000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -26043,7 +26043,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 276000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 276000,
@@ -26426,7 +26426,7 @@
     "last_name": "Mason",
     "squad_id": 500023,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -32403,7 +32403,7 @@
     "last_name": "King",
     "squad_id": 500012,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 250000
