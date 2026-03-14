@@ -6514,7 +6514,7 @@
     "last_name": "Cotter",
     "squad_id": 500012,
     "cost": 559000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 569000,
@@ -21968,7 +21968,7 @@
     "last_name": "Geyer",
     "squad_id": 500023,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -28625,7 +28625,7 @@
     "last_name": "Lahrs",
     "squad_id": 500012,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
