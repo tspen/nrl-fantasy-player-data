@@ -10029,7 +10029,7 @@
     "last_name": "Hopwood",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -18060,7 +18060,7 @@
     "last_name": "Waddell",
     "squad_id": 500002,
     "cost": 405000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 423000,
@@ -29152,7 +29152,7 @@
     "last_name": "Walsh",
     "squad_id": 500002,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
