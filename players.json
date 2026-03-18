@@ -158,7 +158,7 @@
     "last_name": "Roddy",
     "squad_id": 500013,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -7607,7 +7607,7 @@
     "last_name": "Timoko",
     "squad_id": 500013,
     "cost": 530000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 554000,
@@ -23093,7 +23093,7 @@
     "last_name": "Hopoi",
     "squad_id": 500010,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -26433,7 +26433,7 @@
     "last_name": "Stuart",
     "squad_id": 500013,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
