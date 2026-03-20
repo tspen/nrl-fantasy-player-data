@@ -986,7 +986,7 @@
     "last_name": "Sharpe",
     "squad_id": 500003,
     "cost": 701000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 717000,
@@ -5577,7 +5577,7 @@
     "last_name": "Barnett",
     "squad_id": 500032,
     "cost": 587000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 587000,
@@ -10381,7 +10381,7 @@
     "last_name": "Hopwood",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -20994,7 +20994,7 @@
     "last_name": "Pompey",
     "squad_id": 500032,
     "cost": 393000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 391000,
@@ -28896,7 +28896,7 @@
     "last_name": "Salesa-Leaumoana",
     "squad_id": 500003,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -35752,7 +35752,7 @@
     "last_name": "Ieremia-Toeava",
     "squad_id": 500032,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
