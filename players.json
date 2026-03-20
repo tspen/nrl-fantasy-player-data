@@ -23373,7 +23373,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -26906,7 +26906,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -30891,7 +30891,7 @@
     "last_name": "Going",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
