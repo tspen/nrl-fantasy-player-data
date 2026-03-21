@@ -19117,7 +19117,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 421000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -20238,7 +20238,7 @@
     "last_name": "Khan-Pereira",
     "squad_id": 500032,
     "cost": 407000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 407000,
@@ -33477,7 +33477,7 @@
     "last_name": "Cleary",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 230000
