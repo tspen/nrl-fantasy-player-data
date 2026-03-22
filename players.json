@@ -10817,7 +10817,7 @@
     "last_name": "Kelly",
     "squad_id": 500031,
     "cost": 500000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 505000,
@@ -16960,7 +16960,7 @@
     "last_name": "King-Togia",
     "squad_id": 500022,
     "cost": 445000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 445000,
@@ -25714,7 +25714,7 @@
     "last_name": "Sele",
     "squad_id": 500022,
     "cost": 342000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 325000,
