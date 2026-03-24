@@ -4382,7 +4382,7 @@
         "res": 0.06
       },
       "owned_by": 0.42,
-      "adp": 66,
+      "adp": 67,
       "proj_avg": 48.6,
       "wpr": 48.2183,
       "round_wpr": {
@@ -7384,7 +7384,7 @@
         "res": 0.12
       },
       "owned_by": 0.47,
-      "adp": 116,
+      "adp": 117,
       "proj_avg": 44.1,
       "wpr": 43.0129,
       "round_wpr": {
@@ -11505,7 +11505,7 @@
         "res": 0.16
       },
       "owned_by": 2.05,
-      "adp": 156,
+      "adp": 157,
       "proj_avg": 39.6,
       "wpr": 47.0307,
       "round_wpr": {
@@ -15400,7 +15400,7 @@
         "res": 1.1
       },
       "owned_by": 43.85,
-      "adp": 117,
+      "adp": 116,
       "proj_avg": 36.7,
       "wpr": 45.9369,
       "round_wpr": {
@@ -16425,7 +16425,7 @@
         "res": 0.02
       },
       "owned_by": 0.12,
-      "adp": 247,
+      "adp": 248,
       "proj_avg": 36,
       "wpr": 35.8073,
       "round_wpr": {
@@ -18714,7 +18714,7 @@
         "res": 0.73
       },
       "owned_by": 2.39,
-      "adp": 248,
+      "adp": 247,
       "proj_avg": 34.2,
       "wpr": 35.8753,
       "round_wpr": {
@@ -30314,7 +30314,7 @@
         "res": 0.27
       },
       "owned_by": 3.39,
-      "adp": 67,
+      "adp": 66,
       "proj_avg": 17,
       "wpr": 54.7089,
       "round_wpr": {
@@ -31049,7 +31049,7 @@
         "res": 4
       },
       "owned_by": 9.54,
-      "adp": 157,
+      "adp": 156,
       "proj_avg": 14.4,
       "wpr": 40.0483,
       "round_wpr": {
@@ -33284,6 +33284,70 @@
     "locked": 0
   },
   {
+    "id": 509599,
+    "first_name": "Hugo",
+    "last_name": "Savala",
+    "squad_id": 500001,
+    "cost": 450000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "4": 450000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 163,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 34.717,
+      "round_wpr": {
+        "4": 34.717
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 41.45,
+      "career_avg_vs": {
+        "500014": 20.5,
+        "500032": 18,
+        "500004": -4,
+        "500011": 33,
+        "500022": 49,
+        "500723": 54,
+        "500010": 31.5,
+        "500028": 53,
+        "500013": 46,
+        "500003": 63,
+        "500012": 67,
+        "500023": 50,
+        "500002": 41,
+        "500031": 50,
+        "500021": 60,
+        "500005": 42
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 509614,
     "first_name": "Joseph",
     "last_name": "O'Neill",
@@ -33478,6 +33542,68 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 509851,
+    "first_name": "Fletcher",
+    "last_name": "Baker",
+    "squad_id": 500010,
+    "cost": 260000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "4": 260000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 163,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 20.0587,
+      "round_wpr": {
+        "4": 20.0587
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 27.3704,
+      "career_avg_vs": {
+        "500723": 26.3333,
+        "500032": 26.3333,
+        "500005": 25,
+        "500031": 35.5,
+        "500021": 20.3333,
+        "500014": 24,
+        "500004": 39,
+        "500011": 15,
+        "500023": 16,
+        "500001": 29.5,
+        "500012": 41,
+        "500013": 53,
+        "500028": 41,
+        "500022": 21
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -34863,6 +34989,53 @@
       2
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100006826,
+    "first_name": "Faaletino",
+    "last_name": "Tavana",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "4": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.7443,
+      "round_wpr": {
+        "4": 17.7443
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
@@ -36357,6 +36530,59 @@
       4
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011291,
+    "first_name": "Hayden",
+    "last_name": "Buchanan",
+    "squad_id": 500022,
+    "cost": 350000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "4": 350000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 163,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 27.0021,
+      "round_wpr": {
+        "4": 27.0021
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 36.4,
+      "career_avg_vs": {
+        "500028": 48,
+        "500032": 35,
+        "500005": 38,
+        "500002": 33,
+        "500014": 28
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
