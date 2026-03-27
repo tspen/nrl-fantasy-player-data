@@ -8474,7 +8474,7 @@
     "last_name": "Blore",
     "squad_id": 500021,
     "cost": 547000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 547000,
@@ -18333,7 +18333,7 @@
     "last_name": "Tuaupiki",
     "squad_id": 500032,
     "cost": 462000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 439000,
@@ -24174,7 +24174,7 @@
     "last_name": "Leiataua",
     "squad_id": 500032,
     "cost": 384000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 364000,
@@ -32002,7 +32002,7 @@
     "last_name": "Afoa",
     "squad_id": 500023,
     "cost": 280000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "3": 280000,
