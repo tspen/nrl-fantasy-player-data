@@ -31077,7 +31077,7 @@
     "last_name": "Leo",
     "squad_id": 500021,
     "cost": 349000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38245,7 +38245,7 @@
     "last_name": "Buchanan",
     "squad_id": 500022,
     "cost": 334000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "4": 350000,
@@ -39418,7 +39418,7 @@
     "last_name": "Ieremia-Toeava",
     "squad_id": 500032,
     "cost": 350000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -39472,6 +39472,102 @@
     ],
     "original_positions": [
       3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100019558,
+    "first_name": "Antonio",
+    "last_name": "Verhoeven",
+    "squad_id": 500011,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "5": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8024,
+      "round_wpr": {
+        "5": 17.8024
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5,
+      6
+    ],
+    "original_positions": [
+      5,
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100020440,
+    "first_name": "Apa",
+    "last_name": "Twidle",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "5": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8024,
+      "round_wpr": {
+        "5": 17.8024
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
