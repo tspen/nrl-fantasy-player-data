@@ -9932,7 +9932,7 @@
         "res": 0.12
       },
       "owned_by": 1.04,
-      "adp": 123,
+      "adp": 122,
       "proj_avg": 41.4,
       "wpr": 37.5427,
       "round_wpr": {
@@ -10142,7 +10142,7 @@
     "last_name": "Hayes",
     "squad_id": 500010,
     "cost": 525000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 523000,
@@ -12677,7 +12677,7 @@
         "res": 1.16
       },
       "owned_by": 10.44,
-      "adp": 122,
+      "adp": 123,
       "proj_avg": 39.3,
       "wpr": 40.3713,
       "round_wpr": {
@@ -14933,7 +14933,7 @@
         "res": 0.1
       },
       "owned_by": 1.68,
-      "adp": 191,
+      "adp": 192,
       "proj_avg": 37.6,
       "wpr": 39.9557,
       "round_wpr": {
@@ -19475,7 +19475,7 @@
         "res": 0.08
       },
       "owned_by": 0.3,
-      "adp": 279,
+      "adp": 278,
       "proj_avg": 34.2,
       "wpr": 29.2744,
       "round_wpr": {
@@ -22546,7 +22546,7 @@
         "res": 0.29
       },
       "owned_by": 1.04,
-      "adp": 278,
+      "adp": 279,
       "proj_avg": 31.5,
       "wpr": 33.5673,
       "round_wpr": {
@@ -30002,7 +30002,7 @@
     "last_name": "Turpin",
     "squad_id": 500010,
     "cost": 267000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 267000,
@@ -31845,7 +31845,7 @@
         "res": 2.61
       },
       "owned_by": 5.64,
-      "adp": 192,
+      "adp": 191,
       "proj_avg": 16.7,
       "wpr": 27.8024,
       "round_wpr": {
@@ -35079,7 +35079,7 @@
     "last_name": "Siegwalt",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -37024,6 +37024,53 @@
     "locked": 0
   },
   {
+    "id": 100008447,
+    "first_name": "Logan",
+    "last_name": "Spinks",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "5": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8024,
+      "round_wpr": {
+        "5": 17.8024
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100008487,
     "first_name": "Billy",
     "last_name": "Phillips",
@@ -38310,7 +38357,7 @@
     "last_name": "Sua",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
