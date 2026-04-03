@@ -11639,7 +11639,7 @@
         "res": 0.1
       },
       "owned_by": 0.5,
-      "adp": 167,
+      "adp": 168,
       "proj_avg": 39.8,
       "wpr": 34.4566,
       "round_wpr": {
@@ -11719,7 +11719,7 @@
         "res": 0.04
       },
       "owned_by": 0.29,
-      "adp": 177,
+      "adp": 178,
       "proj_avg": 39.7,
       "wpr": 40.1441,
       "round_wpr": {
@@ -13625,7 +13625,7 @@
         "res": 0.37
       },
       "owned_by": 2.27,
-      "adp": 178,
+      "adp": 177,
       "proj_avg": 38.8,
       "wpr": 37.26,
       "round_wpr": {
@@ -14206,7 +14206,7 @@
         "res": 0.31
       },
       "owned_by": 1.89,
-      "adp": 168,
+      "adp": 167,
       "proj_avg": 38.2,
       "wpr": 40.9228,
       "round_wpr": {
@@ -23529,7 +23529,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -30068,7 +30068,7 @@
     "last_name": "Turpin",
     "squad_id": 500010,
     "cost": 267000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 267000,
@@ -37108,7 +37108,7 @@
     "last_name": "Spinks",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "5": 230000
