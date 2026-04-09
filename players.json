@@ -24626,7 +24626,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500010,
     "cost": 309000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -34336,7 +34336,7 @@
     "last_name": "Fonua",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -40961,7 +40961,7 @@
     "last_name": "Rinakama",
     "squad_id": 500010,
     "cost": 300000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "6": 300000
