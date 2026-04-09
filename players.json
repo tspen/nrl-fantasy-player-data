@@ -3768,7 +3768,7 @@
         "res": 1.83
       },
       "owned_by": 10.43,
-      "adp": 59,
+      "adp": 58,
       "proj_avg": 50,
       "wpr": 19.4859,
       "round_wpr": {
@@ -5545,7 +5545,7 @@
         "res": 0.07
       },
       "owned_by": 0.64,
-      "adp": 58,
+      "adp": 59,
       "proj_avg": 47.9,
       "wpr": 43.8426,
       "round_wpr": {
@@ -10931,7 +10931,7 @@
         "res": 0.53
       },
       "owned_by": 2.38,
-      "adp": 141,
+      "adp": 140,
       "proj_avg": 40.6,
       "wpr": 50.5195,
       "round_wpr": {
@@ -11775,7 +11775,7 @@
         "res": 0.25
       },
       "owned_by": 0.96,
-      "adp": 140,
+      "adp": 141,
       "proj_avg": 40,
       "wpr": 37.4488,
       "round_wpr": {
@@ -13296,7 +13296,7 @@
         "res": 0.08
       },
       "owned_by": 0.36,
-      "adp": 192,
+      "adp": 191,
       "proj_avg": 39.2,
       "wpr": 38.7716,
       "round_wpr": {
@@ -13469,7 +13469,7 @@
         "res": 0.2
       },
       "owned_by": 1.63,
-      "adp": 159,
+      "adp": 158,
       "proj_avg": 39.2,
       "wpr": 39.1983,
       "round_wpr": {
@@ -30667,7 +30667,7 @@
         "res": 3.27
       },
       "owned_by": 17.37,
-      "adp": 158,
+      "adp": 159,
       "proj_avg": 22.4,
       "wpr": 33.1758,
       "round_wpr": {
@@ -33169,7 +33169,7 @@
         "res": 1.53
       },
       "owned_by": 4.67,
-      "adp": 191,
+      "adp": 192,
       "proj_avg": 16.7,
       "wpr": 26.6851,
       "round_wpr": {
@@ -40949,6 +40949,58 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100013980,
+    "first_name": "Jethro",
+    "last_name": "Rinakama",
+    "squad_id": 500010,
+    "cost": 300000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "6": 300000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 216,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 23.3127,
+      "round_wpr": {
+        "6": 23.3127
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 26,
+      "career_avg_vs": {
+        "500012": 31,
+        "500022": 38,
+        "500023": 10,
+        "500032": 25
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
