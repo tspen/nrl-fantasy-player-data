@@ -19621,7 +19621,7 @@
     "last_name": "Butcher",
     "squad_id": 500001,
     "cost": 400000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 440000,
@@ -21430,7 +21430,7 @@
     "last_name": "Steep",
     "squad_id": 500001,
     "cost": 375000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 423000,
@@ -32140,7 +32140,7 @@
     "last_name": "Hau Tapuha",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 250000,
@@ -33494,7 +33494,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 244000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -34608,7 +34608,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -36867,7 +36867,7 @@
     "last_name": "Vea'ila",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38993,7 +38993,7 @@
     "last_name": "Jones",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
