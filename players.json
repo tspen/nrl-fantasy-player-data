@@ -12355,7 +12355,7 @@
         "res": 0.04
       },
       "owned_by": 0.41,
-      "adp": 178,
+      "adp": 177,
       "proj_avg": 39.7,
       "wpr": 41.3653,
       "round_wpr": {
@@ -14893,7 +14893,7 @@
         "res": 0.17
       },
       "owned_by": 0.76,
-      "adp": 177,
+      "adp": 178,
       "proj_avg": 38.2,
       "wpr": 33.3706,
       "round_wpr": {
@@ -38847,6 +38847,53 @@
     "locked": 1
   },
   {
+    "id": 100007651,
+    "first_name": "Adam",
+    "last_name": "Christensen",
+    "squad_id": 500004,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "6": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8731,
+      "round_wpr": {
+        "6": 17.8731
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100007790,
     "first_name": "Jonah",
     "last_name": "Glover",
@@ -39211,7 +39258,7 @@
     "last_name": "Brown",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "playing",
     "stats": {
       "prices": {
         "6": 250000
@@ -40451,7 +40498,7 @@
     "last_name": "Talataina",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "uncertain",
+    "status": "reserve",
     "stats": {
       "prices": {
         "6": 230000
