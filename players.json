@@ -39206,6 +39206,53 @@
     "locked": 1
   },
   {
+    "id": 100008613,
+    "first_name": "Teancum",
+    "last_name": "Brown",
+    "squad_id": 500031,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "6": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.4273,
+      "round_wpr": {
+        "6": 19.4273
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100008673,
     "first_name": "Morgan",
     "last_name": "Gannon",
@@ -40397,6 +40444,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100011254,
+    "first_name": "Lorenzo",
+    "last_name": "Talataina",
+    "squad_id": 500031,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "6": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 17.8731,
+      "round_wpr": {
+        "6": 17.8731
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      4
+    ],
+    "original_positions": [
+      4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100011291,
