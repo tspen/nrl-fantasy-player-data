@@ -20970,7 +20970,7 @@
     "last_name": "Haas",
     "squad_id": 500004,
     "cost": 423000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 430000,
@@ -35977,7 +35977,7 @@
     "last_name": "Taumoepeau",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -39222,7 +39222,7 @@
     "last_name": "Brown",
     "squad_id": 500031,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 250000
@@ -40462,7 +40462,7 @@
     "last_name": "Talataina",
     "squad_id": 500031,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "6": 230000
