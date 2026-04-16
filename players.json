@@ -25295,7 +25295,7 @@
     "last_name": "Derby",
     "squad_id": 500012,
     "cost": 384000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -28178,7 +28178,7 @@
     "last_name": "Brown",
     "squad_id": 500002,
     "cost": 298000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 351000,
@@ -37539,7 +37539,7 @@
     "last_name": "Shereb",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "7": 230000
