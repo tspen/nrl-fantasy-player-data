@@ -9677,7 +9677,7 @@
     "last_name": "Brimson",
     "squad_id": 500004,
     "cost": 389000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 542000,
@@ -15096,7 +15096,7 @@
     "last_name": "Randall",
     "squad_id": 500004,
     "cost": 488000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 487000,
@@ -15730,7 +15730,7 @@
     "last_name": "Nicoll-Klokstad",
     "squad_id": 500032,
     "cost": 484000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -31710,7 +31710,7 @@
     "last_name": "Patston",
     "squad_id": 500004,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -40635,7 +40635,7 @@
     "last_name": "Gannon",
     "squad_id": 500032,
     "cost": 409000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -41545,7 +41545,7 @@
     "last_name": "Harrison",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -43354,7 +43354,7 @@
     "last_name": "Ieremia-Toeava",
     "squad_id": 500032,
     "cost": 350000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
