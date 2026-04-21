@@ -4040,7 +4040,7 @@
     "last_name": "Fale",
     "squad_id": 500022,
     "cost": 265000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -16319,7 +16319,7 @@
     "last_name": "Nicoll-Klokstad",
     "squad_id": 500032,
     "cost": 470000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 481000,
@@ -35933,7 +35933,7 @@
     "last_name": "Tupou",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38839,6 +38839,57 @@
     ],
     "original_positions": [
       1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 507057,
+    "first_name": "Preston",
+    "last_name": "Riki",
+    "squad_id": 500011,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "8": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 234,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.6088,
+      "round_wpr": {
+        "8": 19.6088
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 16.3333,
+      "career_avg_vs": {
+        "500022": 18,
+        "500003": 18,
+        "500010": 13
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
