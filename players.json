@@ -6906,7 +6906,7 @@
         "res": 0.12
       },
       "owned_by": 0.51,
-      "adp": 87,
+      "adp": 88,
       "proj_avg": 46.1,
       "wpr": 41.7483,
       "round_wpr": {
@@ -7577,7 +7577,7 @@
         "res": 0.48
       },
       "owned_by": 2.69,
-      "adp": 88,
+      "adp": 87,
       "proj_avg": 45.5,
       "wpr": 45.8427,
       "round_wpr": {
@@ -14486,7 +14486,7 @@
         "res": 0.13
       },
       "owned_by": 0.41,
-      "adp": 196,
+      "adp": 197,
       "proj_avg": 39.2,
       "wpr": 36.4156,
       "round_wpr": {
@@ -16267,7 +16267,7 @@
         "res": 0.6
       },
       "owned_by": 2.53,
-      "adp": 197,
+      "adp": 196,
       "proj_avg": 38,
       "wpr": 53.8579,
       "round_wpr": {
@@ -16457,7 +16457,7 @@
         "res": 0.73
       },
       "owned_by": 6.18,
-      "adp": 152,
+      "adp": 151,
       "proj_avg": 37.8,
       "wpr": 46.6348,
       "round_wpr": {
@@ -17874,7 +17874,7 @@
         "res": 1.18
       },
       "owned_by": 10.37,
-      "adp": 151,
+      "adp": 152,
       "proj_avg": 36.8,
       "wpr": 42.9677,
       "round_wpr": {
@@ -43548,6 +43548,53 @@
     ],
     "original_positions": [
       4
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100011261,
+    "first_name": "Jordan",
+    "last_name": "Uta",
+    "squad_id": 500013,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "8": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.0401,
+      "round_wpr": {
+        "8": 18.0401
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
