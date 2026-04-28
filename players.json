@@ -3356,7 +3356,7 @@
         "res": 0.22
       },
       "owned_by": 0.85,
-      "adp": 44,
+      "adp": 43,
       "proj_avg": 50.9,
       "wpr": 41.9378,
       "round_wpr": {
@@ -5257,7 +5257,7 @@
     "last_name": "Marshall-King",
     "squad_id": 500723,
     "cost": 620000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 620000,
@@ -5484,7 +5484,7 @@
         "res": 0.39
       },
       "owned_by": 7.42,
-      "adp": 43,
+      "adp": 44,
       "proj_avg": 48.5,
       "wpr": 51.3148,
       "round_wpr": {
@@ -12279,7 +12279,7 @@
         "res": 0.47
       },
       "owned_by": 2.71,
-      "adp": 136,
+      "adp": 137,
       "proj_avg": 40.6,
       "wpr": 51.5389,
       "round_wpr": {
@@ -12647,7 +12647,7 @@
         "res": 0.02
       },
       "owned_by": 0.11,
-      "adp": 155,
+      "adp": 156,
       "proj_avg": 40.4,
       "wpr": 40.5755,
       "round_wpr": {
@@ -15338,7 +15338,7 @@
         "res": 1.93
       },
       "owned_by": 9.25,
-      "adp": 137,
+      "adp": 136,
       "proj_avg": 39.1,
       "wpr": 33.8421,
       "round_wpr": {
@@ -16939,7 +16939,7 @@
     "last_name": "Nicoll-Klokstad",
     "squad_id": 500032,
     "cost": 470000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 481000,
@@ -21910,7 +21910,7 @@
         "res": 0.08
       },
       "owned_by": 0.33,
-      "adp": 274,
+      "adp": 273,
       "proj_avg": 34.6,
       "wpr": 37.149,
       "round_wpr": {
@@ -24409,7 +24409,7 @@
         "res": 0.66
       },
       "owned_by": 2.46,
-      "adp": 273,
+      "adp": 274,
       "proj_avg": 33.1,
       "wpr": 32.6883,
       "round_wpr": {
@@ -25381,7 +25381,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 410000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 410000,
@@ -34241,7 +34241,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "not-playing",
+    "status": "suspended",
     "stats": {
       "prices": {
         "1": 250000,
@@ -34350,7 +34350,7 @@
         "res": 5.29
       },
       "owned_by": 16.94,
-      "adp": 156,
+      "adp": 155,
       "proj_avg": 22.4,
       "wpr": 33.7063,
       "round_wpr": {
@@ -46378,6 +46378,53 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100013762,
+    "first_name": "Alekolasimi",
+    "last_name": "Jones",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "9": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.1574,
+      "round_wpr": {
+        "9": 18.1574
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
