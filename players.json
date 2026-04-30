@@ -34573,7 +34573,7 @@
     "last_name": "O'Donnell",
     "squad_id": 500012,
     "cost": 321000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 277000,
@@ -37894,7 +37894,7 @@
     "last_name": "Lahrs",
     "squad_id": 500012,
     "cost": 243000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43505,7 +43505,7 @@
     "last_name": "Spinks",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "5": 230000,
@@ -45923,7 +45923,7 @@
     "last_name": "Barber",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -46602,7 +46602,7 @@
     "last_name": "Rinakama",
     "squad_id": 500010,
     "cost": 300000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 300000,
