@@ -27261,7 +27261,7 @@
     "last_name": "Derby",
     "squad_id": 500012,
     "cost": 384000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 384000,
@@ -27613,7 +27613,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500010,
     "cost": 309000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -37894,7 +37894,7 @@
     "last_name": "Lahrs",
     "squad_id": 500012,
     "cost": 243000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
