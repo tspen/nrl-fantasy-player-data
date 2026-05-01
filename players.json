@@ -13453,7 +13453,7 @@
     "last_name": "Strange",
     "squad_id": 500013,
     "cost": 569000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 508000,
@@ -18345,7 +18345,7 @@
         "res": 0.02
       },
       "owned_by": 0.12,
-      "adp": 229,
+      "adp": 228,
       "proj_avg": 36.8,
       "wpr": 36.1647,
       "round_wpr": {
@@ -20734,7 +20734,7 @@
         "res": 0.3
       },
       "owned_by": 1.65,
-      "adp": 228,
+      "adp": 229,
       "proj_avg": 35.5,
       "wpr": 33.7609,
       "round_wpr": {
@@ -20933,7 +20933,7 @@
         "res": 0.34
       },
       "owned_by": 1.71,
-      "adp": 233,
+      "adp": 234,
       "proj_avg": 35.4,
       "wpr": 42.666,
       "round_wpr": {
@@ -26265,7 +26265,7 @@
         "res": 1.03
       },
       "owned_by": 3.83,
-      "adp": 234,
+      "adp": 233,
       "proj_avg": 31.5,
       "wpr": 27.4384,
       "round_wpr": {
@@ -33350,7 +33350,7 @@
         "res": 3.52
       },
       "owned_by": 9.27,
-      "adp": 157,
+      "adp": 158,
       "proj_avg": 24.4,
       "wpr": 40.2579,
       "round_wpr": {
@@ -41627,7 +41627,7 @@
         "res": 3.47
       },
       "owned_by": 48.97,
-      "adp": 158,
+      "adp": 157,
       "proj_avg": 0,
       "wpr": 44.232,
       "round_wpr": {
@@ -42782,7 +42782,7 @@
     "last_name": "Clydsdale",
     "squad_id": 500013,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -43191,7 +43191,7 @@
     "last_name": "Christensen",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -43487,6 +43487,53 @@
         "500023": 40
       },
       "last_3_proj_avg": 39.33
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100008424,
+    "first_name": "Ethan",
+    "last_name": "Alaia",
+    "squad_id": 500013,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "9": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.1574,
+      "round_wpr": {
+        "9": 18.1574
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
     },
     "positions": [
       6
