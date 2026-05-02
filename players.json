@@ -23226,7 +23226,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -24361,7 +24361,7 @@
     "last_name": "Schiller",
     "squad_id": 500003,
     "cost": 402000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 421000,
@@ -32714,7 +32714,7 @@
     "last_name": "Smith",
     "squad_id": 500005,
     "cost": 333000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 300000,
@@ -35962,7 +35962,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -38681,7 +38681,7 @@
     "last_name": "Elliott",
     "squad_id": 500005,
     "cost": 538000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 538000,
