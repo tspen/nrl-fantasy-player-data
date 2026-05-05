@@ -9828,7 +9828,7 @@
     "last_name": "Doueihi",
     "squad_id": 500023,
     "cost": 739000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 557000,
@@ -18063,7 +18063,7 @@
     "last_name": "Ramien",
     "squad_id": 500028,
     "cost": 482000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 479000,
@@ -20558,7 +20558,7 @@
     "last_name": "Hetherington",
     "squad_id": 500002,
     "cost": 412000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 461000,
@@ -22849,7 +22849,7 @@
     "last_name": "Cant",
     "squad_id": 500003,
     "cost": 320000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 440000,
@@ -25715,7 +25715,7 @@
     "last_name": "Penisini",
     "squad_id": 500031,
     "cost": 469000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 416000,
@@ -26330,7 +26330,7 @@
         "res": 0.1
       },
       "owned_by": 0.63,
-      "adp": 276,
+      "adp": 275,
       "proj_avg": 32.2,
       "wpr": 32.4859,
       "round_wpr": {
@@ -27316,7 +27316,7 @@
         "res": 0.37
       },
       "owned_by": 2.38,
-      "adp": 275,
+      "adp": 276,
       "proj_avg": 31.5,
       "wpr": 43.507,
       "round_wpr": {
@@ -45559,6 +45559,53 @@
     "locked": 0
   },
   {
+    "id": 100008943,
+    "first_name": "Xavier",
+    "last_name": "Kerrisk",
+    "squad_id": 500012,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "10": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2055,
+      "round_wpr": {
+        "10": 18.2055
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100008997,
     "first_name": "Mason",
     "last_name": "Kira",
@@ -48602,6 +48649,53 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100014541,
+    "first_name": "Phillip",
+    "last_name": "Coates",
+    "squad_id": 500011,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "10": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2055,
+      "round_wpr": {
+        "10": 18.2055
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
