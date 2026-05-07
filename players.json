@@ -10615,7 +10615,7 @@
     "last_name": "Burton",
     "squad_id": 500010,
     "cost": 607000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 549000,
@@ -11828,7 +11828,7 @@
     "last_name": "Naufahu",
     "squad_id": 500723,
     "cost": 410000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -14909,7 +14909,7 @@
         "res": 0.28
       },
       "owned_by": 1.23,
-      "adp": 166,
+      "adp": 167,
       "proj_avg": 39.4,
       "wpr": 36.705,
       "round_wpr": {
@@ -21990,7 +21990,7 @@
         "res": 0.02
       },
       "owned_by": 0.08,
-      "adp": 266,
+      "adp": 265,
       "proj_avg": 35.1,
       "wpr": 33.3575,
       "round_wpr": {
@@ -23822,7 +23822,7 @@
         "res": 0.49
       },
       "owned_by": 1.41,
-      "adp": 265,
+      "adp": 266,
       "proj_avg": 34.1,
       "wpr": 33.5093,
       "round_wpr": {
@@ -26045,7 +26045,7 @@
         "res": 1.3
       },
       "owned_by": 5.5,
-      "adp": 234,
+      "adp": 235,
       "proj_avg": 32.5,
       "wpr": 39.1329,
       "round_wpr": {
@@ -26292,7 +26292,7 @@
     "last_name": "Smith",
     "squad_id": 500001,
     "cost": 410000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 410000,
@@ -27211,7 +27211,7 @@
         "res": 0.65
       },
       "owned_by": 3.02,
-      "adp": 235,
+      "adp": 234,
       "proj_avg": 31.5,
       "wpr": 25.1621,
       "round_wpr": {
@@ -29124,7 +29124,7 @@
         "res": 2.09
       },
       "owned_by": 15.57,
-      "adp": 167,
+      "adp": 166,
       "proj_avg": 29.4,
       "wpr": 55.3049,
       "round_wpr": {
@@ -29454,7 +29454,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 380000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 373000,
@@ -33322,7 +33322,7 @@
     "last_name": "Ioelu",
     "squad_id": 500001,
     "cost": 342000,
-    "status": "playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "1": 327000,
@@ -35453,7 +35453,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -40435,7 +40435,7 @@
     "last_name": "Pauga",
     "squad_id": 500001,
     "cost": 374000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -44760,7 +44760,7 @@
     "last_name": "Christensen",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
@@ -45136,7 +45136,7 @@
     "last_name": "Spinks",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "5": 230000,
