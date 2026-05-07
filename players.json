@@ -1015,7 +1015,7 @@
     "last_name": "Mitchell",
     "squad_id": 500005,
     "cost": 919000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 723000,
@@ -12111,7 +12111,7 @@
     "last_name": "Humphreys",
     "squad_id": 500005,
     "cost": 448000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 526000,
@@ -14400,7 +14400,7 @@
         "res": 0.19
       },
       "owned_by": 0.89,
-      "adp": 169,
+      "adp": 170,
       "proj_avg": 39.7,
       "wpr": 31.5692,
       "round_wpr": {
@@ -19108,7 +19108,7 @@
         "res": 4.27
       },
       "owned_by": 27.58,
-      "adp": 192,
+      "adp": 193,
       "proj_avg": 36.8,
       "wpr": 49.4977,
       "round_wpr": {
@@ -22496,7 +22496,7 @@
         "res": 7.82
       },
       "owned_by": 25.68,
-      "adp": 182,
+      "adp": 181,
       "proj_avg": 34.7,
       "wpr": 50.2119,
       "round_wpr": {
@@ -26045,7 +26045,7 @@
         "res": 1.3
       },
       "owned_by": 5.5,
-      "adp": 235,
+      "adp": 234,
       "proj_avg": 32.5,
       "wpr": 39.1329,
       "round_wpr": {
@@ -27211,7 +27211,7 @@
         "res": 0.65
       },
       "owned_by": 3.02,
-      "adp": 234,
+      "adp": 235,
       "proj_avg": 31.5,
       "wpr": 25.1621,
       "round_wpr": {
@@ -29124,7 +29124,7 @@
         "res": 2.09
       },
       "owned_by": 15.57,
-      "adp": 170,
+      "adp": 169,
       "proj_avg": 29.4,
       "wpr": 55.3049,
       "round_wpr": {
@@ -37105,7 +37105,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -39945,7 +39945,7 @@
         "res": 0.02
       },
       "owned_by": 0.09,
-      "adp": 181,
+      "adp": 182,
       "proj_avg": 0,
       "wpr": 42.582,
       "round_wpr": {
@@ -42552,7 +42552,7 @@
     "last_name": "Siegwalt",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "not-playing",
+    "status": "playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -42734,7 +42734,7 @@
         "res": 8.03
       },
       "owned_by": 31.99,
-      "adp": 193,
+      "adp": 192,
       "proj_avg": 0,
       "wpr": 34.3328,
       "round_wpr": {
