@@ -6912,7 +6912,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -33125,7 +33125,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 297000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 332000,
@@ -37169,7 +37169,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -42954,7 +42954,7 @@
     "last_name": "Vea'ila",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -45801,7 +45801,7 @@
     "last_name": "Jones",
     "squad_id": 500028,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
