@@ -13834,7 +13834,7 @@
     "last_name": "Hopwood",
     "squad_id": 500003,
     "cost": 231000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -14122,7 +14122,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 365000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 507000,
@@ -33398,7 +33398,7 @@
     "last_name": "Graham",
     "squad_id": 500003,
     "cost": 357000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -39224,7 +39224,7 @@
     "last_name": "Atkinson",
     "squad_id": 500022,
     "cost": 469000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 450000,
