@@ -36172,7 +36172,7 @@
     "last_name": "Sukkar",
     "squad_id": 500023,
     "cost": 299000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 276000,
@@ -36513,7 +36513,7 @@
     "last_name": "Waitere",
     "squad_id": 500021,
     "cost": 288000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -37537,7 +37537,7 @@
     "last_name": "Hetherington",
     "squad_id": 500021,
     "cost": 239000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -37630,7 +37630,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
