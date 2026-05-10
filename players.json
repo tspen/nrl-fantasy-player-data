@@ -104,7 +104,7 @@
     "last_name": "May",
     "squad_id": 500023,
     "cost": 878000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 930000,
@@ -37884,7 +37884,7 @@
     "last_name": "Leo",
     "squad_id": 500021,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -43519,7 +43519,7 @@
     "last_name": "Murray",
     "squad_id": 500023,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "10": 250000
