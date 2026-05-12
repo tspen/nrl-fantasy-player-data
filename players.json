@@ -16854,7 +16854,7 @@
         "res": 0.38
       },
       "owned_by": 1.83,
-      "adp": 191,
+      "adp": 192,
       "proj_avg": 38.9,
       "wpr": 28.431,
       "round_wpr": {
@@ -19759,7 +19759,7 @@
         "res": 4.8
       },
       "owned_by": 26.88,
-      "adp": 192,
+      "adp": 191,
       "proj_avg": 36.8,
       "wpr": 49.2899,
       "round_wpr": {
@@ -20345,7 +20345,7 @@
     "last_name": "Johnston",
     "squad_id": 500005,
     "cost": 646000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 463000,
@@ -23265,7 +23265,7 @@
         "res": 8.55
       },
       "owned_by": 25.45,
-      "adp": 182,
+      "adp": 181,
       "proj_avg": 34.7,
       "wpr": 50.9256,
       "round_wpr": {
@@ -41287,7 +41287,7 @@
         "res": 0.02
       },
       "owned_by": 0.09,
-      "adp": 181,
+      "adp": 182,
       "proj_avg": 0,
       "wpr": 40.6168,
       "round_wpr": {
@@ -41604,7 +41604,7 @@
     "last_name": "Afoa",
     "squad_id": 500023,
     "cost": 277000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "3": 280000,
@@ -42656,6 +42656,62 @@
     "locked": 0
   },
   {
+    "id": 505672,
+    "first_name": "Bayleigh",
+    "last_name": "Bentley-Hape",
+    "squad_id": 500005,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "11": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 274,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.8665,
+      "round_wpr": {
+        "11": 19.8665
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 18.5556,
+      "career_avg_vs": {
+        "500022": 16,
+        "500021": 4,
+        "500003": 30,
+        "500011": 25,
+        "500023": 13,
+        "500032": 17,
+        "500004": 31,
+        "500031": 6
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 505684,
     "first_name": "Jensen",
     "last_name": "Taumoepeau",
@@ -43160,6 +43216,69 @@
     ],
     "original_positions": [
       3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 508306,
+    "first_name": "Wiremu",
+    "last_name": "Greig",
+    "squad_id": 500012,
+    "cost": 250000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "11": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 274,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 19.8665,
+      "round_wpr": {
+        "11": 19.8665
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 22.1304,
+      "career_avg_vs": {
+        "500021": 12.5,
+        "500002": 11,
+        "500014": 17.6667,
+        "500001": 20,
+        "500023": 15,
+        "500010": 16.5,
+        "500011": 22,
+        "500003": 41,
+        "500004": 22,
+        "500013": 29,
+        "500005": 43,
+        "500012": 56,
+        "500022": 8,
+        "500028": 26,
+        "500032": 14
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      2
+    ],
+    "original_positions": [
+      2
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
@@ -45466,6 +45585,53 @@
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 1,
+    "locked": 0
+  },
+  {
+    "id": 100006516,
+    "first_name": "Ethan",
+    "last_name": "Roberts",
+    "squad_id": 500023,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "11": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2772,
+      "round_wpr": {
+        "11": 18.2772
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
     "locked": 0
   },
   {
@@ -48536,7 +48702,7 @@
     "last_name": "Linnane",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "injured",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -49843,7 +50009,7 @@
     "last_name": "Peel",
     "squad_id": 500021,
     "cost": 230000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "2": 230000,
