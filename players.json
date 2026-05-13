@@ -9428,7 +9428,7 @@
     "last_name": "Curran",
     "squad_id": 500010,
     "cost": 319000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 566000,
@@ -25382,7 +25382,7 @@
     "last_name": "Hughes",
     "squad_id": 500010,
     "cost": 372000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 425000,
@@ -29563,7 +29563,7 @@
     "last_name": "O'Sullivan",
     "squad_id": 500010,
     "cost": 288000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -47743,7 +47743,7 @@
     "last_name": "Underhill",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "not-playing",
+    "status": "reserve",
     "stats": {
       "prices": {
         "4": 230000,
