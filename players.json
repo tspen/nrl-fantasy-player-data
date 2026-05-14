@@ -1790,7 +1790,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 477000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -7138,7 +7138,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -9960,7 +9960,7 @@
     "last_name": "Donoghoe",
     "squad_id": 500723,
     "cost": 472000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 560000,
@@ -25487,7 +25487,7 @@
     "last_name": "Molo",
     "squad_id": 500723,
     "cost": 350000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 424000,
@@ -29379,7 +29379,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47216,6 +47216,53 @@
       3
     ],
     "original_positions": [],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100008712,
+    "first_name": "Jed",
+    "last_name": "Reardon",
+    "squad_id": 500010,
+    "cost": 230000,
+    "status": "reserve",
+    "stats": {
+      "prices": {
+        "11": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.2772,
+      "round_wpr": {
+        "11": 18.2772
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      3
+    ],
+    "original_positions": [
+      3
+    ],
     "original_squad_id": 0,
     "transfer_round": 0,
     "is_bye": 0,
