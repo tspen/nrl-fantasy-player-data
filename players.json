@@ -8893,7 +8893,7 @@
     "last_name": "Twal",
     "squad_id": 500023,
     "cost": 863000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 570000,
@@ -12772,7 +12772,7 @@
         "res": 0.12
       },
       "owned_by": 0.47,
-      "adp": 147,
+      "adp": 148,
       "proj_avg": 41.1,
       "wpr": 36.515,
       "round_wpr": {
@@ -40452,7 +40452,7 @@
     "last_name": "Schoupp",
     "squad_id": 500002,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -41604,7 +41604,7 @@
     "last_name": "Afoa",
     "squad_id": 500023,
     "cost": 277000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "3": 280000,
@@ -46713,7 +46713,7 @@
         "res": 17.39
       },
       "owned_by": 33.32,
-      "adp": 148,
+      "adp": 147,
       "proj_avg": 0,
       "wpr": 42.5828,
       "round_wpr": {
@@ -48620,7 +48620,7 @@
     "last_name": "Laiafi",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
