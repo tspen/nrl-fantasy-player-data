@@ -7395,7 +7395,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -29706,7 +29706,7 @@
     "last_name": "Pompey",
     "squad_id": 500032,
     "cost": 281000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 391000,
@@ -38319,7 +38319,7 @@
     "last_name": "O'Donnell",
     "squad_id": 500012,
     "cost": 321000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 277000,
@@ -44756,7 +44756,7 @@
     "last_name": "Greig",
     "squad_id": 500012,
     "cost": 241000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "11": 250000,
@@ -49271,7 +49271,7 @@
     "last_name": "Peckham-Harris",
     "squad_id": 500022,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 230000
@@ -51675,7 +51675,7 @@
     "last_name": "Barber",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
