@@ -5513,7 +5513,7 @@
     "last_name": "Iro",
     "squad_id": 500028,
     "cost": 643000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 628000,
@@ -7218,7 +7218,7 @@
     "last_name": "Olakau'atu",
     "squad_id": 500002,
     "cost": 781000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 608000,
@@ -10863,7 +10863,7 @@
     "last_name": "Nikora",
     "squad_id": 500028,
     "cost": 356000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 555000,
@@ -14198,7 +14198,7 @@
     "last_name": "Koula",
     "squad_id": 500002,
     "cost": 541000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 515000,
@@ -16711,7 +16711,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 430000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -36208,7 +36208,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 297000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 332000,
@@ -43792,7 +43792,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 253000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
