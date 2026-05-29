@@ -13366,7 +13366,7 @@
     "last_name": "Crichton",
     "squad_id": 500010,
     "cost": 495000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 523000,
@@ -16482,7 +16482,7 @@
     "last_name": "Tracey",
     "squad_id": 500010,
     "cost": 331000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 500000,
@@ -30684,7 +30684,7 @@
     "last_name": "Montoya",
     "squad_id": 500010,
     "cost": 311000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 386000,
@@ -39967,7 +39967,7 @@
     "last_name": "Mason",
     "squad_id": 500023,
     "cost": 272000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -48468,7 +48468,7 @@
     "last_name": "Roberts",
     "squad_id": 500023,
     "cost": 240000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "11": 230000,
