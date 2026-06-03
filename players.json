@@ -7773,7 +7773,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -22797,7 +22797,7 @@
         "res": 0.15
       },
       "owned_by": 0.55,
-      "adp": 236,
+      "adp": 235,
       "proj_avg": 36.3,
       "wpr": 37.3464,
       "round_wpr": {
@@ -30643,7 +30643,7 @@
         "res": 0.4
       },
       "owned_by": 2.03,
-      "adp": 235,
+      "adp": 236,
       "proj_avg": 31.5,
       "wpr": 25.81,
       "round_wpr": {
@@ -32001,7 +32001,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -41807,7 +41807,7 @@
     "last_name": "Le Blanc",
     "squad_id": 500005,
     "cost": 255000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -44099,7 +44099,7 @@
     "last_name": "Schoupp",
     "squad_id": 500002,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -55282,7 +55282,7 @@
     "last_name": "Large",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
