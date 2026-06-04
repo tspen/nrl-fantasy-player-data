@@ -7773,7 +7773,7 @@
     "last_name": "Graham-Taufa",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -12059,7 +12059,7 @@
     "last_name": "Blore",
     "squad_id": 500021,
     "cost": 418000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 547000,
@@ -14008,7 +14008,7 @@
         "res": 0.08
       },
       "owned_by": 0.45,
-      "adp": 150,
+      "adp": 149,
       "proj_avg": 41,
       "wpr": 20.2969,
       "round_wpr": {
@@ -21202,7 +21202,7 @@
         "res": 3.77
       },
       "owned_by": 19.32,
-      "adp": 149,
+      "adp": 150,
       "proj_avg": 37,
       "wpr": 25.0933,
       "round_wpr": {
@@ -24156,7 +24156,7 @@
     "last_name": "Howarth",
     "squad_id": 500021,
     "cost": 426000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 452000,
@@ -27030,7 +27030,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -28485,7 +28485,7 @@
         "res": 0.32
       },
       "owned_by": 1.34,
-      "adp": 274,
+      "adp": 273,
       "proj_avg": 33.1,
       "wpr": 31.6439,
       "round_wpr": {
@@ -33818,7 +33818,7 @@
     "last_name": "Garlick",
     "squad_id": 500005,
     "cost": 284000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 367000,
@@ -33874,7 +33874,7 @@
         "res": 0.26
       },
       "owned_by": 0.88,
-      "adp": 273,
+      "adp": 274,
       "proj_avg": 28.8,
       "wpr": 23.1076,
       "round_wpr": {
@@ -39559,7 +39559,7 @@
     "last_name": "Wilson",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -42818,7 +42818,7 @@
     "last_name": "Salesa-Leaumoana",
     "squad_id": 500003,
     "cost": 238000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -50681,7 +50681,7 @@
     "last_name": "Russell-Smith",
     "squad_id": 500021,
     "cost": 247000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 230000,
