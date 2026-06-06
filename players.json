@@ -34951,7 +34951,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 300000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -37819,7 +37819,7 @@
     "last_name": "Patea",
     "squad_id": 500014,
     "cost": 326000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 326000,
@@ -39257,7 +39257,7 @@
     "last_name": "Hope",
     "squad_id": 500023,
     "cost": 350000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -50101,7 +50101,7 @@
     "last_name": "Roberts",
     "squad_id": 500023,
     "cost": 240000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "11": 230000,
@@ -51692,7 +51692,7 @@
     "last_name": "Phillips",
     "squad_id": 500014,
     "cost": 324000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
