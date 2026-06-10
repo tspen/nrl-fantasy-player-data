@@ -14753,7 +14753,7 @@
         "res": 0.14
       },
       "owned_by": 0.93,
-      "adp": 136,
+      "adp": 137,
       "proj_avg": 40.6,
       "wpr": 52.5006,
       "round_wpr": {
@@ -52750,7 +52750,7 @@
         "res": 11
       },
       "owned_by": 35.79,
-      "adp": 137,
+      "adp": 136,
       "proj_avg": 0,
       "wpr": 55.1355,
       "round_wpr": {
@@ -57957,6 +57957,53 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 100016063,
+    "first_name": "Dayne",
+    "last_name": "Jennings",
+    "squad_id": 500005,
+    "cost": 230000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "15": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.7396,
+      "round_wpr": {
+        "15": 18.7396
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      5
+    ],
+    "original_positions": [
+      5
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
