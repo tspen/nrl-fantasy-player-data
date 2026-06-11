@@ -6005,7 +6005,7 @@
         "res": 0.02
       },
       "owned_by": 0.09,
-      "adp": 68,
+      "adp": 67,
       "proj_avg": 49.1,
       "wpr": 50.9193,
       "round_wpr": {
@@ -8854,7 +8854,7 @@
         "res": 0.34
       },
       "owned_by": 3.39,
-      "adp": 67,
+      "adp": 68,
       "proj_avg": 45.9,
       "wpr": 35.8677,
       "round_wpr": {
@@ -9628,7 +9628,7 @@
     "last_name": "Arrow",
     "squad_id": 500005,
     "cost": 573000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 573000,
@@ -17071,7 +17071,7 @@
         "res": 0.15
       },
       "owned_by": 0.7,
-      "adp": 152,
+      "adp": 153,
       "proj_avg": 39.5,
       "wpr": 27.6793,
       "round_wpr": {
@@ -20563,7 +20563,7 @@
         "res": 0.64
       },
       "owned_by": 8.39,
-      "adp": 153,
+      "adp": 152,
       "proj_avg": 37.8,
       "wpr": 50.3283,
       "round_wpr": {
@@ -42246,7 +42246,7 @@
     "last_name": "Hunt",
     "squad_id": 500011,
     "cost": 243000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 265000,
@@ -46477,7 +46477,7 @@
     "last_name": "Dufty",
     "squad_id": 500005,
     "cost": 414000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "7": 350000,
@@ -57546,7 +57546,7 @@
     "last_name": "Coates",
     "squad_id": 500011,
     "cost": 242000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "10": 230000,
