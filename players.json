@@ -16016,7 +16016,7 @@
         "res": 0.78
       },
       "owned_by": 2.17,
-      "adp": 174,
+      "adp": 173,
       "proj_avg": 40,
       "wpr": 18.9034,
       "round_wpr": {
@@ -16472,7 +16472,7 @@
         "res": 0.06
       },
       "owned_by": 0.83,
-      "adp": 178,
+      "adp": 179,
       "proj_avg": 39.7,
       "wpr": 39.9489,
       "round_wpr": {
@@ -18348,7 +18348,7 @@
         "res": 0.78
       },
       "owned_by": 3.3,
-      "adp": 173,
+      "adp": 174,
       "proj_avg": 39.1,
       "wpr": 37.6772,
       "round_wpr": {
@@ -19873,7 +19873,7 @@
         "res": 0.14
       },
       "owned_by": 0.69,
-      "adp": 179,
+      "adp": 178,
       "proj_avg": 38.2,
       "wpr": 35.1688,
       "round_wpr": {
@@ -21692,7 +21692,7 @@
     "last_name": "Smith",
     "squad_id": 500031,
     "cost": 315000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 473000,
@@ -44425,7 +44425,7 @@
     "last_name": "Mataele",
     "squad_id": 500031,
     "cost": 279000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -44793,7 +44793,7 @@
     "last_name": "Tupou",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -45918,7 +45918,7 @@
     "last_name": "Va'a",
     "squad_id": 500001,
     "cost": 250000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -57688,7 +57688,7 @@
     "last_name": "Fineanganofo",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
