@@ -3404,7 +3404,7 @@
     "last_name": "Metcalf",
     "squad_id": 500032,
     "cost": 581000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 666000,
@@ -21838,7 +21838,7 @@
     "last_name": "Makasini",
     "squad_id": 500023,
     "cost": 283000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -21945,7 +21945,7 @@
     "last_name": "Katoa",
     "squad_id": 500028,
     "cost": 502000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 468000,
@@ -26010,7 +26010,7 @@
     "last_name": "Ilias",
     "squad_id": 500004,
     "cost": 385000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 442000,
@@ -34461,7 +34461,7 @@
     "last_name": "Stonestreet",
     "squad_id": 500028,
     "cost": 346000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 370000,
@@ -41137,7 +41137,7 @@
     "last_name": "Laulilii",
     "squad_id": 500023,
     "cost": 439000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -42058,7 +42058,7 @@
     "last_name": "Francis",
     "squad_id": 500004,
     "cost": 269000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 269000,
