@@ -40451,7 +40451,7 @@
     "last_name": "Hope",
     "squad_id": 500023,
     "cost": 348000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -47544,7 +47544,7 @@
     "last_name": "Molo",
     "squad_id": 500004,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "15": 350000
@@ -56338,7 +56338,7 @@
     "last_name": "Lanyon",
     "squad_id": 500023,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "15": 230000
