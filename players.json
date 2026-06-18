@@ -13794,7 +13794,7 @@
     "last_name": "Ponga",
     "squad_id": 500003,
     "cost": 710000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 600000,
@@ -16654,7 +16654,7 @@
     "last_name": "Tuipulotu",
     "squad_id": 500022,
     "cost": 307000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 507000,
@@ -27620,7 +27620,7 @@
     "last_name": "Smith",
     "squad_id": 500003,
     "cost": 478000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 439000,
@@ -32126,7 +32126,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 418000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 403000,
@@ -39771,7 +39771,7 @@
     "last_name": "Sele",
     "squad_id": 500022,
     "cost": 358000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 325000,
@@ -48228,7 +48228,7 @@
     "last_name": "Saulo",
     "squad_id": 500003,
     "cost": 295000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
