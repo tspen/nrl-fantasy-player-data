@@ -1681,7 +1681,7 @@
     "last_name": "Katoa",
     "squad_id": 500723,
     "cost": 651000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 706000,
@@ -11293,7 +11293,7 @@
     "last_name": "Plath",
     "squad_id": 500723,
     "cost": 624000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 560000,
@@ -11645,7 +11645,7 @@
     "last_name": "Doueihi",
     "squad_id": 500023,
     "cost": 739000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 557000,
@@ -20731,7 +20731,7 @@
     "last_name": "Finefeuiaki",
     "squad_id": 500723,
     "cost": 630000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 484000,
@@ -58087,7 +58087,7 @@
     "last_name": "Nonu",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
