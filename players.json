@@ -6135,7 +6135,7 @@
     "last_name": "Bateman",
     "squad_id": 500012,
     "cost": 625000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 625000,
@@ -8811,7 +8811,7 @@
     "last_name": "Barnett",
     "squad_id": 500032,
     "cost": 498000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 587000,
@@ -43091,7 +43091,7 @@
     "last_name": "Berry",
     "squad_id": 500032,
     "cost": 272000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 272000,
@@ -51691,7 +51691,7 @@
     "last_name": "Sutton",
     "squad_id": 500012,
     "cost": 375000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
