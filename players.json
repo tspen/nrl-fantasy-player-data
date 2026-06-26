@@ -2102,7 +2102,7 @@
     "last_name": "Fuller",
     "squad_id": 500723,
     "cost": 497000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 550000,
@@ -14427,7 +14427,7 @@
     "last_name": "Naufahu",
     "squad_id": 500723,
     "cost": 483000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -23732,7 +23732,7 @@
         "res": 1.04
       },
       "owned_by": 9.63,
-      "adp": 180,
+      "adp": 181,
       "proj_avg": 36.7,
       "wpr": 45.278,
       "round_wpr": {
@@ -35929,7 +35929,7 @@
     "last_name": "Keeley",
     "squad_id": 500723,
     "cost": 350000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 373000,
@@ -48779,7 +48779,7 @@
         "res": 0.03
       },
       "owned_by": 0.1,
-      "adp": 181,
+      "adp": 180,
       "proj_avg": 0,
       "wpr": 37.3734,
       "round_wpr": {
@@ -52578,7 +52578,7 @@
     "last_name": "Ieremia",
     "squad_id": 500004,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "17": 250000
@@ -56391,7 +56391,7 @@
     "last_name": "Reardon",
     "squad_id": 500010,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "11": 230000,
@@ -58365,7 +58365,7 @@
     "last_name": "Linnane",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -61398,7 +61398,7 @@
     "last_name": "Salalilo",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "15": 230000,
