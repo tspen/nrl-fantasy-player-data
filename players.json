@@ -13663,7 +13663,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 376000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 540000,
@@ -16857,7 +16857,7 @@
     "last_name": "Garner",
     "squad_id": 500014,
     "cost": 420000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 510000,
@@ -35593,7 +35593,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53377,7 +53377,7 @@
     "last_name": "Ale",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
