@@ -23456,7 +23456,7 @@
     "last_name": "Smith",
     "squad_id": 500031,
     "cost": 315000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 473000,
@@ -26996,7 +26996,7 @@
         "res": 0.25
       },
       "owned_by": 1.46,
-      "adp": 230,
+      "adp": 229,
       "proj_avg": 35.5,
       "wpr": 36.4487,
       "round_wpr": {
@@ -28014,7 +28014,7 @@
         "res": 0.31
       },
       "owned_by": 1.43,
-      "adp": 254,
+      "adp": 253,
       "proj_avg": 34.8,
       "wpr": 41.3488,
       "round_wpr": {
@@ -28892,7 +28892,7 @@
         "res": 0.4
       },
       "owned_by": 3.39,
-      "adp": 229,
+      "adp": 230,
       "proj_avg": 34.6,
       "wpr": 41.2309,
       "round_wpr": {
@@ -29806,7 +29806,7 @@
         "res": 0.68
       },
       "owned_by": 2.95,
-      "adp": 253,
+      "adp": 254,
       "proj_avg": 34.2,
       "wpr": 42.8492,
       "round_wpr": {
@@ -36799,7 +36799,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 325000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 373000,
@@ -44063,7 +44063,7 @@
     "last_name": "Wilson",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -48007,7 +48007,7 @@
     "last_name": "Mataele",
     "squad_id": 500031,
     "cost": 279000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53659,7 +53659,7 @@
     "last_name": "Baker",
     "squad_id": 500010,
     "cost": 260000,
-    "status": "reserve",
+    "status": "uncertain",
     "stats": {
       "prices": {
         "4": 260000,
