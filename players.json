@@ -37577,7 +37577,7 @@
     "last_name": "Moretti",
     "squad_id": 500031,
     "cost": 325000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 373000,
@@ -38925,7 +38925,7 @@
     "last_name": "Russell",
     "squad_id": 500031,
     "cost": 322000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 364000,
@@ -44318,7 +44318,7 @@
     "last_name": "Watene-Zelezniak",
     "squad_id": 500032,
     "cost": 445000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 309000,
@@ -48093,7 +48093,7 @@
     "last_name": "Leo",
     "squad_id": 500021,
     "cost": 438000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -54882,7 +54882,7 @@
     "id": 509851,
     "first_name": "Fletcher",
     "last_name": "Baker",
-    "squad_id": 500010,
+    "squad_id": 500002,
     "cost": 260000,
     "status": "reserve",
     "stats": {
@@ -54970,8 +54970,8 @@
     "original_positions": [
       2
     ],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500010,
+    "transfer_round": 18,
     "is_bye": 0,
     "locked": 0
   },
