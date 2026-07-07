@@ -8891,7 +8891,7 @@
         "res": 0.72
       },
       "owned_by": 2.72,
-      "adp": 89,
+      "adp": 88,
       "proj_avg": 47,
       "wpr": 18.2872,
       "round_wpr": {
@@ -14531,7 +14531,7 @@
         "res": 0.74
       },
       "owned_by": 6.87,
-      "adp": 88,
+      "adp": 89,
       "proj_avg": 41.9,
       "wpr": 45.5185,
       "round_wpr": {
@@ -14668,7 +14668,7 @@
         "res": 0.22
       },
       "owned_by": 2.27,
-      "adp": 117,
+      "adp": 118,
       "proj_avg": 41.8,
       "wpr": 39.4805,
       "round_wpr": {
@@ -25056,7 +25056,7 @@
         "res": 3.56
       },
       "owned_by": 42.48,
-      "adp": 118,
+      "adp": 117,
       "proj_avg": 36.7,
       "wpr": 59.4543,
       "round_wpr": {
@@ -37704,7 +37704,7 @@
     "id": 510366,
     "first_name": "Oryn",
     "last_name": "Keeley",
-    "squad_id": 500723,
+    "squad_id": 500021,
     "cost": 350000,
     "status": "uncertain",
     "stats": {
@@ -37811,8 +37811,8 @@
       3
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500723,
+    "transfer_round": 19,
     "is_bye": 0,
     "locked": 0
   },
@@ -45334,7 +45334,7 @@
     "id": 100011335,
     "first_name": "Luke",
     "last_name": "Laulilii",
-    "squad_id": 500023,
+    "squad_id": 500032,
     "cost": 439000,
     "status": "uncertain",
     "stats": {
@@ -45440,8 +45440,8 @@
       6
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500023,
+    "transfer_round": 19,
     "is_bye": 0,
     "locked": 0
   },
@@ -48000,7 +48000,7 @@
     "last_name": "Vaalepu",
     "squad_id": 500021,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -48804,7 +48804,7 @@
     "last_name": "Te Kura",
     "squad_id": 500011,
     "cost": 250000,
-    "status": "uncertain",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 250000,
@@ -49426,7 +49426,7 @@
     "id": 507765,
     "first_name": "Junior",
     "last_name": "Tupou",
-    "squad_id": 500001,
+    "squad_id": 500023,
     "cost": 237000,
     "status": "uncertain",
     "stats": {
@@ -49524,8 +49524,8 @@
       6
     ],
     "original_positions": [],
-    "original_squad_id": 0,
-    "transfer_round": 0,
+    "original_squad_id": 500001,
+    "transfer_round": 19,
     "is_bye": 0,
     "locked": 0
   },
