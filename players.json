@@ -11175,7 +11175,7 @@
         "res": 0.08
       },
       "owned_by": 0.47,
-      "adp": 101,
+      "adp": 100,
       "proj_avg": 44.8,
       "wpr": 50.1202,
       "round_wpr": {
@@ -13115,7 +13115,7 @@
         "res": 0.38
       },
       "owned_by": 4.13,
-      "adp": 100,
+      "adp": 101,
       "proj_avg": 43.4,
       "wpr": 48.5194,
       "round_wpr": {
@@ -28222,7 +28222,7 @@
         "res": 0.03
       },
       "owned_by": 0.09,
-      "adp": 262,
+      "adp": 261,
       "proj_avg": 35.1,
       "wpr": 27.6398,
       "round_wpr": {
@@ -31423,7 +31423,7 @@
         "res": 0.38
       },
       "owned_by": 1.72,
-      "adp": 261,
+      "adp": 262,
       "proj_avg": 33.4,
       "wpr": 32.0195,
       "round_wpr": {
@@ -45336,7 +45336,7 @@
     "last_name": "Laulilii",
     "squad_id": 500032,
     "cost": 439000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -46780,7 +46780,7 @@
     "last_name": "Mason",
     "squad_id": 500023,
     "cost": 282000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53207,7 +53207,7 @@
     "last_name": "Madden",
     "squad_id": 500023,
     "cost": 440000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -60754,7 +60754,7 @@
     "last_name": "Tafua",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
