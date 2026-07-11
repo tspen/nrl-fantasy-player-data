@@ -13953,7 +13953,7 @@
     "last_name": "Mamouzelos",
     "squad_id": 500005,
     "cost": 376000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 540000,
@@ -14680,7 +14680,7 @@
         "res": 0.25
       },
       "owned_by": 2.27,
-      "adp": 117,
+      "adp": 118,
       "proj_avg": 41.8,
       "wpr": 39.4805,
       "round_wpr": {
@@ -25086,7 +25086,7 @@
         "res": 1.75
       },
       "owned_by": 42.53,
-      "adp": 118,
+      "adp": 117,
       "proj_avg": 36.7,
       "wpr": 59.4543,
       "round_wpr": {
@@ -30802,7 +30802,7 @@
     "last_name": "McCarthy",
     "squad_id": 500003,
     "cost": 350000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
@@ -34714,7 +34714,7 @@
     "last_name": "Gamble",
     "squad_id": 500003,
     "cost": 418000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 403000,
@@ -43647,7 +43647,7 @@
     "last_name": "Kosi",
     "squad_id": 500005,
     "cost": 260000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -51314,7 +51314,7 @@
     "last_name": "Berrell",
     "squad_id": 500028,
     "cost": 235000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -52542,7 +52542,7 @@
     "last_name": "Flegler",
     "squad_id": 500723,
     "cost": 362000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -54037,7 +54037,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 322000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -64498,7 +64498,7 @@
     "last_name": "Fineanganofo",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "8": 230000,
