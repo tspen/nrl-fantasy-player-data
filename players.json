@@ -9875,7 +9875,7 @@
     "last_name": "Best",
     "squad_id": 500003,
     "cost": 566000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 584000,
@@ -33589,7 +33589,7 @@
     "last_name": "McEwen",
     "squad_id": 500003,
     "cost": 509000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 412000,
@@ -36576,7 +36576,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -63868,7 +63868,7 @@
     "last_name": "Manuleleua",
     "squad_id": 500003,
     "cost": 293000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 230000,
