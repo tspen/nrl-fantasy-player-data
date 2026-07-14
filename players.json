@@ -10314,7 +10314,7 @@
     "last_name": "Hughes",
     "squad_id": 500021,
     "cost": 617000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 635000,
@@ -16350,7 +16350,7 @@
     "last_name": "Kenny",
     "squad_id": 500014,
     "cost": 429000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 521000,
@@ -23368,7 +23368,7 @@
     "last_name": "Averillo",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 481000,
@@ -35007,7 +35007,7 @@
     "last_name": "Stone",
     "squad_id": 500723,
     "cost": 357000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 406000,
@@ -40899,7 +40899,7 @@
     "last_name": "Mikaele",
     "squad_id": 500012,
     "cost": 470000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 353000,
@@ -41938,7 +41938,7 @@
     "last_name": "Colquhoun",
     "squad_id": 500028,
     "cost": 527000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 347000,
@@ -55191,6 +55191,65 @@
     ],
     "original_positions": [
       2
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
+    "id": 508502,
+    "first_name": "Gordon",
+    "last_name": "Chan Kum Tong",
+    "squad_id": 500010,
+    "cost": 280000,
+    "status": "playing",
+    "stats": {
+      "prices": {
+        "20": 280000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 285,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 23.1877,
+      "round_wpr": {
+        "20": 23.1877
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 18.9286,
+      "career_avg_vs": {
+        "500010": 33,
+        "500023": 18,
+        "500723": 6,
+        "500011": 16,
+        "500021": 18,
+        "500014": 17,
+        "500003": 21,
+        "500004": 10,
+        "500001": 31,
+        "500013": 15,
+        "500032": 12
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
     ],
     "original_squad_id": 0,
     "transfer_round": 0,
