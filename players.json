@@ -9511,7 +9511,7 @@
     "last_name": "Paulo",
     "squad_id": 500031,
     "cost": 469000,
-    "status": "not-playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 593000,
@@ -13180,7 +13180,7 @@
     "last_name": "Doueihi",
     "squad_id": 500023,
     "cost": 677000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 557000,
@@ -49152,7 +49152,7 @@
     "last_name": "Mason",
     "squad_id": 500023,
     "cost": 282000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -55891,7 +55891,7 @@
     "last_name": "Madden",
     "squad_id": 500023,
     "cost": 440000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 350000,
