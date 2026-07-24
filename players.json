@@ -64789,6 +64789,55 @@
     "locked": 0
   },
   {
+    "id": 100011235,
+    "first_name": "Connor",
+    "last_name": "Votano",
+    "squad_id": 500003,
+    "cost": 250000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "21": 250000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 285,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 20.6259,
+      "round_wpr": {
+        "21": 20.6259
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 5,
+      "career_avg_vs": {
+        "500012": 5
+      },
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      6
+    ],
+    "original_positions": [
+      6
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
+  },
+  {
     "id": 100011237,
     "first_name": "Michael",
     "last_name": "Gabrael",
