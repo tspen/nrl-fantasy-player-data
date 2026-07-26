@@ -11562,7 +11562,7 @@
         "res": 0.41
       },
       "owned_by": 2.02,
-      "adp": 98,
+      "adp": 97,
       "proj_avg": 44.9,
       "wpr": 28.0229,
       "round_wpr": {
@@ -14042,7 +14042,7 @@
         "res": 0.28
       },
       "owned_by": 4.54,
-      "adp": 97,
+      "adp": 98,
       "proj_avg": 43.3,
       "wpr": 42.6014,
       "round_wpr": {
@@ -27727,7 +27727,7 @@
     "last_name": "Suli",
     "squad_id": 500022,
     "cost": 383000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 462000,
@@ -30797,7 +30797,7 @@
     "last_name": "Guler",
     "squad_id": 500022,
     "cost": 390000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 440000,
@@ -62069,7 +62069,7 @@
     "last_name": "Christensen",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "6": 230000,
