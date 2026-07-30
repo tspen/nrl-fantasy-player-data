@@ -21307,7 +21307,7 @@
         "res": 0.62
       },
       "owned_by": 4.33,
-      "adp": 128,
+      "adp": 129,
       "proj_avg": 39.3,
       "wpr": 40.3056,
       "round_wpr": {
@@ -63522,7 +63522,7 @@
         "res": 5.45
       },
       "owned_by": 37.34,
-      "adp": 129,
+      "adp": 128,
       "proj_avg": 0,
       "wpr": 60.2812,
       "round_wpr": {
@@ -64401,6 +64401,53 @@
     "transfer_round": 0,
     "is_bye": 0,
     "locked": 1
+  },
+  {
+    "id": 100008774,
+    "first_name": "Jai",
+    "last_name": "Bowden",
+    "squad_id": 500021,
+    "cost": 230000,
+    "status": "uncertain",
+    "stats": {
+      "prices": {
+        "22": 230000
+      },
+      "scores": {},
+      "ranks": {},
+      "season_rank": 0,
+      "games_played": 0,
+      "total_points": 0,
+      "avg_points": 0,
+      "high_score": 0,
+      "low_score": 0,
+      "last_3_avg": 0,
+      "last_5_avg": 0,
+      "selections": 0,
+      "selections_info": {},
+      "owned_by": 0,
+      "adp": 0,
+      "proj_avg": 0,
+      "wpr": 18.9379,
+      "round_wpr": {
+        "22": 18.9379
+      },
+      "rd_tog": "",
+      "tog": 0,
+      "career_avg": 0,
+      "career_avg_vs": {},
+      "last_3_proj_avg": 0
+    },
+    "positions": [
+      1
+    ],
+    "original_positions": [
+      1
+    ],
+    "original_squad_id": 0,
+    "transfer_round": 0,
+    "is_bye": 0,
+    "locked": 0
   },
   {
     "id": 100008787,
