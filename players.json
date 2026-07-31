@@ -1956,7 +1956,7 @@
     "last_name": "Katoa",
     "squad_id": 500723,
     "cost": 613000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 706000,
@@ -24632,7 +24632,7 @@
     "last_name": "Averillo",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -25310,7 +25310,7 @@
     "last_name": "Feagai",
     "squad_id": 500022,
     "cost": 348000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 477000,
@@ -31372,7 +31372,7 @@
     "last_name": "Guler",
     "squad_id": 500022,
     "cost": 390000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 440000,
