@@ -14523,7 +14523,7 @@
     "last_name": "Duncan",
     "squad_id": 500005,
     "cost": 683000,
-    "status": "reserve",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 551000,
@@ -21179,7 +21179,7 @@
     "last_name": "Hiroti",
     "squad_id": 500028,
     "cost": 401000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 500000,
@@ -31036,7 +31036,7 @@
     "last_name": "Ilias",
     "squad_id": 500004,
     "cost": 353000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 442000,
@@ -39347,7 +39347,7 @@
     "last_name": "Fletcher",
     "squad_id": 500005,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -41051,7 +41051,7 @@
     "last_name": "Stonestreet",
     "squad_id": 500028,
     "cost": 346000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 370000,
@@ -45828,7 +45828,7 @@
     "last_name": "Hamlin-Uele",
     "squad_id": 500028,
     "cost": 297000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 332000,
@@ -47114,7 +47114,7 @@
     "last_name": "Kosi",
     "squad_id": 500005,
     "cost": 260000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -50871,7 +50871,7 @@
     "last_name": "De Groot",
     "squad_id": 500004,
     "cost": 253000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -70452,7 +70452,7 @@
     "last_name": "Auloa",
     "squad_id": 500032,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "22": 230000
