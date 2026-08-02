@@ -8780,7 +8780,7 @@
     "last_name": "Aitken",
     "squad_id": 500005,
     "cost": 567000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 610000,
@@ -55413,7 +55413,7 @@
     "last_name": "Elliott",
     "squad_id": 500005,
     "cost": 449000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 538000,
@@ -58530,7 +58530,7 @@
     "last_name": "Puru",
     "squad_id": 500028,
     "cost": 322000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
