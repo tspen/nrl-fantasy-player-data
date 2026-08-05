@@ -7264,7 +7264,7 @@
     "last_name": "Bateman",
     "squad_id": 500012,
     "cost": 524000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 625000,
@@ -55386,7 +55386,7 @@
     "last_name": "Lahrs",
     "squad_id": 500012,
     "cost": 243000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -61982,7 +61982,7 @@
     "last_name": "Philitoga",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "12": 230000,
@@ -63019,7 +63019,7 @@
     "last_name": "Liu",
     "squad_id": 500004,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "2": 230000,
@@ -71096,7 +71096,7 @@
     "last_name": "Faeamani",
     "squad_id": 500004,
     "cost": 386000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
