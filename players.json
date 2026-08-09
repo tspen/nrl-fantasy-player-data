@@ -22475,7 +22475,7 @@
     "last_name": "Crossland",
     "squad_id": 500003,
     "cost": 545000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 498000,
@@ -70035,7 +70035,7 @@
     "last_name": "Black",
     "squad_id": 500013,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -71394,7 +71394,7 @@
     "last_name": "Hagan",
     "squad_id": 500003,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "23": 230000
