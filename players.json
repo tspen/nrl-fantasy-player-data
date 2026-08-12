@@ -3224,7 +3224,7 @@
     "last_name": "Tedesco",
     "squad_id": 500001,
     "cost": 590000,
-    "status": "playing",
+    "status": "injured",
     "stats": {
       "prices": {
         "1": 684000,
@@ -51287,7 +51287,7 @@
     "last_name": "Losalu",
     "squad_id": 500001,
     "cost": 241000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -53530,7 +53530,7 @@
     "last_name": "McLean",
     "squad_id": 500014,
     "cost": 250000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -58819,7 +58819,7 @@
     "last_name": "Going",
     "squad_id": 500014,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -72622,7 +72622,7 @@
     "last_name": "Bassingthwaighte",
     "squad_id": 500001,
     "cost": 230000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "15": 230000,
