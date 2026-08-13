@@ -8690,7 +8690,7 @@
     "last_name": "Edwards",
     "squad_id": 500014,
     "cost": 610000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 614000,
@@ -17104,7 +17104,7 @@
     "last_name": "Naufahu",
     "squad_id": 500723,
     "cost": 540000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 450000,
@@ -25819,7 +25819,7 @@
     "last_name": "Averillo",
     "squad_id": 500723,
     "cost": 560000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 481000,
@@ -44672,7 +44672,7 @@
     "last_name": "Cole",
     "squad_id": 500014,
     "cost": 327000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 300000,
@@ -46769,7 +46769,7 @@
     "last_name": "Navale",
     "squad_id": 500002,
     "cost": 342000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 342000,
@@ -48221,7 +48221,7 @@
     "last_name": "Ioelu",
     "squad_id": 500001,
     "cost": 353000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 327000,
@@ -50768,7 +50768,7 @@
     "last_name": "Wilson",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
@@ -73501,7 +73501,7 @@
     "last_name": "Su'a",
     "squad_id": 500723,
     "cost": 251000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 250000,
