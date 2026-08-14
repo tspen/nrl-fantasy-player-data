@@ -8551,7 +8551,7 @@
     "last_name": "De Belin",
     "squad_id": 500031,
     "cost": 300000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 614000,
@@ -10318,7 +10318,7 @@
         "res": 0.13
       },
       "owned_by": 0.76,
-      "adp": 92,
+      "adp": 91,
       "proj_avg": 46.6,
       "wpr": 35.3839,
       "round_wpr": {
@@ -15436,7 +15436,7 @@
         "res": 0.68
       },
       "owned_by": 2.86,
-      "adp": 109,
+      "adp": 108,
       "proj_avg": 43.1,
       "wpr": 37.4508,
       "round_wpr": {
@@ -17325,7 +17325,7 @@
         "res": 0.15
       },
       "owned_by": 1.86,
-      "adp": 91,
+      "adp": 92,
       "proj_avg": 41.5,
       "wpr": 44.0782,
       "round_wpr": {
@@ -23792,7 +23792,7 @@
     "last_name": "Tuilagi",
     "squad_id": 500031,
     "cost": 453000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 495000,
@@ -26226,7 +26226,7 @@
         "res": 0.22
       },
       "owned_by": 0.71,
-      "adp": 212,
+      "adp": 211,
       "proj_avg": 37.6,
       "wpr": 34.5059,
       "round_wpr": {
@@ -27176,7 +27176,7 @@
     "last_name": "Smith",
     "squad_id": 500031,
     "cost": 298000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 473000,
@@ -28563,7 +28563,7 @@
         "res": 0.34
       },
       "owned_by": 1.66,
-      "adp": 211,
+      "adp": 212,
       "proj_avg": 36.6,
       "wpr": 27.8117,
       "round_wpr": {
@@ -29297,7 +29297,7 @@
         "res": 1.41
       },
       "owned_by": 8,
-      "adp": 108,
+      "adp": 109,
       "proj_avg": 36.4,
       "wpr": 46.9695,
       "round_wpr": {
@@ -63125,7 +63125,7 @@
     "last_name": "Sutton",
     "squad_id": 500012,
     "cost": 375000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -68152,7 +68152,7 @@
     "last_name": "Kira",
     "squad_id": 500012,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -71568,7 +71568,7 @@
     "last_name": "Pouniu",
     "squad_id": 500723,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
@@ -72440,7 +72440,7 @@
     "last_name": "Large",
     "squad_id": 500002,
     "cost": 230000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 230000,
