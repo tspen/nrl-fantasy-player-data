@@ -19958,7 +19958,7 @@
     "last_name": "Garner",
     "squad_id": 500014,
     "cost": 420000,
-    "status": "reserve",
+    "status": "playing",
     "stats": {
       "prices": {
         "1": 510000,
@@ -35163,7 +35163,7 @@
     "last_name": "Talagi",
     "squad_id": 500014,
     "cost": 415000,
-    "status": "playing",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "1": 435000,
@@ -75128,7 +75128,7 @@
     "last_name": "Watson",
     "squad_id": 500021,
     "cost": 316000,
-    "status": "reserve",
+    "status": "not-playing",
     "stats": {
       "prices": {
         "19": 230000,
